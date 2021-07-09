@@ -1,2 +1,103 @@
 # Verdieping
 
+## Waarom (samenwerken aan) een itembank?
+
+### Waarom een itembank?
+
+### Waarom samenwerken aan een itembank?
+
+### Kansrijke vakgebieden voor een succesvolle samenwerking
+
+## Technologie: Systemen
+
+### Veel gebruikte toetssystemen voor onderwijs
+
+### Toetsitems uitwisselen tussen systemen
+
+#### QTI-standaard
+
+#### LTI en SCORM standaard
+
+### Veiligheid en schaalbaarheid van itembanken
+
+## Omvang van de itembank
+
+### Summatieve toetsen met een gelijktijdig toetsmoment voor alle studenten
+
+### Summatieve toetsen die op elk moment kunnen worden afgenomen
+
+### Formatieve diagnostische toetsen
+
+### Formatieve oefentoetsen
+
+## Kosten en baten
+
+### Kosten
+
+### Baten
+
+## Organisatie: processtappen, rollen en rechten
+
+### Componenten en processtappen
+
+### Rollen en rechten
+
+### Geautomatiseerde workflow
+
+## De ordening van een itembank
+
+### Metadata
+
+### Structuur
+
+### Structuur en metadata gebruiken
+
+### Feedback en vraagtypes
+
+#### Feedback
+
+#### Vraagtypes
+
+## Didactiek: kwaliteit van items
+
+### Kwaliteit van items
+
+### Hoe realiseer je een kwaliteitsverbetering?
+
+#### Voorlichting en training
+
+#### Gecontroleerde itemontwikkeling door review
+
+#### Itembankonderhoud en beheer
+
+### Toetsgegevens
+
+#### Beschrijvende data
+
+#### Psychometrische data
+
+## Juridische aandachtspunten
+
+### Eigendom items en itembank
+
+### Misbruik van itembankmateriaal
+
+### Het gebruik van materiaal van andere partijen in itembanken
+
+#### Linken mag altijd
+
+#### Licentie voor hergebruik
+
+#### Het citaatrecht biedt veel mogelijkheden
+
+#### Afbeelding of audiovisueel werk uit de eigen bibliotheek
+
+#### Complete audio(visuele) werken
+
+#### Delen van audio(visuele) werken
+
+#### Bronvermelding
+
+### Bescherming persoonsgegevens
+
+### Rechtsvormen voor samenwerkingsverbanden
