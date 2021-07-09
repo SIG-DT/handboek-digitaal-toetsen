@@ -1,5 +1,5 @@
 --- 
-title: "Handboek in 5 stappen naar een itembank"
+title: "Handboek: In 5 stappen naar een itembank"
 author: ["Lijst", ", Aanvullen"]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,7 +8,7 @@ documentclass: book
 # bibliography: [book.bib, packages.bib]
 # biblio-style: apalike
 # link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: Werkgroep-Toetsen-Op-Afstand/Handboek-Itembanken
 description: ""
 always_allow_html: true
 ---
