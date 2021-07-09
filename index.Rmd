@@ -1,0 +1,36 @@
+--- 
+title: "Handboek in 5 stappen naar een itembank"
+author: ["Lijst", ", Aanvullen"]
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: ""
+always_allow_html: true
+---
+
+# Introductie
+
+## Inleiding 
+
+### Voor wie is deze uitgave? 
+
+### Scope 
+
+### Verantwoording
+
+## Definities en begrippen
+
+### Wat is een itembank?
+
+### De plek van een itembank binnen het digitale toetssysteem
+
+### Belangrijkebegrippen
+
+## In 5 stappen naar een itembank
+
+## Succesfactoren
