@@ -88,7 +88,9 @@ Sommige softwarepakketten bevatten een analysetool voor **toetsanalyse**, maar a
 **Toetskwaliteit**: Het geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie neemt bijvoorbeeld toe als er inzicht is in de wijze waarop items worden gemaakt.  
 Betrouwbaarheid neemt bijvoorbeeld toe als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid. Validiteit neemt toe als de items beter en vollediger de beoogde kennis of vaardigheid meten.  
 
-{!tip} **Samenwerkingsverbanden**  
+::: {.tip} 
+
+**Samenwerkingsverbanden**  
 In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:  
 
 **deKennistoetsenbank MBO**  
@@ -100,8 +102,10 @@ De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument o
 **10voordeleraar**  
 Het programma 10voordeLeraar is onder regie van de Vereniging Hogescholen ontwikkeld en biedt landelijke kennisbases, verplichte kennistoetsen en een peer-review-systematiek voor alle lerarenopleidingen. <https://www.10voordeleraar.nl>  
 
-**Sharestats**
-Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling leermaterialen over statistiek te bieden. Door meta-datering van het leermateriaal kunnen docenten uit de vakcommunity naar behoefte een selectie van statistiekopgaven kiezen en gebruiken in het eigen onderwijs. De vijf partners van het projectteam (UvA Psychologie en Pedagogische en Onderwijswetenschappen, VU Sociale Wetenschappen (FSW), VU Gedrags- en Bewegingswetenschappen (FGB), UU Sociale Wetenschappen en EUR Psychologie/Pedagogiek) vormen de kern van de vakcommunity. <https://www.sharestats.nl>   
+**[Sharestats](https://www.sharestats.nl)**
+Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling leermaterialen over statistiek te bieden. Door meta-datering van het leermateriaal kunnen docenten uit de vakcommunity naar behoefte een selectie van statistiekopgaven kiezen en gebruiken in het eigen onderwijs. De vijf partners van het projectteam (UvA Psychologie en Pedagogische en Onderwijswetenschappen, VU Sociale Wetenschappen (FSW), VU Gedrags- en Bewegingswetenschappen (FGB), UU Sociale Wetenschappen en EUR Psychologie/Pedagogiek) vormen de kern van de vakcommunity.  
+
+:::
 
 ## In 5 stappen naar een itembank
 In de praktijk ontstaan itembanken soms zonder bewust plan. Een uitprobeersel op kleine schaal groeit uit tot iets omvangrijks. Een dergelijke aanpak brengt het risico met zich mee dat de itembankontwikkeling in een later stadium stagneert, bijvoorbeeld door tijdgebrek of personele wisselingen. Het advies in deze is ‘bezint eer ge begint’. Werk volgens beheerste stappen. Te snel gaan heeft mogelijk later consequenties voor het draagvlak of kan zelfs het project doen mislukken.  
@@ -110,8 +114,12 @@ Wij onderscheiden vijf stappen voor het ontwikkelen en gebruiken van een itemban
 
 Deel 2 van het handboek, het Stappenplan, neemt je mee door de verschillende stappen. Soms heb je daarvoor theoretische kennis nodig. Daarom verwijzen we regelmatig naar deel 3 van het handboek, de Verdieping. Dit deel bevat meer achtergrondinformatie voor het opzetten van een itembank.  
 
-{!tip} **Tip**  
+::: {.tip}
+
+**Tip**  
 Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfactoren voor het ontwikkelen, beheren en gebruiken van een itembank uit hoofdstuk 4 bij de hand.  
+
+:::
 
 **Stappenplan**  
 

@@ -13,7 +13,7 @@ pre code {
   white-space: inherit;
 }
 
-h1, h2, h3 { color: #9E8E67;}
+h1, h2, h3, h4 { color: #9E8E67;}
 
 a:link    { color: #9E8E67 !important; }
 a:visited { color: #9E8E67 !important; }
@@ -41,3 +41,5 @@ a:active  { color: #9E8E67 !important; }
 // #header p { display:none;}
 
 #header p { display: inline-flex; color: #fff; }
+
+.tip { color: red; }
