@@ -114,31 +114,31 @@ Deel 2 van het handboek, het Stappenplan, neemt je mee door de verschillende sta
 Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfactoren voor het ontwikkelen, beheren en gebruiken van een itembank uit hoofdstuk 4 bij de hand.  
 
 **Stappenplan**  
+
 1. Voorbereiding  
-* Formuleer het doel en onderzoek de haalbaarheid van de itembank.  
-* Oriënteer je op toetssystemen en uitwisselbaarheid.  
-* Verdiep je in omvang en vraagreproductie.  
-* Maak een eerste kosten- en batenanalyse.  
-2. Plan  
-Maak een plan van aanpak, waarin je beschrijft:  
-* het doel;  
-* het resultaat (wat hebben we als we klaar zijn?);  
-* hoe je denkt dit te realiseren.  
+    + Formuleer het doel en onderzoek de haalbaarheid van de itembank.  
+    + Oriënteer je op toetssystemen en uitwisselbaarheid.  
+    + Verdiep je in omvang en vraagreproductie.  
+    + Maak een eerste kosten- en batenanalyse.  
+2. Plan  <br>Maak een plan van aanpak, waarin je beschrijft:  
+    * het doel;  
+    * het resultaat (wat hebben we als we klaar zijn?);  
+    * hoe je denkt dit te realiseren.  
 3. Ontwerp
-* Orden de vragen.  
-* Organiseer de processtappen en bepaal rollen en rechten.  
-* Stel kwaliteitseisen vast en check of het systeem hieraan voldoet.  
-* Kies een toetssysteem.  
-* Leg afspraken over omvang en vraagproductie vast.  
-* Regel de financiën.  
-* Zorg voor een juridische verankering van het project.  
-* Organiseer het beheer van de itembank.  
+    * Orden de vragen.  
+    * Organiseer de processtappen en bepaal rollen en rechten.
+    * Stel kwaliteitseisen vast en check of het systeem hieraan voldoet.  
+    * Kies een toetssysteem.  
+    * Leg afspraken over omvang en vraagproductie vast.  
+    * Regel de financiën.  
+    * Zorg voor een juridische verankering van het project.  
+    * Organiseer het beheer van de itembank.  
 4. Pilot  
-* Ontwikkel de items.  
-* Richt de itembank in en probeer uit.  
-5. Realisatie
-* Neem de itembank in gebruik.  
-* Zorg voor een toekomstbestendige itembank.  
+    * Ontwikkel de items.  
+    * Richt de itembank in en probeer uit.  
+5. Realisatie  
+    * Neem de itembank in gebruik.  
+    * Zorg voor een toekomstbestendige itembank.  
 
 ## Succesfactoren  
 Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande succesfactoren leveren een belangrijke bijdrage aan de levensvatbaarheid van een itembank. Neem ze in acht, ook bij een relatief eenvoudige samenwerking. Deze factoren lopen als een rode draad door het handboek. 
