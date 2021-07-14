@@ -16,14 +16,15 @@ always_allow_html: true
 # Introductie
 
 ## Inleiding 
-Digitale itembanken zijn een prachtige tool om de kwaliteit van toetsen te laten toenemen en de kosten te laten dalen. Wie gezamenlijk toetsvragen ontwikkelt, stemt doelen en processen af. Er is meer expertise en tijd beschikbaar per item (toetsvraag) voor ontwikkeling en kwaliteitscontrole. Dit alles komt de kwaliteit van de toetsen ten goede. Hergebruik van items kan de kosten doen dalen.  
+Digitale itembanken zijn een prachtige tool om de kwaliteit van toetsen te laten toenemen en de kosten te laten dalen. Wie gezamenlijk toetsvragen ontwikkelt, stemt doelen en processen af. Er is meer expertise en tijd beschikbaar per item (toetsvraag) voor ontwikkeling en kwaliteitscontrole. Dit alles komt de kwaliteit van de toetsen ten goede. Hergebruik van items kan de kosten doen dalen. 
 
-De coronacrisis heeft daarnaast ook laten zien dat itembanken een rol spelen in situaties waarbij het online toetsen risico’s met zich meebrengt. Met name in als toetsvragen gaan uitlekken of dat studenten ongeoorloofd samenwerken tijdens het maken van de toets. Itembanken bieden de mogelijkheid om deze risico’s te verminderen.  
+De coronacrisis heeft daarnaast ook laten zien dat itembanken een rol spelen in situaties waarbij het online toetsen risico’s met zich meebrengt. Met name in als toetsvragen gaan uitlekken of dat studenten ongeoorloofd samenwerken tijdens het maken van de toets. Itembanken bieden de mogelijkheid om deze risico’s te verminderen. 
 
-Het ontwikkelen, beheren en onderhouden van itembanken vraagt om goed project- management. Met deze uitgave willen we laten zien hoe je een digitaal systeem opzet om items uit te wisselen met collega’s van binnen en buiten de instelling. In dit hand- boek bundelen we de kennis en kunde die instellingen, samenwerkingsverbanden van instellingen en SURF over dit onderwerp hebben opgedaan. Het helpt instellingen op weg die hun voordeel willen behalen met digitale itembanken. Het handboek bestaat uit een introductie, een stappenplan en een verdiepend deel.  
+Het ontwikkelen, beheren en onderhouden van itembanken vraagt om goed project- management. Met deze uitgave willen we laten zien hoe je een digitaal systeem opzet om items uit te wisselen met collega’s van binnen en buiten de instelling. In dit hand- boek bundelen we de kennis en kunde die instellingen, samenwerkingsverbanden van instellingen en SURF over dit onderwerp hebben opgedaan. Het helpt instellingen op weg die hun voordeel willen behalen met digitale itembanken. Het handboek bestaat uit een introductie, een stappenplan en een verdiepend deel. 
 
 ### Voor wie is deze uitgave? 
 Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items.   Bijvoorbeeld:  
+
 * Docenten die items beter willen ordenen of willen ontwikkelen en uitwisselen met een collega 
 * Onderwijsadviseur die docenten ondersteunt of die trekker is van het inrichten van een itembank 
 * Een samenwerkingsverband dat gezamenlijk toetsmateriaal wil uitwisselen of gezamenlijk toetsen wil uitzetten 
