@@ -5,6 +5,8 @@ scope
 verantwoording
 definities-en-begrippen
 wat-is-een-itembank
+definitie
+nice-to-know
 de-plek-van-een-itembank-binnen-het-digitale-toetssysteem
 belangrijke-begrippen
 in-5-stappen-naar-een-itembank

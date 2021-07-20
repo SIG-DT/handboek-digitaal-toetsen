@@ -49,20 +49,29 @@ Voor het gebruik van dit handboek is een goed begrip van een aantal termen essen
 ### Wat is een itembank?
 Een itembank is een verzameling van items ofwel vragen (in het vervolg van dit handboek noemen we ze items). Een itembanksysteem is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan meerdere itembanken bevatten. Als wij in dit werkboek spreken over itembank bedoelen we het itembanksysteem (de digitale itembank).  
 
-{#tip} **Definitie** 
+::: {.tip}
+
+#### Definitie
 Een **itembank** is een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een hiërarchische structuur.  
 Een **itembanksysteem** is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan verscheidene itembanken bevatten.  
 
+:::
+
 In de itembank worden de vragen logisch ingedeeld. Er vindt versiebeheer plaats en er kunnen allerlei metadata worden opgeslagen over de inhoud, het vraagtype, het niveauen over andere kenmerken. Je kunt er ook psychometrische gegevens in opslaan, zoals de moeilijkheidsgraad en het discriminerend vermogen van items. Soms draaien de programma’s van een itembanksysteem lokaal op een computer. Andere itembanken bestaan uit internetomgevingen. De database en de applicatie worden vanuit de cloud benaderd. Verschillende mensen kunnen tegelijkertijd werken in zo’n cloudsysteem.  
 
-{#tip} **Nice to know**  
+::: {.tip}
+
+#### **Nice to know**  
 **Waarom worden 'toetsvragen' door toetsdeskundigen eigenlijk vaak items genoemd?**  
 In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. 'Test questions' werd 'Test items'. In Nederland hebben we dit woordgebruik overgenomen en 'vernederlandst' naar 'ietums' in plaats van 'aitums'.  
+
+:::
 
 ### De plek van een itembank binnen het digitale toetssysteem
 Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur 1 is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.  
 
-**![Figuur 1](Images/Cyclus.png)**: Componenten van digitale toetssystemen afgebeeld op de toetscyclus.  
+**![Figuur 1](Images/Cyclus.png)**  
+**Figuur 1**: Componenten van digitale toetssystemen afgebeeld op de toetscyclus.  
 
 De *itembank* vormt de centrale component waarin de items worden opgeslagen. De bewerking en het afspelen van de items vindt plaats in andere systemen, die vervolgens de resultaten teruggeven aan de itembank. Bij de volgende onderdelen van de toetscyclus speelt de itembank een rol:  
 
@@ -85,22 +94,21 @@ Sommige softwarepakketten bevatten een analysetool voor **toetsanalyse**, maar a
 
 **Summatief  toetsen**:  Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score wordt gebruikt voor formele toekenning van een behaald studieresultaat, zoals studiepunten of een diploma.  
 
-**Toetskwaliteit**: Het geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie neemt bijvoorbeeld toe als er inzicht is in de wijze waarop items worden gemaakt.  
-Betrouwbaarheid neemt bijvoorbeeld toe als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid. Validiteit neemt toe als de items beter en vollediger de beoogde kennis of vaardigheid meten.  
+**Toetskwaliteit**: Het geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie neemt bijvoorbeeld toe als er inzicht is in de wijze waarop items worden gemaakt. Betrouwbaarheid neemt bijvoorbeeld toe als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid. Validiteit neemt toe als de items beter en vollediger de beoogde kennis of vaardigheid meten.  
 
 ::: {.tip} 
 
 **Samenwerkingsverbanden**  
 In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:  
 
-**deKennistoetsenbank MBO**  
-Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente). <https://www.provetomove.nl/dekennistoetsenbank>  
+**[deKennistoetsenbank MBO](https://www.provetomove.nl/dekennistoetsenbank)**  
+Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).   
 
-**IVTG**
-De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's. <https://www.ivtg.nl>  
+**[IVTG](https://www.ivtg.nl)**
+De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's.
 
-**10voordeleraar**  
-Het programma 10voordeLeraar is onder regie van de Vereniging Hogescholen ontwikkeld en biedt landelijke kennisbases, verplichte kennistoetsen en een peer-review-systematiek voor alle lerarenopleidingen. <https://www.10voordeleraar.nl>  
+**[10voordeleraar](https://www.10voordeleraar.nl)**  
+Het programma 10voordeLeraar is onder regie van de Vereniging Hogescholen ontwikkeld en biedt landelijke kennisbases, verplichte kennistoetsen en een peer-review-systematiek voor alle lerarenopleidingen. 
 
 **[Sharestats](https://www.sharestats.nl)**  
 Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling leermaterialen over statistiek te bieden. Door meta-datering van het leermateriaal kunnen docenten uit de vakcommunity naar behoefte een selectie van statistiekopgaven kiezen en gebruiken in het eigen onderwijs. De vijf partners van het projectteam (UvA Psychologie en Pedagogische en Onderwijswetenschappen, VU Sociale Wetenschappen (FSW), VU Gedrags- en Bewegingswetenschappen (FGB), UU Sociale Wetenschappen en EUR Psychologie/Pedagogiek) vormen de kern van de vakcommunity.  
@@ -158,9 +166,9 @@ Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande 
 5. Wees reëel en manage verwachtingen: de ideale itembank ontstaat niet in één dag en misschien zelfs wel helemaal nooit. De ideale inrichting kun je niet vanachter je bureau bedenken. Durf dingen uit te proberen. 
 6. Kijk om je heen, er is al veel ontwikkeld. Vind het wiel niet opnieuw uit. Betrek deskundigen. 
 7. Draagvlak is essentieel. 
-* Docenten die elkaar kennen en vertrouwen en die het doel van de itembank delen, zijn een randvoorwaarde voor succes; steek energie in het leren kennen van elkaar.
-* Zorg voor goede begeleiding en ondersteuning van docenten. 
-* Het bestaan van een netwerk van mensen die al samenwerken en kennis uitwisselen vergroot de kans op succes aanzienlijk. 
+    * Docenten die elkaar kennen en vertrouwen en die het doel van de itembank delen, zijn een randvoorwaarde voor succes; steek energie in het leren kennen van elkaar.
+    * Zorg voor goede begeleiding en ondersteuning van docenten. 
+    * Het bestaan van een netwerk van mensen die al samenwerken en kennis uitwisselen vergroot de kans op succes aanzienlijk. 
 8. Begin klein met de itembank en probeer verschillende inrichtingen en metadatamogelijkheden uit. Blijf aanpassen totdat de juiste inrichting en werkwijze is gevonden. Houd het eenvoudig en dicht bij de dagelijkse praktijk. 
 9. Onderschat de aard en omvang van de werkzaamheden en/of het project niet. Het is moeilijke materie om te doorgronden. Gedrag en werkwijzen van mensen veranderen gaat niet vanzelf. 
 10. Wees je bewust van technische beperkingen als je over instellingsgrenzen heen aan een itembank werkt. 
