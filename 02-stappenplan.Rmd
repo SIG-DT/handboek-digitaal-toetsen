@@ -208,7 +208,7 @@ De pilot heeft een aantal lessen opgeleverd. Op basis hiervan kun je grootschali
 
 * Zorg dat de eigenaar van de itembank zich blijft bezig houden het volgen en bewaken van de doelstellingen en resultaten.
 * Bespreek de borging regelmatig met de eigenaar van de itembank. Maken de itemontwikkelaars voldoende items? Zijn de items van goede kwaliteit? Hoe kun je zorgen voor zo min mogelijk variatie in kwaliteit? Is iedereen tevreden met het proces? Kan de docent gemakkelijk toetsen samenstellen? Vinden studenten de ontwikkelde formatieve items en feedback aantrekkelijk?
-* Ga na of de businesscase haalbaar blijft. *(Zie ook H16.)*
+* Ga na of de businesscase haalbaar blijft. *(Zie ook H16)*
 
 ### Nazorg
 De itembank is geïmplementeerd. Het proces is in werking, iedereen vervult zijn taak en gebruikt de itembank op de afgesproken manier. Er is een formele eigenaar die het doel van de itembank in de gaten houdt. De itembank heeft een plek gekregen in de organisatie: er zijn mensen die ervoor zorgen dat de itembank blijft bestaan en goed wordt gebruikt. De onderwijskundig meerwaarde is duidelijk voor nu en in de toekomst.
