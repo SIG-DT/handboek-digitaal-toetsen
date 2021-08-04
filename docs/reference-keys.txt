@@ -14,6 +14,7 @@ succesfactoren
 stappenplan
 stap-1-voorbereiding
 haalbaarheidsonderzoek
+afronding-voorbereidingsstap
 stap-2-plan-van-aanpak
 stap-3-ontwerp
 ordening-van-items
