@@ -23,7 +23,7 @@ De coronacrisis heeft daarnaast ook laten zien dat itembanken een rol spelen in 
 Het ontwikkelen, beheren en onderhouden van itembanken vraagt om goed project- management. Met deze uitgave willen we laten zien hoe je een digitaal systeem opzet om items uit te wisselen met collega’s van binnen en buiten de instelling. In dit hand- boek bundelen we de kennis en kunde die instellingen, samenwerkingsverbanden van instellingen en SURF over dit onderwerp hebben opgedaan. Het helpt instellingen op weg die hun voordeel willen behalen met digitale itembanken. Het handboek bestaat uit een introductie, een stappenplan en een verdiepend deel. 
 
 ### Voor wie is deze uitgave? 
-Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items.   Bijvoorbeeld:  
+Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items. Bijvoorbeeld:  
 
 * Docenten die items beter willen ordenen of willen ontwikkelen en uitwisselen met een collega 
 * Onderwijsadviseur die docenten ondersteunt of die trekker is van het inrichten van een itembank 
@@ -70,7 +70,7 @@ In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde to
 ### De plek van een itembank binnen het digitale toetssysteem
 Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur 1 is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.  
 
-**![Figuur 1](Images/Cyclus.png)**  
+**![Figuur 1](Images/ToetsCyclus.svg)**  
 **Figuur 1**: Componenten van digitale toetssystemen afgebeeld op de toetscyclus.  
 
 De *itembank* vormt de centrale component waarin de items worden opgeslagen. De bewerking en het afspelen van de items vindt plaats in andere systemen, die vervolgens de resultaten teruggeven aan de itembank. Bij de volgende onderdelen van de toetscyclus speelt de itembank een rol:  
