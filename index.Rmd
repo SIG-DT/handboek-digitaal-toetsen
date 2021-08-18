@@ -61,7 +61,8 @@ In de itembank worden de vragen logisch ingedeeld. Er vindt versiebeheer plaats 
 
 ::: {.tip}
 
-#### **Nice to know**  
+#### **Nice to know**
+
 **Waarom worden 'toetsvragen' door toetsdeskundigen eigenlijk vaak items genoemd?**  
 In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. 'Test questions' werd 'Test items'. In Nederland hebben we dit woordgebruik overgenomen en 'vernederlandst' naar 'ietums' in plaats van 'aitums'.  
 
