@@ -1,12 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650.15 637.63">
+<svg id="tcyc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650.15 637.63">
 <defs>
 <style>
-.cls-1,.cls-3{
-  fill:#9E8E67;
-  stroke:#000;
-  stroke-miterlimit:10;
-  }
-  
 
 .cls-2{
   fill:#202020;
@@ -35,6 +29,10 @@
   animation-direction: reverse;
   stroke-dasharray: 10;
 }
+
+text {
+  font-size: 1.4em;
+}
   
 </style>
 </defs>
@@ -43,20 +41,20 @@
 <text class="text1" text-anchor="middle" dy=".4em" x="325.07" y="75.5">ontwerpen</text>
 <circle class="cls-1" cx="523.54" cy="172.93" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="523.54" y="172.93">AUTEURS
-<tspan x="523.54" y="162.93">construeren</tspan>
-<tspan x="523.54" y="197.93">OMGEVING</tspan>
+<tspan x="523.54" y="157.93">construeren</tspan>
+<tspan x="523.54" y="207.93">OMGEVING</tspan>
 </text>
 <circle class="cls-1" cx="574.65" cy="388.43" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="574.65" y="388.43">AFSPEEL
-<tspan x="574.65" y="378.43">afnamen</tspan>
-<tspan x="574.65" y="412.43">OMGEVING</tspan>
+<tspan x="574.65" y="373.43">afnamen</tspan>
+<tspan x="574.65" y="422.43">OMGEVING</tspan>
 </text>
 <circle class="cls-1" cx="436.82" cy="562.13" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="436.82" y="562.13">nakijken</text>
 <circle class="cls-1" cx="214.32" cy="562.13" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="214.32" y="562.13">ANALYSE-
-<tspan x="214.32" y="552.13">analyseren</tspan>
-<tspan x="214.32" y="587.13">TOOL</tspan>
+<tspan x="214.32" y="548.13">analyseren</tspan>
+<tspan x="214.32" y="597.13">TOOL</tspan>
 </text>
 <circle class="cls-1" cx="75.5" cy="388.43" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="75.5" y="388.43">rapporteren</text>
@@ -64,8 +62,8 @@
 <text class="text1" text-anchor="middle" dy=".4em" x="131.06" y="172.93">evalueren</text>
 <circle class="cls-1" cx="327.3" cy="313.43" r="75"/>
 <text class="text1" text-anchor="middle" dy=".4em" x="327.3" y="313.43">ITEM-
-<tspan x="327.3" y="303.43">beheer</tspan>
-<tspan x="327.3" y="338.43">BANK</tspan>
+<tspan x="327.3" y="298.43">beheer</tspan>
+<tspan x="327.3" y="348.43">BANK</tspan>
 </text>
 </g>
 <g id="arrows">

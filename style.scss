@@ -1,5 +1,6 @@
 $base-color: #9E8E67;
 
+
 p.caption {
   color: $base-color;
   margin-top: 10px;
@@ -50,3 +51,13 @@ a:active  { color: $base-color !important; }
        margin: 0 5px 10px 5px;
   }
   
+.cls-1,.cls-3{
+  fill:$base-color;
+  stroke:#000;
+  stroke-miterlimit:10;
+  }
+
+#tcyc {
+  width: 60%;
+}
+
