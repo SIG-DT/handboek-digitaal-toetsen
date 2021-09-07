@@ -51,7 +51,7 @@ Een itembank is een verzameling van items ofwel vragen (in het vervolg van dit h
 
 ::: {.tip}
 
-#### Definitie
+**Definitie**
 Een **itembank** is een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een hiërarchische structuur.  
 Een **itembanksysteem** is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan verscheidene itembanken bevatten.  
 
@@ -159,6 +159,8 @@ Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfa
 ## Succesfactoren  
 Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande succesfactoren leveren een belangrijke bijdrage aan de levensvatbaarheid van een itembank. Neem ze in acht, ook bij een relatief eenvoudige samenwerking. Deze factoren lopen als een rode draad door het handboek. 
 
+:::{.bullets_spaced}
+
 1. Bezint eer ge begint: neem de tijd bij de start, schat de haalbaarheid goed in  en vind de balans tussen een projectmatige aanpak en laten ontstaan. Kies een werkwijze die past bij jouw situatie. 
 2. Stel een opdrachtgever aan en zorg dat het eigenaarschap van begin af aan goed belegd is. Zonder een opdrachtgever of afspraken over eigenaarschap is de kans op mislukking groot. 
 3. Bepaal voor het ontwikkelen van de itembank welke stappen je wilt doorlopen en welke resultaten je per stap wilt bereiken. 
@@ -172,3 +174,5 @@ Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande 
 8. Begin klein met de itembank en probeer verschillende inrichtingen en metadatamogelijkheden uit. Blijf aanpassen totdat de juiste inrichting en werkwijze is gevonden. Houd het eenvoudig en dicht bij de dagelijkse praktijk. 
 9. Onderschat de aard en omvang van de werkzaamheden en/of het project niet. Het is moeilijke materie om te doorgronden. Gedrag en werkwijzen van mensen veranderen gaat niet vanzelf. 
 10. Wees je bewust van technische beperkingen als je over instellingsgrenzen heen aan een itembank werkt. 
+
+::::
