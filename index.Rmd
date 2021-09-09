@@ -51,7 +51,7 @@ Een itembank is een verzameling van items ofwel vragen (in het vervolg van dit h
 
 ::: {.tip}
 
-**Definitie**
+**Definitie**  
 Een **itembank** is een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een hiërarchische structuur.  
 Een **itembanksysteem** is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan verscheidene itembanken bevatten.  
 
@@ -61,7 +61,7 @@ In de itembank worden de vragen logisch ingedeeld. Er vindt versiebeheer plaats 
 
 ::: {.tip}
 
-#### Nice to know
+**Nice to know**  
 **Waarom worden 'toetsvragen' door toetsdeskundigen eigenlijk vaak items genoemd?**  
 In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. 'Test questions' werd 'Test items'. In Nederland hebben we dit woordgebruik overgenomen en 'vernederlandst' naar 'ietums' in plaats van 'aitums'.  
 
@@ -104,7 +104,7 @@ In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgend
 **[deKennistoetsenbank MBO](https://www.provetomove.nl/dekennistoetsenbank)**  
 Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).   
 
-**[IVTG](https://www.ivtg.nl)**
+**[IVTG](https://www.ivtg.nl)**  
 De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's.
 
 **[10voordeleraar](https://www.10voordeleraar.nl)**  

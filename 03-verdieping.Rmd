@@ -1,6 +1,6 @@
 # Verdieping
 
-## Samenwerken aan itembanken
+## Waarom (samenwerken aan) een itembank?
 
 Tijdens de voorbereiding leg je het doel van de itembank vast. In dit hoofdstuk beschrijven we een aantal mogelijke manieren waarop een itembank impact kan hebben op het onderwijs. We gaan ook nader in op de voordelen van samenwerken aan een itembank. Ten slotte bekijken we welke factoren binnen het vakgebied bijdragen aan een succesvol gezamenlijk itembankproject.
 
@@ -569,7 +569,7 @@ itemontwikkelproces, waarin de reviewer van een item checkt of het gebruikte bee
 
 ### Misbruik van itembankmateriaal
 
-Instellingen willen meestal voorkomen dat de items ‘op straat’ terecht komen, vooral als het summatieve items betreft. Vaak komen toetsen en items terecht op www.studeersnel.nl, www.stuvia.nl en www.knoowy.nl. Spreek de website aan op het auteursrecht. Zij zijn geen eigenaar van de items en mogen ze dus niet publiceren. Als je ze vraagt om de items te verwijderen, moeten zij hieraan gehoor geven.
+Instellingen willen meestal voorkomen dat de items ‘op straat’ terecht komen, vooral als het summatieve items betreft. Vaak komen toetsen en items terecht op https://www.studeersnel.nl, https://www.stuvia.nl en https://www.knoowy.nl. Spreek de website aan op het auteursrecht. Zij zijn geen eigenaar van de items en mogen ze dus niet publiceren. Als je ze vraagt om de items te verwijderen, moeten zij hieraan gehoor geven.
 
 ### Het gebruik van materiaal van andere partijen in itembanken
 
@@ -577,7 +577,7 @@ Je kan niet zomaar allerlei video’s en afbeeldingen van anderen overnemen in i
 
 Ga na of je instelling, of de instelling waarmee je wilt samenwerken, een regeling   heeft getroffen met Stichting Pro (Publicatie en Reproductie Organisatie). Dit orgaan monitort auteursrechten binnen het onderwijs en beschermt de bij haar aangesloten uitgeverijen. Pro controleert instellingen op het gebruik en hergebruik van publicaties van commerciële partijen. Instellingen kunnen ervoor kiezen om Stichting Pro jaarlijks een afkoopbedrag te betalen. Daardoor hoeven deze instellingen geen administratie bij te houden voor korte stukken tekst die worden overgenomen.
 
-Als je instelling géén afkoopbedrag betaalt, moet je expliciet rekening houden met auteursrecht. Soms moet je voor een overgenomen bron betalen, maar vaak ook niet. Hieronder sommen we de belangrijkste vuistregels op voor het gebruik van beeld en geluid in items. Deze informatie is ontleend aan www.auteursrechten.nl.
+Als je instelling géén afkoopbedrag betaalt, moet je expliciet rekening houden met auteursrecht. Soms moet je voor een overgenomen bron betalen, maar vaak ook niet. Hieronder sommen we de belangrijkste vuistregels op voor het gebruik van beeld en geluid in items. Deze informatie is ontleend aan https://www.auteursrechten.nl.
 
 #### Linken mag altijd
 
