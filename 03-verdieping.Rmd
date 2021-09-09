@@ -144,13 +144,11 @@ In de volgende paragrafen schetsen we scenario’s voor verschillende toetsen wa
 
 De meeste toetsen in het hoger onderwijs bestaan uit klassieke tentamens. Eén docent of team stelt een toets samen voor een groep kandidaten voor één cursus van één instelling. Alle studenten maken de toets op hetzelfde moment. Welke situatie treedt dan op?
 
-Stel dat de toetsvragen **niet** worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank van 150 items afdoende.
+| Toetsvragen vrijgegeven      | Toetsvragen niet vrijgegeven |
+| ----------- | ----------- |
+| Stel dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met 150 items. Na vijf jaar zitten er 750 items in de itembank. Instellingen leggen vaak vast in hun toetsbeleid wat wel en niet toegestaan is ten aanzien van het hergebruik van items.      | Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank van 150 items afdoende.       |
+| Stel  dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items.[@draaijer2015practical]   | Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets willekeurig gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Een itembank van honderd items is afdoende.        |
 
-Stel dat de toetsvragen **wel** worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met 150 items. Na vijf jaar zitten er 750 items in de itembank. Instellingen leggen vaak vast in hun toetsbeleid wat wel en niet toegestaan is ten aanzien van het hergebruik van items.
-
-Stel dat de toetsvragen **niet** worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets willekeurig gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Een itembank van honderd items is afdoende.
-
-Stel echter dat de toetsvragen **wel** worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items.[@draaijer2015practical]
 
 ### Summatieve toetsen die op elk moment kunnen worden afgenomen
 
