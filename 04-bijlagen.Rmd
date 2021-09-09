@@ -155,7 +155,7 @@ Een logische, vastgelegde volgorde van activiteiten die moeten worden uitgevoerd
 
 In deze bijlage beschrijven we drie praktijkvoorbeelden van workflows voor itemontwikkeling.
 
-**1. Een itemontwikkelproces door twee docenten**  
+#### Een itemontwikkelproces door twee docenten  
 Een coördinator/examinator van de faculteit Aard- en Levenswetenschappen van de Vrije Universiteit Amsterdam ontwikkelt en onderhoudt een itembank over het onderwerp Microbiologie. Elk jaar worden ongeveer 60 nieuwe items gemaakt.
 
 *    De coördinator is de itembank gestart op basis van de itembank van de uitgeverij McGrawHill: Prescott’s Microbiology. De structuur van de itembank volgt de hoofdstukken uit dat boek. Die itembank wordt door de uitgeverij geleverd in Word formaat. De docent kopieert de inhoud één voor één naar het online itembanksysteem QMLive.
@@ -169,7 +169,7 @@ Het kost de docent ongeveer een half uur om een goed item exclusief feedback te 
 
 **![Itembank workflow 1](Images/microbio.jpg)**
 
-**2. Itemontwikkelproces samenwerking tussen hogescholen**  
+#### Itemontwikkelproces samenwerking tussen hogescholen  
 Toets & Leer was een samenwerkingsverband van zes hogescholen (2012 – 2018) met itembanken voor de onderwerpen Bedrijfsadministratie/boekhouden, Bedrijfseconomie, Belas- tingrecht, Marketing, Management en Recht.
 
 De hogescholen leverden docenten voor de itemontwikkeling. Ze werkten met gesloten beurzen. Op jaarbasis leverden ze 300 per hogeschool. Het werkproces zag er als volgt uit: 
@@ -183,7 +183,7 @@ Idealiter is er een redacteur ingevoegd in het proces. Het kostte in dit geval g
 
 **![Itembank workflow 2](Images/toetsenleer.jpg)**
 
-**3. Itemontwikkelproces MBO Kennistoetsenbank**  
+#### Itemontwikkelproces MBO Kennistoetsenbank  
 
 De betrokken mbo’s leveren docenten voor de itemontwikkeling. Itemontwikkelaars worden betaald voor vier uur itemontwikkeling per week. Per itembank zijn ongeveer zes tot tien itemontwikkelaars actief. 
 

@@ -83,6 +83,9 @@ bijlage-1
 begrippenkader
 bijlage-2
 workflows-voor-itemontwikkeling
+een-itemontwikkelproces-door-twee-docenten
+itemontwikkelproces-samenwerking-tussen-hogescholen
+itemontwikkelproces-mbo-kennistoetsenbank
 colofon
 authors
 advies
