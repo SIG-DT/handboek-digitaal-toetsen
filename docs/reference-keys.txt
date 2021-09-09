@@ -81,6 +81,7 @@ rechtsvormen-voor-samenwerkingsverbanden
 bijlagen
 bijlage-1
 begrippenkader
+bijlage-2
 workflows-voor-itemontwikkeling
 colofon
 authors
