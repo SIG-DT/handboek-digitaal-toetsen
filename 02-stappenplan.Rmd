@@ -27,7 +27,7 @@ Een mogelijke tussenstap in de voorbereiding van je itembankproject is een onder
 * De beoogde omvang van de itembank. 
     * Hoeveel items zijn er al binnen de instelling die kunnen worden gebruikt? 
     * Hoeveel items heb je naar verwachting nodig? Zie ook **[H3.3](#omvang-van-de-itembank)**.
-* Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO- applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? (Zie ook H3.2) 
+* Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO- applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? Zie ook **[H3.2](#technologie-systemen)**.
 * Organisatie: is er voldoende draagvlak voor de optie(s)? Ga in gesprek met organisaties die ervaring hebben met het inrichten van itembanken. 
 * Financiën: zet per optie de kosten en baten op een rij en neem de volgende zaken in acht. 
     * Kan er voldoende tijd en geld worden vrijgemaakt voor het ontwikkelen van de itembank? 
