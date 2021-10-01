@@ -45,12 +45,18 @@ a:active  { color: $base-color !important; }
 
 #header p { display: inline-flex; color: #fff; }
 
+td {
+  vertical-align: baseline;
+}
+
 .tip { border: 2px solid $base-color;
        border-radius: 25px;
        padding: 10px 20px 0 20px;
        margin: 0 5px 10px 5px;
        background-color: rgba($base-color, .2);
   }
+  
+.tip > p > strong { color: $base-color }
   
 .cls-1,.cls-3{
   fill:$base-color;

@@ -229,6 +229,7 @@ Itembanksystemen bestaan vaak uit verschillende componenten met bijbehorende fun
 **![Figuur 2](Images/Processtappen.png)**  
 **Figuur 2**
 
+
 In figuur 2 staat een uitwerking van een aantal processtappen die binnen de verschillende componenten van een toetssysteem kunnen plaatsvinden.
 
 ### Rollen en rechten
@@ -299,9 +300,9 @@ Wat is de ordening van een itembank? Het vastleggen van wat iedereen bedoelt met
 
 Metadata zijn toegevoegde stukjes informatie aan items. Metadata van items zijn bijvoorbeeld het hoofdonderwerp van de vraag, een subonderwerp van de vraag, de status van het item (concept, ter revisie, ter redactiecontrole, goedgekeurd, afgekeurd), de moeilijkheidsgraad of het discriminerend vermogen, de soort vraag, de taxonomische aanduiding (bijvoorbeeld kennis, toepassing, inzicht), de functie van de vraag, wie het item heeft gemaakt of bewerkt en in welke toetsen het item wordt gebruikt.
 
-**![Figuur 3](Images/metadata.png)**
-
-**Figuur 3**: Een item met enkele metadatavelden ingevuld. 
+```{r, echo=FALSE, fig.cap="Een item met enkele metadatavelden ingevuld.", out.width="60%"}
+knitr::include_graphics("images/metadata.png")
+```
 
 ### Structuur
 
@@ -313,38 +314,63 @@ De structuur en metadata zijn vaak op verschillende wijzen technisch met elkaar 
 
 Enkele voorbeelden van bestaande itembankstructuren:
 
-**![Figuur 4](Images/fig4.png)**
+Het VUmc heeft een aparte itembank binnen het itembanksysteem van Questionmark Perception.
 
-**Figuur 4**: Het VUmc heeft een aparte itembank binnen het itembanksysteem van Questionmark Perception. De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum. 
+<table>
+<tr>
+<td style="width:50%">
 
-**![Figuur 5](Images/categories.jpg)**
+```{r, echo=FALSE, fig.cap="De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum.", out.width="60%"}
+knitr::include_graphics("images/fig4.png")
+```
 
-**Figuur 5**: De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale   Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad. 
+</td><td style="width:50%">
 
-**![Figuur 6](Images/iQualify.jpg)**
+```{r, echo=FALSE, fig.cap="De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale   Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad.", out.width="30%"}
+knitr::include_graphics("images/categories.jpg")
+```
 
-**Figuur 6**: DeKennistoetsenbank bevat itembanken voor gebruikers van Pedagogisch Werk (PW), Maatschap- pelijke Zorg (MZ) en Verpleegkundige en Verzorgende opleidingen MBO Zorg en Welzijn. Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.
+</td></tr></table>
 
-**![Figuur 7](Images/fig7.jpg)**
+DeKennistoetsenbank bevat itembanken voor gebruikers van Pedagogisch Werk (PW), Maatschap- pelijke Zorg (MZ) en Verpleegkundige en Verzorgende opleidingen MBO Zorg en Welzijn.
 
-**Figuur 7**: Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt.
+<table>
+<tr>
+<td style="width:50%">
 
-**![Figuur 8](Images/fig8.jpg)**
+```{r, echo=FALSE, fig.cap="Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.", out.width="25%", fig.pos='left'}
+knitr::include_graphics("images/iQualify.jpg")
+```
 
-**Figuur 8**: Indeling vragenbank LUMC. In het itembanksysteem RemindoToets heeft het Leids Universitair Medisch Centrum (LUMC) een itembank.
+</td><td style="width:50%">
 
-**![Figuur 8.1](Images/vragenbank.jpg)**
+```{r, echo=FALSE, fig.cap="Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt.", out.width="80%", fig.pos='left'}
+knitr::include_graphics("images/fig7.jpg")
+```
 
-**Figuur 8.1**: In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vind- baarheid van items voor docenten en het beheer van de vragen door docenten.
+</td></tr></table>
 
-**![Figuur 8.2](Images/categorieen.jpg)**
+Indeling vragenbank LUMC. In het itembanksysteem RemindoToets heeft het Leids Universitair Medisch Centrum (LUMC) een itembank.
 
-**Figuur 8.2**: Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.
+<table><tr><td>
 
-**![Figuur 9](Images/vragen.jpg)**
+```{r, echo=FALSE, fig.cap="In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vind- baarheid van items voor docenten en het beheer van de vragen door docenten.", out.width="30%", fig.pos='left'}
+knitr::include_graphics("images/vragenbank.jpg")
+```
 
-**Figuur 9**: Structuur van de itembank van Toets & Leer.
-Iedere itembank binnen het itembanksysteem RemindoToets van Toets & Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp > Leerdoel > Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.
+</td><td style="width:50%">
+
+```{r, echo=FALSE, fig.cap="Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.", out.width="35%", fig.pos='left'}
+knitr::include_graphics("images/categorieen.jpg")
+```
+
+</td></tr></table>
+
+Structuur van de itembank van Toets & Leer.
+
+```{r, echo=FALSE, fig.cap="Iedere itembank binnen het itembanksysteem RemindoToets van Toets & Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp > Leerdoel > Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.", out.width="30%", fig.pos='left'}
+knitr::include_graphics("images/vragen.jpg")
+```
 
 ### Structuur en metadata gebruiken
 
@@ -374,9 +400,9 @@ Als in je vakgebied sprake is van een breed gedragen Body of Knowledge (BoK, ken
 
 Als het curriculum (vakindeling) er niet nauw bij aansluit, wat helaas vaak het geval is, levert het kiezen van de BoK als hoofdstructuur in de praktijk problemen op. Vaak is het dan efficiënter om als hoofdstructuur de curriculumindeling (vakken) te volgen en daar BoK-gegevens als metadata aan te koppelen.
 
-**![Figuur 10](Images/fig10.png)**
-
-**Figuur 10**: Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.
+```{r, echo=FALSE, fig.cap="Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.", out.width="100%", fig.pos='left'}
+knitr::include_graphics("images/fig10.png")
+```
 
 ::::
 
@@ -462,11 +488,11 @@ Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken
 
 ### Hoe realiseer je een kwaliteitsverbetering?
 
-Je verhoogt de kwaliteit van items door fluctuatie in kwaliteit van items te verminderen en de vraagkwaliteit op een hoger niveau te krijgen. Dit inzicht komt voort uit het vakgebied van de operations management, zoals geïllustreerd in figuur 11. In het linker plaatje zie je dat de kwaliteit van een product of dienst gemiddeld vrij laag is, dan weer eens hoog en dan weer eens laag, maar niet stijgend. Het rechter- plaatje laat zien dat de kwaliteit gestaag toeneemt en de fluctuatie kleiner wordt. Om een dergelijke kwaliteitsverbetering te realiseren, is een doelgerichte benadering nodig.
+Je verhoogt de kwaliteit van items door fluctuatie in kwaliteit van items te verminderen en de vraagkwaliteit op een hoger niveau te krijgen. Dit inzicht komt voort uit het vakgebied van de operations management, zoals geïllustreerd in figuur \@ref(fig:KwaliTijd). In het linker plaatje zie je dat de kwaliteit van een product of dienst gemiddeld vrij laag is, dan weer eens hoog en dan weer eens laag, maar niet stijgend. Het rechter- plaatje laat zien dat de kwaliteit gestaag toeneemt en de fluctuatie kleiner wordt. Om een dergelijke kwaliteitsverbetering te realiseren, is een doelgerichte benadering nodig.
 
-**![Figuur 11](Images/fig11.jpg)**
-
-**Figuur 11**: Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.
+```{r KwaliTijd, echo=FALSE, fig.cap="Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.", out.width="100%", fig.pos='left'}
+knitr::include_graphics("images/fig11.jpg")
+```
 
 Er zijn twee manieren om de kwaliteit van nieuwe items te verhogen: ofwel door een grotere vaardigheid te ontwikkelen in het construeren van items, ofwel door review tijdens het constructieproces. Itembanksystemen bieden hiervoor workflow-onder- steuning. Zo werk je systematisch aan kwaliteitsverhoging.
 
