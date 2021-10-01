@@ -1,3 +1,5 @@
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
 introductie
 inleiding
 voor-wie-is-deze-uitgave
@@ -8,8 +10,9 @@ wat-is-een-itembank
 de-plek-van-een-itembank-binnen-het-digitale-toetssysteem
 belangrijke-begrippen
 in-5-stappen-naar-een-itembank
-succesfactoren
 stappenplan
+succesfactoren
+stappenplan-1
 stap-1-voorbereiding
 haalbaarheidsonderzoek
 afronding-voorbereidingsstap
@@ -44,6 +47,8 @@ formatieve-diagnostische-toetsen
 formatieve-oefentoetsen
 kosten-en-baten
 kosten
+projectkosten
+exploitatie
 baten
 organisatie-processtappen-rollen-en-rechten
 componenten-en-processtappen
@@ -65,6 +70,8 @@ itembankonderhoud-en-beheer
 toetsgegevens
 beschrijvende-data
 psychometrische-data
+de-klassieke-testtheorie-ktt
+de-item-response-theorie-irt
 juridische-aandachtspunten-1
 eigendom-items-en-itembank
 misbruik-van-itembankmateriaal

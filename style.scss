@@ -16,7 +16,7 @@ pre code {
   white-space: inherit;
 }
 
-h1, h2, h3, h4 { color: $base-color;}
+h1, h2, h3, h4, h5, h6 { color: $base-color;}
 
 a:link    { color: $base-color !important; }
 a:visited { color: $base-color !important; }
@@ -47,8 +47,9 @@ a:active  { color: $base-color !important; }
 
 .tip { border: 2px solid $base-color;
        border-radius: 25px;
-       padding: 0 20px 0 20px;
+       padding: 10px 20px 0 20px;
        margin: 0 5px 10px 5px;
+       background-color: rgba($base-color, .2);
   }
   
 .cls-1,.cls-3{
@@ -61,3 +62,31 @@ a:active  { color: $base-color !important; }
   width: 60%;
 }
 
+.stappenplan {
+  border: 1px solid $base-color;
+}
+
+.stappenplan {
+  border: 1px solid $base-color;
+}
+
+.stappenplan > ol > li {
+  border: 1px solid green;
+  margin: 0 0 10px 0;
+  height: auto;
+  overflow: auto;
+  padding: 10px;
+  background-color: rgba($base-color, .2);
+  color: $base-color;
+  border-radius: 15px;
+}
+
+.stappenplan > ol > li > ul {
+  border: 1px solid red;
+  float: right;
+  width: 50%;
+  background-color: $base-color;
+  color: black;
+  padding: 20px;
+  border-radius: 15px;
+}

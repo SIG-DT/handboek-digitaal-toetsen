@@ -47,7 +47,9 @@ Een formatieve toets waarbij een kandidaat inzicht krijgt in zijn progressie doo
 **Digitaal toetssysteem**  
 Dit is het cyclische proces om van leerdoelen, via items, toetsen, afname en analyse toetsing te realiseren en voortdurend te verbeteren. Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van de itembank gesitueerd.
 
-**![De toetscyclus](Images/Cyclus.png)**
+```{r, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="40%"}
+knitr::include_graphics("images/ToetsCyclus.svg")
+```
 
 **Formatieve feedback**  
 Feedback waarbij de opbrengst voor het leerproces voorop staat. De feedback is bedoeld om studenten te stimuleren om zich verder te verdiepen in de stof. Bij incorrecte antwoorden worden vaak aan wijzingen gegeven om het correct antwoord te kunnen achterhalen of simpelweg het correcte antwoord. Bij correcte antwoorden wordt soms verdiepende stof of een ander voorbeeld besproken.

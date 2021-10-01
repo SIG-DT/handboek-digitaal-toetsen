@@ -188,7 +188,7 @@ Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatie- 
 
 Voor de ontwikkeling van een itembank is een investering nodig. Dit zijn de project- kosten. Aansluitend heb je geld nodig voor exploitatie voor het doorontwikkelen en het beheer.
 
-**Projectkosten**
+#### Projectkosten
 
 De initiële investering bestaat uit het creëren van een samenwerkingsverband, het ontwikkelen van een plan, het opzetten van de organisatie, het overleggen en onder- handelen over de inrichting van de bank en werkwijzen, het licenseren en opzetten van het beheer van een itembanksysteem, het ontwikkelen van een eerste aantal items voor de itembank en het afnemen van de eerste toetsen met de items uit de itembank.
 
@@ -204,7 +204,7 @@ Een aantal mogelijkheden om de ontwikkeling van complexere itembanken te financi
 * Itemontwikkelaars krijgen een vergoeding per geconstrueerd en goedgekeurd item. Dan maakt het niet zoveel uit welke docent of instelling de meeste items maakt. In dit geval zal er wel out-of-pocket-geld beschikbaar moeten zijn om item- ontwikkelaars te bekostigen.
 * De coördinerende instelling of docent krijgt een aparte vergoeding, omdat de coördinator relatief meer tijd kwijt is en een grotere verantwoordelijkheid heeft.
 
-**Exploitatie**
+#### Exploitatie
 
 Na afloop van het project moet de itembank worden onderhouden en door- ontwikkeld. Tijdens het project maak je een plan hoe dat eruit ziet. In dit zogenoemde exploitatieplan leg je onder andere vast dat medewerkers tijd krijgen om items te blijven ontwikkelen, de itembank in de lucht te houden en te beheren. Ga ervan uit dat eens in de zoveel jaar alle items worden nagelopen, bijvoorbeeld om ze te hercoderen vanwege curriculumwijzigingen, nieuwe boeken et cetera.
 
@@ -516,7 +516,7 @@ De data kun je vertalen naar een grafische overzichtspagina voor docenten of stu
 
 Psychometrische gegevens zeggen iets over de moeilijkheidsgraad van items en in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Daarbij maakt het uit of je gebruikmaakt van de klassieke testtheorie (KTT) of de item-response-theorie (IRT). In deze paragraaf leggen we beide theorieën kort uit.
 
-**De klassieke testtheorie (KTT)**
+##### De klassieke testtheorie (KTT)
 
 De klassieke testtheorie gaat ervan uit dat de score op een toets bestaat uit de werkelijke score en een fout in de meting (ruis). Door statistische bewerkingen kan van één toets worden bepaald wat de betrouwbaarheid is van de toets, dat wil zeggen, in welke bandbreedte de werkelijke score van de student met een bepaalde mate van zekerheid ligt.
 
@@ -529,7 +529,7 @@ vermogen van een vraag. Dat is de mate waarin het item onderscheid maakt tussen 
 
 Het kan waardevol zijn om psychometrische gegevens bij de items op te slaan. Sommige toetssystemen ondersteunen zelfs een automatische update van deze gegevens na iedere beantwoording door een student. Op zich aantrekkelijk, ware het niet dat ze alleen interpreteerbaar zijn per toetsafname. Onderling kun je ze alleen vergelijken als de afnamecondities identiek zijn. Psychometrische gegevens per toetsafname zijn wel zinnig.
 
-**De item-response-theorie (IRT)**
+##### De item-response-theorie (IRT)
 
 Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van
 items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen. [@linden2000computerized]
