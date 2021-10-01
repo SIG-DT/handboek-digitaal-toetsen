@@ -1,5 +1,6 @@
 --- 
 title: "Handboek<br>In 5 stappen naar een itembank"
+# subtitle: "Wegwijs in toetsvragenbanken"
 author: ["Lijst", ", Aanvullen"]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

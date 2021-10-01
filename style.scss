@@ -34,7 +34,7 @@ a:active  { color: $base-color !important; }
          background-position: center 20%, 10px 10px;
 }
 
-#header h1 { color: #fff; 
+#header h1, #header h2 { color: #fff; 
              margin-top: 150px;
              // border: 1px solid black;
              font-size: 30px;

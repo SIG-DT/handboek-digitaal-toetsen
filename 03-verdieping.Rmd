@@ -226,6 +226,24 @@ In het ontwerp van de itembank organiseer je de ontwikkeling en het beheer. Je b
 
 Itembanksystemen bestaan vaak uit verschillende componenten met bijbehorende functies. Kerncomponenten zijn meestal een auteursomgeving, een itembank, een afspeelomgeving en een analysegereedschap. Binnen elk van die kerncomponenten zijn processtappen te onderscheiden. Neem de functionaliteiten van de itembank. Hierin onderscheiden we processen om items te kunnen invoeren, controleren, wijzigen, voorzien van metadata, ordenen en selecteren.
 
+```{r diagram}
+library("DiagrammeR")
+mermaid("
+sequenceDiagram
+           Auteur->>Peer: Schijft item
+           Peer->>Auteur: Review
+           Auteur->>Toetsexpert: Redactie           
+           Toetsexpert->>Specialist: Metadateert item
+           Specialist->>Gatekeeper: Reeft items vrij
+           Gatekeeper->>Docent: Stelt toets samen
+           Docent->>Toetsbureau: Zet toets klaar
+           Toetsbureau->>Toetsbureau: Toets afname
+           Toetsbureau->>Toetsexpert: Toets analyse"
+)
+
+```
+
+
 **![Figuur 2](Images/Processtappen.png)**  
 **Figuur 2**
 
