@@ -134,17 +134,17 @@ Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfa
 
 ::: {.stappenplan}
 
-1. Voorbereiding  
+1. <div class="nr stap">1</div> <div class="stap">Voorbereiding</div>
     + Formuleer het doel en onderzoek de haalbaarheid van de itembank.  
     + Oriënteer je op toetssystemen en uitwisselbaarheid.  
     + Verdiep je in omvang en vraagreproductie.  
     + Maak een eerste kosten- en batenanalyse.  
-2. Plan  
+2. <div class="nr stap">2</div> <div class="stap">Plan</div>
     * Maak een plan van aanpak, waarin je beschrijft:  
     * het doel;  
     * het resultaat (wat hebben we als we klaar zijn?);  
     * hoe je denkt dit te realiseren.  
-3. Ontwerp
+3. <div class="nr stap">3</div> <div class="stap">Ontwerp</div>
     * Orden de vragen.  
     * Organiseer de processtappen en bepaal rollen en rechten.
     * Stel kwaliteitseisen vast en check of het systeem hieraan voldoet.  
@@ -153,10 +153,10 @@ Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfa
     * Regel de financiën.  
     * Zorg voor een juridische verankering van het project.  
     * Organiseer het beheer van de itembank.  
-4. Pilot  
+4. <div class="nr stap">4</div> <div class="stap">Pilot</div>
     * Ontwikkel de items.  
     * Richt de itembank in en probeer uit.  
-5. Realisatie  
+5. <div class="nr stap">5</div> <div class="stap">Realisatie</div>
     * Neem de itembank in gebruik.  
     * Zorg voor een toekomstbestendige itembank.  
     

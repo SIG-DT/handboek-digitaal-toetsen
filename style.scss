@@ -63,30 +63,48 @@ a:active  { color: $base-color !important; }
 }
 
 .stappenplan {
-  border: 1px solid $base-color;
-}
-
-.stappenplan {
-  border: 1px solid $base-color;
+//  border: 1px solid $base-color;
 }
 
 .stappenplan > ol > li {
-  border: 1px solid green;
-  margin: 0 0 10px 0;
+//  border: 1px solid green;
+  margin: 0 0 10px -35px;
+  padding: 10px;
   height: auto;
   overflow: auto;
-  padding: 10px;
   background-color: rgba($base-color, .2);
   color: $base-color;
   border-radius: 15px;
+//  list-style-type: none;
+}
+
+.stap {
+  width: 200px;
+  border: 3px solid $base-color;
+  padding: 10px;
+  margin: 5px 0 10px 10px;
+  font-size: 1.2em;
+  float:left;
+  border-radius: 15px;
+}
+
+.nr {
+  width: 40px;
+  font-size: 1.2em;
+  color: white;
+  background-color: $base-color;
 }
 
 .stappenplan > ol > li > ul {
-  border: 1px solid red;
+  padding-top: 10px !important;
+  padding-right: 10px !important;
+  padding-bottom: 10px !important;
+//  border: 1px solid red;
   float: right;
-  width: 50%;
+  width: 350px;
   background-color: $base-color;
   color: black;
-  padding: 20px;
+  margin: 20px;
   border-radius: 15px;
+
 }
