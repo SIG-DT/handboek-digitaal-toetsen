@@ -2,32 +2,38 @@
 
 ## Authors
 
-* Silvester Draaijer Vrije Universiteit
-* Jenny de Werk SURFnet
+* Silvester Draaijer, *Vrije Universiteit*
+* Jenny de Werk, *SURFnet*
 
 ## Advies
 
-* Wil de Groot-Bolluijt SIG digitaal toetsen
+* Wil de Groot-Bolluijt, *SIG digitaal toetsen*
 
 ## Redactie
 
 * Marjolein van Trigt
-* 
-* 
 
-## Innhoudelijke inbreng
+## Inhoudelijke inbreng
 
-* [Sander Schenk Hogeschool Rotterdam](www.toetsenleer.nl)
-* [Jane Groenendijk Prove2Move](www.dekennistoetsenbank.nl)
-* [Jeroen Donkers Maastricht University](www.ivtg.nl)
-* [Marjolein Wijnker DAS Peter Roos 10voordeleraar](www.10voordeleraar.nl)
-* Angela Verschoor CITO
+* [Sander Schenk, *Hogeschool Rotterdam*](www.toetsenleer.nl)
+* [Jane Groenendijk, *Prove2Move*](www.dekennistoetsenbank.nl)
+* [Jeroen Donkers, *Maastricht University*](www.ivtg.nl)
+* Marjolein Wijnker, *DAS*
+* [Peter Roos, *10voordeleraar*](www.10voordeleraar.nl)
+* Angela Verschoor, *CITO*
 
 ## Met dank aan
 
-* Desiree Joosten-Ten Brinke Fontys Hogescholen
-* Ludo van Meeuwen Technische Universiteit Eindhoven en SIG digitaal toetsen
-* Rob Reichardt NHL Stenden Hogeschool en SIG digitaal toetsen
-* Kirsten Veelo SURFnet
-* 
-* 
+* Desiree Joosten-Ten Brinke, *Fontys Hogescholen*
+* Ludo van Meeuwen, *Technische Universiteit Eindhoven* en *SIG digitaal toetsen*
+* Rob Reichardt, *NHL Stenden Hogeschool* en *SIG digitaal toetsen*
+* Kirsten Veelo, *SURFnet*
+
+## Vormgeving
+Vrije Stijl, Utrecht
+
+## Photography
+[Flickr.com](https://www.flickr.com)
+
+## Copyright
+Beschikbaar onder de licentie Creative Commons Naamsvermelding 4.0 Nederland. https://creativecommons.org/licenses/by/4.0/deed.nl

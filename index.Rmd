@@ -23,7 +23,7 @@ De coronacrisis heeft daarnaast ook laten zien dat itembanken een rol spelen in 
 Het ontwikkelen, beheren en onderhouden van itembanken vraagt om goed project- management. Met deze uitgave willen we laten zien hoe je een digitaal systeem opzet om items uit te wisselen met collega’s van binnen en buiten de instelling. In dit hand- boek bundelen we de kennis en kunde die instellingen, samenwerkingsverbanden van instellingen en SURF over dit onderwerp hebben opgedaan. Het helpt instellingen op weg die hun voordeel willen behalen met digitale itembanken. Het handboek bestaat uit een introductie, een stappenplan en een verdiepend deel. 
 
 ### Voor wie is deze uitgave? 
-Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items. Bijvoorbeeld:  
+Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items.   Bijvoorbeeld:  
 
 * Docenten die items beter willen ordenen of willen ontwikkelen en uitwisselen met een collega 
 * Onderwijsadviseur die docenten ondersteunt of die trekker is van het inrichten van een itembank 
@@ -51,7 +51,7 @@ Een itembank is een verzameling van items ofwel vragen (in het vervolg van dit h
 
 ::: {.tip}
 
-#### Definitie
+**Definitie**  
 Een **itembank** is een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een hiërarchische structuur.  
 Een **itembanksysteem** is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan verscheidene itembanken bevatten.  
 
@@ -61,8 +61,7 @@ In de itembank worden de vragen logisch ingedeeld. Er vindt versiebeheer plaats 
 
 ::: {.tip}
 
-#### **Nice to know**
-
+**Nice to know**  
 **Waarom worden 'toetsvragen' door toetsdeskundigen eigenlijk vaak items genoemd?**  
 In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. 'Test questions' werd 'Test items'. In Nederland hebben we dit woordgebruik overgenomen en 'vernederlandst' naar 'ietums' in plaats van 'aitums'.  
 
@@ -71,9 +70,7 @@ In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde to
 ### De plek van een itembank binnen het digitale toetssysteem
 Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur 1 is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.  
 
-```{r, child="images/ToetsCyclus.svg"}
-```
-
+**![Figuur 1](Images/Cyclus.png)**  
 **Figuur 1**: Componenten van digitale toetssystemen afgebeeld op de toetscyclus.  
 
 De *itembank* vormt de centrale component waarin de items worden opgeslagen. De bewerking en het afspelen van de items vindt plaats in andere systemen, die vervolgens de resultaten teruggeven aan de itembank. Bij de volgende onderdelen van de toetscyclus speelt de itembank een rol:  
@@ -107,7 +104,7 @@ In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgend
 **[deKennistoetsenbank MBO](https://www.provetomove.nl/dekennistoetsenbank)**  
 Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).   
 
-**[IVTG](https://www.ivtg.nl)**
+**[IVTG](https://www.ivtg.nl)**  
 De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's.
 
 **[10voordeleraar](https://www.10voordeleraar.nl)**  
@@ -162,6 +159,8 @@ Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfa
 ## Succesfactoren  
 Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande succesfactoren leveren een belangrijke bijdrage aan de levensvatbaarheid van een itembank. Neem ze in acht, ook bij een relatief eenvoudige samenwerking. Deze factoren lopen als een rode draad door het handboek. 
 
+:::{.bullets_spaced}
+
 1. Bezint eer ge begint: neem de tijd bij de start, schat de haalbaarheid goed in  en vind de balans tussen een projectmatige aanpak en laten ontstaan. Kies een werkwijze die past bij jouw situatie. 
 2. Stel een opdrachtgever aan en zorg dat het eigenaarschap van begin af aan goed belegd is. Zonder een opdrachtgever of afspraken over eigenaarschap is de kans op mislukking groot. 
 3. Bepaal voor het ontwikkelen van de itembank welke stappen je wilt doorlopen en welke resultaten je per stap wilt bereiken. 
@@ -175,3 +174,5 @@ Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande 
 8. Begin klein met de itembank en probeer verschillende inrichtingen en metadatamogelijkheden uit. Blijf aanpassen totdat de juiste inrichting en werkwijze is gevonden. Houd het eenvoudig en dicht bij de dagelijkse praktijk. 
 9. Onderschat de aard en omvang van de werkzaamheden en/of het project niet. Het is moeilijke materie om te doorgronden. Gedrag en werkwijzen van mensen veranderen gaat niet vanzelf. 
 10. Wees je bewust van technische beperkingen als je over instellingsgrenzen heen aan een itembank werkt. 
+
+::::
