@@ -12,6 +12,9 @@ documentclass: book
 github-repo: Werkgroep-Toetsen-Op-Afstand/Handboek-Itembanken
 description: ""
 always_allow_html: true
+bibliography: "bibliography.bib"
+biblio-style: "apalike"
+link-citations: true
 ---
 
 # Introductie
@@ -37,7 +40,7 @@ Het handboek richt zich op het ontwikkelen, beheren en gebruiken van itembanken 
 
 Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatie- traject van digitaal toetsen bij instellingen. Voor het implementeren van digitaal toetsen verwijzen wij naar enkele SURF- publicaties, zoals de [handreiking Beleid voor digitaal toetsen](https://www.surf.nl/kennisbank/2016/handreiking-beleid-voor-digitaal-toetsen.html), het [stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/kennisbank/2016/stappenplan-digitaaltoetsbeleid-schrijven.html) en het [werkboek Veilig toetsen](https://www.surf.nl/kennisbank/2016/werkboek-veilig-toetsen.html).  
 
-We gaan in dit handboek uit van de toetscyclus zoals beschreven in het [Begrippenkader voor digitaal toetsen van SURF uit 2013](link). Centraal staat het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo’n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals [@Toetsen in het hoger onderwijs] van Berkel, Bax en Joosten-ten Brinke.   
+In dit handboek gaan we vooral in op het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo’n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals Toetsen in het hoger onderwijs @van2017toetsen.
 
 ### Verantwoording
 Deze uitgave is een bijgewerkte versie van de uitgave uit 2018. De special interest group (SIG) Digitaal toetsen heeft de uitgave – mede in het licht van de ervaringen tijdens de coronacrisis van 2020/2021 – kritisch bekeken, aangevuld en geactualiseerd.  De oorspronkelijke  publicatie is tot stand gekomen in nauwe samenwerking met itembank-experts uit diverse instellingen, de SIG Digitaal Toetsen, Cito, 10voordeLeraar en Prove2Move. Het handboek is gebaseerd op de ervaringen van de betrokken experts met het ontwikkelen van itembanken. Verder hebben we gebruikgemaakt van verzameld materiaal van onder andere SURF en beschikbare literatuur op dit gebied.  

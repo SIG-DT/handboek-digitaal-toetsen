@@ -138,6 +138,28 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="libs/sass257a9f35ab647bd1094d8c6ad333eec8/style.min.css" type="text/css" />
 </head>
@@ -326,7 +348,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h3><span class="header-section-number">1.1.2</span> Scope</h3>
 <p>Het handboek richt zich op het ontwikkelen, beheren en gebruiken van itembanken binnen een opleiding, binnen één instelling, instellingsoverstijgend, binnen een bepaald domein of zelfs landelijk. Uitgangspunt is dat de processen in de basis hetzelfde zijn. Het handboek geeft geen uitgebreide beschrijving van bestaande itembanken of toetssystemen. Hiervoor kun je terecht in de SURF thema-uitgave <a href="https://www.surf.nl/thema-uitgave-toets-en-vragenbanken-in-het-onderwijs">Toets-en vragenbanken in het onderwijs</a>.</p>
 <p>Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatie- traject van digitaal toetsen bij instellingen. Voor het implementeren van digitaal toetsen verwijzen wij naar enkele SURF- publicaties, zoals de <a href="https://www.surf.nl/kennisbank/2016/handreiking-beleid-voor-digitaal-toetsen.html">handreiking Beleid voor digitaal toetsen</a>, het <a href="https://www.surf.nl/kennisbank/2016/stappenplan-digitaaltoetsbeleid-schrijven.html">stappenplan Digitaal toetsbeleid schrijven</a> en het <a href="https://www.surf.nl/kennisbank/2016/werkboek-veilig-toetsen.html">werkboek Veilig toetsen</a>.</p>
-<p>We gaan in dit handboek uit van de toetscyclus zoals beschreven in het <a href="link">Begrippenkader voor digitaal toetsen van SURF uit 2013</a>. Centraal staat het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo’n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals <span class="citation">[@Toetsen in het hoger onderwijs]</span> van Berkel, Bax en Joosten-ten Brinke.</p>
+<p>In dit handboek gaan we vooral in op het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo’n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals Toetsen in het hoger onderwijs <span class="citation"><a href="#ref-van2017toetsen" role="doc-biblioref">Van Berkel, Bax, and Joosten-ten Brinke</a> (<a href="#ref-van2017toetsen" role="doc-biblioref">2017</a>)</span>.</p>
 </div>
 <div id="verantwoording" class="section level3" number="1.1.3">
 <h3><span class="header-section-number">1.1.3</span> Verantwoording</h3>
@@ -349,7 +371,7 @@ Een <strong>itembanksysteem</strong> is het digitale systeem waarin de verzameli
 <div class="tip">
 <p><strong>Nice to know</strong><br />
 <strong>Waarom worden ‘toetsvragen’ door toetsdeskundigen eigenlijk vaak items genoemd?</strong><br />
-In de jaren ‘30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. ’Test questions’ werd ‘Test items’. In Nederland hebben we dit woordgebruik overgenomen en ‘vernederlandst’ naar ‘ietums’ in plaats van ‘aitums’.</p>
+In de jaren ‘30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. ’Test questions’ werd ‘Test items.’ In Nederland hebben we dit woordgebruik overgenomen en ‘vernederlandst’ naar ‘ietums’ in plaats van ‘aitums.’</p>
 </div>
 </div>
 <div id="de-plek-van-een-itembank-binnen-het-digitale-toetssysteem" class="section level3" number="1.2.2">
@@ -362,7 +384,7 @@ Figure 1.1: Componenten van digitale toetssystemen afgebeeld op de toetscyclus.
 </p>
 </div>
 <p>De <em>itembank</em> vormt de centrale component waarin de items worden opgeslagen. De bewerking en het afspelen van de items vindt plaats in andere systemen, die vervolgens de resultaten teruggeven aan de itembank. Bij de volgende onderdelen van de toetscyclus speelt de itembank een rol:</p>
-<p>Het <strong>ontwerp</strong> van de toets (ook wel toetsspecificatie) gaat over aspecten als het doel van de toets, te toetsen onderdelen, de keuze voor formatief of summatief toetsen en ‘wijze van toetsing’. In het ontwerp worden dus nog geen items gemaakt.</p>
+<p>Het <strong>ontwerp</strong> van de toets (ook wel toetsspecificatie) gaat over aspecten als het doel van de toets, te toetsen onderdelen, de keuze voor formatief of summatief toetsen en ‘wijze van toetsing.’ In het ontwerp worden dus nog geen items gemaakt.</p>
 <p>Een toets wordt samengesteld vanuit een verzameling items. Hiervoor wordt meestal een specificatietabel gebruikt, ook wel toetsmatrijs of blauwdruk van de toets ge- naamd. Hierin is vastgelegd hoeveel items, welke vraagtypen en welke onderwerpen van welke aard, kennis, of toepassing in de toets komen.</p>
 <p>De <strong>ontwikkeling</strong> (constructie) van de items vindt plaats in de auteursomgeving van een toetssysteem. De antwoorden in geval van gesloten vragen worden hierin opgenomen en soms ook die van de open vragen.</p>
 <p>Toetssoftware biedt voor online <strong>toetsafname</strong> een afspeelomgeving aan. Deze omgeving controleert de identiteit van de student door middel van een inlogproces, biedt de student een toets aan en slaat de antwoorden van de student op.</p>
@@ -391,7 +413,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 </div>
 <div id="in-5-stappen-naar-een-itembank" class="section level2" number="1.3">
 <h2><span class="header-section-number">1.3</span> In 5 stappen naar een itembank</h2>
-<p>In de praktijk ontstaan itembanken soms zonder bewust plan. Een uitprobeersel op kleine schaal groeit uit tot iets omvangrijks. Een dergelijke aanpak brengt het risico met zich mee dat de itembankontwikkeling in een later stadium stagneert, bijvoorbeeld door tijdgebrek of personele wisselingen. Het advies in deze is ‘bezint eer ge begint’. Werk volgens beheerste stappen. Te snel gaan heeft mogelijk later consequenties voor het draagvlak of kan zelfs het project doen mislukken.</p>
+<p>In de praktijk ontstaan itembanken soms zonder bewust plan. Een uitprobeersel op kleine schaal groeit uit tot iets omvangrijks. Een dergelijke aanpak brengt het risico met zich mee dat de itembankontwikkeling in een later stadium stagneert, bijvoorbeeld door tijdgebrek of personele wisselingen. Het advies in deze is ‘bezint eer ge begint.’ Werk volgens beheerste stappen. Te snel gaan heeft mogelijk later consequenties voor het draagvlak of kan zelfs het project doen mislukken.</p>
 <p>Wij onderscheiden vijf stappen voor het ontwikkelen en gebruiken van een itembank. Binnen iedere stap moet je voor een aantal zaken zorgen. Deze zaken zullen soms gelijktijdig om aandacht vragen, of in een andere volgorde dan hier beschreven. In elke stap wordt het resultaat, een in gebruik genomen itembank, concreter gemaakt; er wordt van grof naar fijn gewerkt.</p>
 <p>Deel 2 van het handboek, het Stappenplan, neemt je mee door de verschillende stappen. Soms heb je daarvoor theoretische kennis nodig. Daarom verwijzen we regelmatig naar deel 3 van het handboek, de Verdieping. Dit deel bevat meer achtergrondinformatie voor het opzetten van een itembank.</p>
 <div class="tip">
@@ -507,6 +529,12 @@ Realisatie
 </ol>
 </div>
 
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-van2017toetsen" class="csl-entry">
+Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. <em>Toetsen in Het Hoger Onderwijs</em>. Springer.
 </div>
 </div>
             </section>
