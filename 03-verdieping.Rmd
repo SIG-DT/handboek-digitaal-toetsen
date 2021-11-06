@@ -499,7 +499,7 @@ De betrouwbaarheid wordt ook groter door items te construeren die beter discrimi
 
 :::{.tip}
 
-Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld Van Berkel, H. J. M., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het Hoger Onderwijs. (4rd ed.). Houten/Diegem: Bohn Stafleu Van Loghum.
+Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld @van2017toetsen [Toetsen in het Hoger Onderwijs](https://www.google.com/search?q=toetsen+in+het+hoger+onderwijs).
 
 ::::
 
