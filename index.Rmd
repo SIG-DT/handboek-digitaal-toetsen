@@ -69,9 +69,9 @@ In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde to
 :::
 
 ### De plek van een itembank binnen het digitale toetssysteem
-Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur 1 is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.  
+Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur \@ref(fig:toetscyclus) is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.  
 
-```{r, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="60%"}
+```{r toetscyclus, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="60%"}
 knitr::include_graphics("images/ToetsCyclus.svg")
 ```
 
