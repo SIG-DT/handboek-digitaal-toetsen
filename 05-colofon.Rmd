@@ -1,33 +1,44 @@
 # Colofon
 
-## Authors
+Deze uitgave is een bijgewerkte versie van de uitgave uit 2018. De special interest group (SIG) Digitaal toetsen heeft de uitgave – mede in het licht van de ervaringen tijdens de coronacrisis van 2020/2021 – kritisch bekeken, aangevuld en geactualiseerd.
 
-* Silvester Draaijer Vrije Universiteit
-* Jenny de Werk SURFnet
+## Aan deze herziene uitgave werkten mee:
 
-## Advies
+*	Silvester Draaijer, **Vrije Universiteit**
+*	Sharon Klinkenberg, **Universiteit van Amsterdam**
+*	Vincent Hendriks, **Open Universiteit**
+*	Annette Peet, **SURF**
 
-* Wil de Groot-Bolluijt SIG digitaal toetsen
+## De oorspronkelijke publicatie is geschreven door:
 
-## Redactie
+* Silvester Draaijer, **Vrije Universiteit**
+* Jenny de Werk, **SURFnet**
+
+### Redactie
 
 * Marjolein van Trigt
-* 
-* 
 
-## Innhoudelijke inbreng
+## In nauwe samenwerking met verschillende itembank-experts:
 
-* [Sander Schenk Hogeschool Rotterdam](www.toetsenleer.nl)
-* [Jane Groenendijk Prove2Move](www.dekennistoetsenbank.nl)
-* [Jeroen Donkers Maastricht University](www.ivtg.nl)
-* [Marjolein Wijnker DAS Peter Roos 10voordeleraar](www.10voordeleraar.nl)
-* Angela Verschoor CITO
+*	Sander Schenk, **Hogeschool Rotterdam**
+*	Jane Groenendijk, **Prove2Move**
+*	Jeroen Donkers, **Maastricht University**
+*	Marjolein Wijnker, **DAS**
+*	Peter Roos, **10voordeleraar**
+*	Angela Verschoor, **CITO**
+*	Wil de Groot-Bolluijt, **GrootBolwerk**
 
 ## Met dank aan
 
-* Desiree Joosten-Ten Brinke Fontys Hogescholen
-* Ludo van Meeuwen Technische Universiteit Eindhoven en SIG digitaal toetsen
-* Rob Reichardt NHL Stenden Hogeschool en SIG digitaal toetsen
-* Kirsten Veelo SURFnet
-* 
-* 
+* Desiree Joosten-Ten Brinke, **Fontys Hogescholen**
+* Ludo van Meeuwen, **Technische Universiteit Eindhoven** en **SIG digitaal toetsen**
+* Rob Reichardt, **NHL Stenden Hogeschool** en **SIG digitaal toetsen**
+* Kirsten Veelo, **SURFnet**
+
+## Opmaak 
+
+* Rochelle Hurenkamp, **Werkgroep Toetsen op Afstand**
+
+## Copyright
+
+Beschikbaar onder de licentie [Creative Commons Naamsvermelding 4.0 Nederland](https://creativecommons.org/licenses/by/4.0/deed.nl)

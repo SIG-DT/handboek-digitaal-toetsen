@@ -1,6 +1,6 @@
 # Verdieping
 
-## Samenwerken aan itembanken
+## Waarom (samenwerken aan) een itembank?
 
 Tijdens de voorbereiding leg je het doel van de itembank vast. In dit hoofdstuk beschrijven we een aantal mogelijke manieren waarop een itembank impact kan hebben op het onderwijs. We gaan ook nader in op de voordelen van samenwerken aan een itembank. Ten slotte bekijken we welke factoren binnen het vakgebied bijdragen aan een succesvol gezamenlijk itembankproject.
 
@@ -144,13 +144,10 @@ In de volgende paragrafen schetsen we scenario’s voor verschillende toetsen wa
 
 De meeste toetsen in het hoger onderwijs bestaan uit klassieke tentamens. Eén docent of team stelt een toets samen voor een groep kandidaten voor één cursus van één instelling. Alle studenten maken de toets op hetzelfde moment. Welke situatie treedt dan op?
 
-Stel dat de toetsvragen **niet** worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank van 150 items afdoende.
-
-Stel dat de toetsvragen **wel** worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met 150 items. Na vijf jaar zitten er 750 items in de itembank. Instellingen leggen vaak vast in hun toetsbeleid wat wel en niet toegestaan is ten aanzien van het hergebruik van items.
-
-Stel dat de toetsvragen **niet** worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets willekeurig gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Een itembank van honderd items is afdoende.
-
-Stel echter dat de toetsvragen **wel** worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items.[@draaijer2015practical]
+| Toetsvragen vrijgegeven      | Toetsvragen niet vrijgegeven |
+| ----------- | ----------- |
+| Stel dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met 150 items. Na vijf jaar zitten er 750 items in de itembank. Instellingen leggen vaak vast in hun toetsbeleid wat wel en niet toegestaan is ten aanzien van het hergebruik van items.      | Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank van 150 items afdoende.       |
+| Stel  dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items [@draaijer2015practical].   | Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets willekeurig gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Een itembank van honderd items is afdoende.        |
 
 ### Summatieve toetsen die op elk moment kunnen worden afgenomen
 
@@ -158,7 +155,7 @@ Er zijn ook toetsen die worden afgenomen op aanvraag van de student. Daarbij bes
 
 Over dergelijke toetsen zegt men soms dat het niet erg is dat de toetsvragen bekend zijn, als de bank maar groot genoeg is. Immers, als studenten kunnen oefenen met alle items, leren ze vanzelf de stof. Er zal echter ook een groep studenten proberen de correcte antwoorden letterlijk uit het hoofd te leren, waardoor er geen echte kennis of begrip wordt verworven. Als ze hierin slagen, maakt dit de toets minder valide. Hoeveel items er nodig zijn om dit tegen te gaan, is niet te zeggen. Itembanken van ten minste 1000 tot 2000 items lijken noodzakelijk.
 
-Het is in alle gevallen aan te raden studenten nieuwe vragen te laten beantwoorden. Een minimale variant is dat alternatieven uit meerkeuzevragen variëren van inhoud of van positie. Daarnaast zou gebruik kunnen worden gemaakt van geparametriseerde items. Dit zijn vragen waarbij getallen, objecten, concepten of begrippen worden getrokken uit een verzameling.[@gierl2012automatic]
+Het is in alle gevallen aan te raden studenten nieuwe vragen te laten beantwoorden. Een minimale variant is dat alternatieven uit meerkeuzevragen variëren van inhoud of van positie. Daarnaast zou gebruik kunnen worden gemaakt van geparametriseerde items. Dit zijn vragen waarbij getallen, objecten, concepten of begrippen worden getrokken uit een verzameling [@fattoh2014automatic].
 
 :::{.tip}
 
@@ -190,7 +187,7 @@ Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatie- 
 
 Voor de ontwikkeling van een itembank is een investering nodig. Dit zijn de project- kosten. Aansluitend heb je geld nodig voor exploitatie voor het doorontwikkelen en het beheer.
 
-**Projectkosten**
+#### Projectkosten
 
 De initiële investering bestaat uit het creëren van een samenwerkingsverband, het ontwikkelen van een plan, het opzetten van de organisatie, het overleggen en onder- handelen over de inrichting van de bank en werkwijzen, het licenseren en opzetten van het beheer van een itembanksysteem, het ontwikkelen van een eerste aantal items voor de itembank en het afnemen van de eerste toetsen met de items uit de itembank.
 
@@ -206,7 +203,7 @@ Een aantal mogelijkheden om de ontwikkeling van complexere itembanken te financi
 * Itemontwikkelaars krijgen een vergoeding per geconstrueerd en goedgekeurd item. Dan maakt het niet zoveel uit welke docent of instelling de meeste items maakt. In dit geval zal er wel out-of-pocket-geld beschikbaar moeten zijn om item- ontwikkelaars te bekostigen.
 * De coördinerende instelling of docent krijgt een aparte vergoeding, omdat de coördinator relatief meer tijd kwijt is en een grotere verantwoordelijkheid heeft.
 
-**Exploitatie**
+#### Exploitatie
 
 Na afloop van het project moet de itembank worden onderhouden en door- ontwikkeld. Tijdens het project maak je een plan hoe dat eruit ziet. In dit zogenoemde exploitatieplan leg je onder andere vast dat medewerkers tijd krijgen om items te blijven ontwikkelen, de itembank in de lucht te houden en te beheren. Ga ervan uit dat eens in de zoveel jaar alle items worden nagelopen, bijvoorbeeld om ze te hercoderen vanwege curriculumwijzigingen, nieuwe boeken et cetera.
 
@@ -228,10 +225,41 @@ In het ontwerp van de itembank organiseer je de ontwikkeling en het beheer. Je b
 
 Itembanksystemen bestaan vaak uit verschillende componenten met bijbehorende functies. Kerncomponenten zijn meestal een auteursomgeving, een itembank, een afspeelomgeving en een analysegereedschap. Binnen elk van die kerncomponenten zijn processtappen te onderscheiden. Neem de functionaliteiten van de itembank. Hierin onderscheiden we processen om items te kunnen invoeren, controleren, wijzigen, voorzien van metadata, ordenen en selecteren.
 
-**![Figuur 2](Images/Processtappen.png)**  
-**Figuur 2**
+Hieronder staat een uitwerking van een aantal processtappen die binnen de verschillende componenten van een toetssysteem kunnen plaatsvinden.
 
-In figuur 2 staat een uitwerking van een aantal processtappen die binnen de verschillende componenten van een toetssysteem kunnen plaatsvinden.
+```{r diagram, eval=FALSE, echo=FALSE}
+library("DiagrammeR")
+mermaid("
+sequenceDiagram
+           Auteur->>Peer: Schijft item
+           Peer->>Auteur: Review
+           Auteur->>Toetsexpert: Redactie           
+           Toetsexpert->>Specialist: Metadateert item
+           Specialist->>Gatekeeper: Reeft items vrij
+           Gatekeeper->>Docent: Stelt toets samen
+           Docent->>Toetsbureau: Zet toets klaar
+           Toetsbureau->>Toetsbureau: Toets afname
+           Toetsbureau->>Toetsexpert: Toets analyse"
+)
+
+```
+
+::: {.stappenplan}
+
+1. Auteursomgeving
+    + Auteur schrijft item
+    + Review door collega reviewer
+    + Redactie door toetsexpert
+    + Specialist metadateert item
+    + Gatekeeper geeft items vrij
+2. Afname omgeving
+    + Toetsbureau zet toets klaar
+3. Analysetool
+    + Docent analyseert toets met toetsexpert
+
+:::
+
+
 
 ### Rollen en rechten
 
@@ -301,9 +329,9 @@ Wat is de ordening van een itembank? Het vastleggen van wat iedereen bedoelt met
 
 Metadata zijn toegevoegde stukjes informatie aan items. Metadata van items zijn bijvoorbeeld het hoofdonderwerp van de vraag, een subonderwerp van de vraag, de status van het item (concept, ter revisie, ter redactiecontrole, goedgekeurd, afgekeurd), de moeilijkheidsgraad of het discriminerend vermogen, de soort vraag, de taxonomische aanduiding (bijvoorbeeld kennis, toepassing, inzicht), de functie van de vraag, wie het item heeft gemaakt of bewerkt en in welke toetsen het item wordt gebruikt.
 
-**![Figuur 3](Images/metadata.png)**
-
-**Figuur 3**: Een item met enkele metadatavelden ingevuld. 
+```{r, echo=FALSE, fig.cap="Een item met enkele metadatavelden ingevuld.", out.width="60%"}
+knitr::include_graphics("images/metadata.png")
+```
 
 ### Structuur
 
@@ -315,38 +343,63 @@ De structuur en metadata zijn vaak op verschillende wijzen technisch met elkaar 
 
 Enkele voorbeelden van bestaande itembankstructuren:
 
-**![Figuur 4](Images/fig4.png)**
+Het VUmc heeft een aparte itembank binnen het itembanksysteem van Questionmark Perception.
 
-**Figuur 4**: Het VUmc heeft een aparte itembank binnen het itembanksysteem van Questionmark Perception. De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum. 
+<table>
+<tr>
+<td style="width:50%">
 
-**![Figuur 5](Images/categories.jpg)**
+```{r, echo=FALSE, fig.cap="De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum.", out.width="60%"}
+knitr::include_graphics("images/fig4.png")
+```
 
-**Figuur 5**: De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale   Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad. 
+</td><td style="width:50%">
 
-**![Figuur 6](Images/iQualify.jpg)**
+```{r, echo=FALSE, fig.cap="De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale   Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad.", out.width="30%"}
+knitr::include_graphics("images/categories.jpg")
+```
 
-**Figuur 6**: DeKennistoetsenbank bevat itembanken voor gebruikers van Pedagogisch Werk (PW), Maatschap- pelijke Zorg (MZ) en Verpleegkundige en Verzorgende opleidingen MBO Zorg en Welzijn. Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.
+</td></tr></table>
 
-**![Figuur 7](Images/fig7.jpg)**
+DeKennistoetsenbank bevat itembanken voor gebruikers van Pedagogisch Werk (PW), Maatschap- pelijke Zorg (MZ) en Verpleegkundige en Verzorgende opleidingen MBO Zorg en Welzijn.
 
-**Figuur 7**: Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt.
+<table>
+<tr>
+<td style="width:50%">
 
-**![Figuur 8](Images/fig8.jpg)**
+```{r, echo=FALSE, fig.cap="Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.", out.width="25%", fig.pos='left'}
+knitr::include_graphics("images/iQualify.jpg")
+```
 
-**Figuur 8**: Indeling vragenbank LUMC. In het itembanksysteem RemindoToets heeft het Leids Universitair Medisch Centrum (LUMC) een itembank.
+</td><td style="width:50%">
 
-**![Figuur 8.1](Images/vragenbank.jpg)**
+```{r, echo=FALSE, fig.cap="Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt.", out.width="80%", fig.pos='left'}
+knitr::include_graphics("images/fig7.jpg")
+```
 
-**Figuur 8.1**: In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vind- baarheid van items voor docenten en het beheer van de vragen door docenten.
+</td></tr></table>
 
-**![Figuur 8.2](Images/categorieen.jpg)**
+Indeling vragenbank LUMC. In het itembanksysteem RemindoToets heeft het Leids Universitair Medisch Centrum (LUMC) een itembank.
 
-**Figuur 8.2**: Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.
+<table><tr><td>
 
-**![Figuur 9](Images/vragen.jpg)**
+```{r, echo=FALSE, fig.cap="In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vind- baarheid van items voor docenten en het beheer van de vragen door docenten.", out.width="30%", fig.pos='left'}
+knitr::include_graphics("images/vragenbank.jpg")
+```
 
-**Figuur 9**: Structuur van de itembank van Toets & Leer.
-Iedere itembank binnen het itembanksysteem RemindoToets van Toets & Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp > Leerdoel > Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.
+</td><td style="width:50%">
+
+```{r, echo=FALSE, fig.cap="Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.", out.width="35%", fig.pos='left'}
+knitr::include_graphics("images/categorieen.jpg")
+```
+
+</td></tr></table>
+
+Structuur van de itembank van Toets & Leer.
+
+```{r, echo=FALSE, fig.cap="Iedere itembank binnen het itembanksysteem RemindoToets van Toets & Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp > Leerdoel > Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.", out.width="30%", fig.pos='left'}
+knitr::include_graphics("images/vragen.jpg")
+```
 
 ### Structuur en metadata gebruiken
 
@@ -376,9 +429,9 @@ Als in je vakgebied sprake is van een breed gedragen Body of Knowledge (BoK, ken
 
 Als het curriculum (vakindeling) er niet nauw bij aansluit, wat helaas vaak het geval is, levert het kiezen van de BoK als hoofdstructuur in de praktijk problemen op. Vaak is het dan efficiënter om als hoofdstructuur de curriculumindeling (vakken) te volgen en daar BoK-gegevens als metadata aan te koppelen.
 
-**![Figuur 10](Images/fig10.png)**
-
-**Figuur 10**: Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.
+```{r, echo=FALSE, fig.cap="Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.", out.width="100%", fig.pos='left'}
+knitr::include_graphics("images/fig10.png")
+```
 
 ::::
 
@@ -443,7 +496,7 @@ Bij meerkeuzevragen wordt de een-uit-vijfvraag veel door Amerikanen gebruikt. De
 Het verhogen van de kwaliteit van toetsing is meestal één van de belangrijkste redenen om gezamenlijk aan itembanken te werken. Zie [§ 3.1.2](#waarom-samenwerken-aan-een-itembank). De kwaliteit van toetsing neemt toe als de kwaliteit van de items toeneemt. Maar hoe zorgt een
 tool als een gezamenlijke itembank voor een hogere itemkwaliteit? Daarover gaat dit hoofdstuk.
 
-Er zijn veel definities voor de kwaliteit van toetsing.[@a061ccfdc1fe4c00bf328e9808c0cb6d] De kwaliteit van een itembanksysteem betreft de mate waarin het systeem het mogelijk maakt om op een effectieve, efficiënte en prettige manier items te ontwikkelen, te beheren en te selecteren voor opname in een toets. De kwaliteit van de itembank neemt toe naar mate de items beter de leerdoelen uit de toetsmatrijs representeren. De kwaliteit neemt ook toe als er meer items in de itembank zitten die van hogere kwaliteit zijn.
+Er zijn veel definities voor de kwaliteit van toetsing [@a061ccfdc1fe4c00bf328e9808c0cb6d]. De kwaliteit van een itembanksysteem betreft de mate waarin het systeem het mogelijk maakt om op een effectieve, efficiënte en prettige manier items te ontwikkelen, te beheren en te selecteren voor opname in een toets. De kwaliteit van de itembank neemt toe naar mate de items beter de leerdoelen uit de toetsmatrijs representeren. De kwaliteit neemt ook toe als er meer items in de itembank zitten die van hogere kwaliteit zijn.
 
 ### Kwaliteit van items
 
@@ -458,17 +511,17 @@ De betrouwbaarheid wordt ook groter door items te construeren die beter discrimi
 
 :::{.tip}
 
-Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld Van Berkel, H. J. M., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het Hoger Onderwijs. (4rd ed.). Houten/Diegem: Bohn Stafleu Van Loghum.
+Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld @van2017toetsen [Toetsen in het Hoger Onderwijs](https://www.google.com/search?q=toetsen+in+het+hoger+onderwijs).
 
 ::::
 
 ### Hoe realiseer je een kwaliteitsverbetering?
 
-Je verhoogt de kwaliteit van items door fluctuatie in kwaliteit van items te verminderen en de vraagkwaliteit op een hoger niveau te krijgen. Dit inzicht komt voort uit het vakgebied van de operations management, zoals geïllustreerd in figuur 11. In het linker plaatje zie je dat de kwaliteit van een product of dienst gemiddeld vrij laag is, dan weer eens hoog en dan weer eens laag, maar niet stijgend. Het rechter- plaatje laat zien dat de kwaliteit gestaag toeneemt en de fluctuatie kleiner wordt. Om een dergelijke kwaliteitsverbetering te realiseren, is een doelgerichte benadering nodig.
+Je verhoogt de kwaliteit van items door fluctuatie in kwaliteit van items te verminderen en de vraagkwaliteit op een hoger niveau te krijgen. Dit inzicht komt voort uit het vakgebied van de operations management, zoals geïllustreerd in figuur \@ref(fig:KwaliTijd). In het linker plaatje zie je dat de kwaliteit van een product of dienst gemiddeld vrij laag is, dan weer eens hoog en dan weer eens laag, maar niet stijgend. Het rechter- plaatje laat zien dat de kwaliteit gestaag toeneemt en de fluctuatie kleiner wordt. Om een dergelijke kwaliteitsverbetering te realiseren, is een doelgerichte benadering nodig.
 
-**![Figuur 11](Images/fig11.jpg)**
-
-**Figuur 11**: Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.
+```{r KwaliTijd, echo=FALSE, fig.cap="Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.", out.width="100%", fig.pos='left'}
+knitr::include_graphics("images/fig11.jpg")
+```
 
 Er zijn twee manieren om de kwaliteit van nieuwe items te verhogen: ofwel door een grotere vaardigheid te ontwikkelen in het construeren van items, ofwel door review tijdens het constructieproces. Itembanksystemen bieden hiervoor workflow-onder- steuning. Zo werk je systematisch aan kwaliteitsverhoging.
 
@@ -518,7 +571,7 @@ De data kun je vertalen naar een grafische overzichtspagina voor docenten of stu
 
 Psychometrische gegevens zeggen iets over de moeilijkheidsgraad van items en in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Daarbij maakt het uit of je gebruikmaakt van de klassieke testtheorie (KTT) of de item-response-theorie (IRT). In deze paragraaf leggen we beide theorieën kort uit.
 
-**De klassieke testtheorie (KTT)**
+##### De klassieke testtheorie (KTT)
 
 De klassieke testtheorie gaat ervan uit dat de score op een toets bestaat uit de werkelijke score en een fout in de meting (ruis). Door statistische bewerkingen kan van één toets worden bepaald wat de betrouwbaarheid is van de toets, dat wil zeggen, in welke bandbreedte de werkelijke score van de student met een bepaalde mate van zekerheid ligt.
 
@@ -531,10 +584,10 @@ vermogen van een vraag. Dat is de mate waarin het item onderscheid maakt tussen 
 
 Het kan waardevol zijn om psychometrische gegevens bij de items op te slaan. Sommige toetssystemen ondersteunen zelfs een automatische update van deze gegevens na iedere beantwoording door een student. Op zich aantrekkelijk, ware het niet dat ze alleen interpreteerbaar zijn per toetsafname. Onderling kun je ze alleen vergelijken als de afnamecondities identiek zijn. Psychometrische gegevens per toetsafname zijn wel zinnig.
 
-**De item-response-theorie (IRT)**
+##### De item-response-theorie (IRT)
 
 Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van
-items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen. [@linden2000computerized]
+items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen [@linden2000computerized].
 
 Soms kiezen docenten in de voorbereiding voor adaptief toetsen, zonder zich voldoende te realiseren dat hiervoor complexe en kostbare IRT-technieken nodig zijn. Kies hier alleen voor als de projectgelden toereikend zijn.
 
@@ -569,7 +622,7 @@ itemontwikkelproces, waarin de reviewer van een item checkt of het gebruikte bee
 
 ### Misbruik van itembankmateriaal
 
-Instellingen willen meestal voorkomen dat de items ‘op straat’ terecht komen, vooral als het summatieve items betreft. Vaak komen toetsen en items terecht op www.studeersnel.nl, www.stuvia.nl en www.knoowy.nl. Spreek de website aan op het auteursrecht. Zij zijn geen eigenaar van de items en mogen ze dus niet publiceren. Als je ze vraagt om de items te verwijderen, moeten zij hieraan gehoor geven.
+Instellingen willen meestal voorkomen dat de items ‘op straat’ terecht komen, vooral als het summatieve items betreft. Vaak komen toetsen en items terecht op https://www.studeersnel.nl, https://www.stuvia.nl en https://www.knoowy.nl. Spreek de website aan op het auteursrecht. Zij zijn geen eigenaar van de items en mogen ze dus niet publiceren. Als je ze vraagt om de items te verwijderen, moeten zij hieraan gehoor geven.
 
 ### Het gebruik van materiaal van andere partijen in itembanken
 
@@ -577,7 +630,7 @@ Je kan niet zomaar allerlei video’s en afbeeldingen van anderen overnemen in i
 
 Ga na of je instelling, of de instelling waarmee je wilt samenwerken, een regeling   heeft getroffen met Stichting Pro (Publicatie en Reproductie Organisatie). Dit orgaan monitort auteursrechten binnen het onderwijs en beschermt de bij haar aangesloten uitgeverijen. Pro controleert instellingen op het gebruik en hergebruik van publicaties van commerciële partijen. Instellingen kunnen ervoor kiezen om Stichting Pro jaarlijks een afkoopbedrag te betalen. Daardoor hoeven deze instellingen geen administratie bij te houden voor korte stukken tekst die worden overgenomen.
 
-Als je instelling géén afkoopbedrag betaalt, moet je expliciet rekening houden met auteursrecht. Soms moet je voor een overgenomen bron betalen, maar vaak ook niet. Hieronder sommen we de belangrijkste vuistregels op voor het gebruik van beeld en geluid in items. Deze informatie is ontleend aan www.auteursrechten.nl.
+Als je instelling géén afkoopbedrag betaalt, moet je expliciet rekening houden met auteursrecht. Soms moet je voor een overgenomen bron betalen, maar vaak ook niet. Hieronder sommen we de belangrijkste vuistregels op voor het gebruik van beeld en geluid in items. Deze informatie is ontleend aan https://www.auteursrechten.nl.
 
 #### Linken mag altijd
 
