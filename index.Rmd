@@ -1,8 +1,8 @@
 --- 
-title: "Handboek<br>In 5 stappen naar een itembank"
-# subtitle: "Wegwijs in toetsvragenbanken"
-author: ["Lijst", ", Aanvullen"]
-date: "`r Sys.Date()`"
+title: "Handboek Itembanken"
+subtitle: "In 5 stappen naar een itembank"
+author: ["SURF,", "Versnellingsplan"]
+date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
