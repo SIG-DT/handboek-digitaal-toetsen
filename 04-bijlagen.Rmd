@@ -48,7 +48,7 @@ Een formatieve toets waarbij een kandidaat inzicht krijgt in zijn progressie doo
 Dit is het cyclische proces om van leerdoelen, via items, toetsen, afname en analyse toetsing te realiseren en voortdurend te verbeteren. Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van de itembank gesitueerd.
 
 ```{r, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="40%"}
-knitr::include_graphics("images/ToetsCyclus.svg")
+knitr::include_graphics("images/ToetsCyclus.png")
 ```
 
 **Formatieve feedback**  

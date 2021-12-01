@@ -1,4 +1,3 @@
-fig:toetscyclus
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-3
@@ -114,3 +113,4 @@ in-nauwe-samenwerking-met-verschillende-itembank-experts
 met-dank-aan
 opmaak
 copyright
+literatuur
