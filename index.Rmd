@@ -106,16 +106,16 @@ Sommige softwarepakketten bevatten een analysetool voor **toetsanalyse**, maar a
 **Samenwerkingsverbanden**  
 In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:  
 
-**[deKennistoetsenbank MBO](https://www.prove2move.nl/dekennistoetsenbank/)**  
+**[deKennistoetsenbank MBO <i class="fas fa-link"></i>](https://www.prove2move.nl/dekennistoetsenbank/)**  
 Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).   
 
-**[IVTG](https://www.ivtg.nl)**  
+**[IVTG <i class="fas fa-link"></i>](https://www.ivtg.nl)**  
 De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's.
 
-**[10voordeleraar](https://www.10voordeleraar.nl)**  
+**[10voordeleraar <i class="fas fa-link"></i>](https://www.10voordeleraar.nl)**  
 Het programma 10voordeLeraar is onder regie van de Vereniging Hogescholen ontwikkeld en biedt landelijke kennisbases, verplichte kennistoetsen en een peer-review-systematiek voor alle lerarenopleidingen. 
 
-**[Sharestats](https://www.sharestats.nl)**  
+**[Sharestats <i class="fas fa-link"></i>](https://www.sharestats.nl)**  
 Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling leermaterialen over statistiek te bieden. Door meta-datering van het leermateriaal kunnen docenten uit de vakcommunity naar behoefte een selectie van statistiekopgaven kiezen en gebruiken in het eigen onderwijs. De vijf partners van het projectteam (UvA Psychologie en Pedagogische en Onderwijswetenschappen, VU Sociale Wetenschappen (FSW), VU Gedrags- en Bewegingswetenschappen (FGB), UU Sociale Wetenschappen en EUR Psychologie/Pedagogiek) vormen de kern van de vakcommunity.  
 
 :::
