@@ -106,7 +106,7 @@ Sommige softwarepakketten bevatten een analysetool voor **toetsanalyse**, maar a
 **Samenwerkingsverbanden**  
 In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:  
 
-**[deKennistoetsenbank MBO](https://www.provetomove.nl/dekennistoetsenbank)**  
+**[deKennistoetsenbank MBO](https://www.prove2move.nl/dekennistoetsenbank/)**  
 Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).   
 
 **[IVTG](https://www.ivtg.nl)**  
