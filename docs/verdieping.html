@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Deel 3 Verdieping | Handboek In 5 stappen naar een itembank</title>
-  <meta name="description" content="HandboekIn 5 stappen naar een itembank" />
+  <title>Deel 3 Verdieping | Handboek Itembanken</title>
+  <meta name="description" content="Deel 3 Verdieping | Handboek Itembanken" />
   <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Deel 3 Verdieping | Handboek In 5 stappen naar een itembank" />
+  <meta property="og:title" content="Deel 3 Verdieping | Handboek Itembanken" />
   <meta property="og:type" content="book" />
   
   
@@ -16,16 +16,19 @@
   <meta name="github-repo" content="Werkgroep-Toetsen-Op-Afstand/Handboek-Itembanken" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Deel 3 Verdieping | Handboek In 5 stappen naar een itembank" />
+  <meta name="twitter:title" content="Deel 3 Verdieping | Handboek Itembanken" />
   
   
   
 
-<meta name="author" content="Lijst" />
-<meta name="author" content=", Aanvullen" />
+<meta name="author" content="SURF," />
+<meta name="author" content="Versnellingsplan" />
 
 
+<<<<<<< HEAD
 <meta name="date" content="2021-10-07" />
+=======
+>>>>>>> 84d36c3375e1704f89b8170ead9de1c00351b9e9
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -54,92 +57,84 @@
 
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
-<script src="libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
-<script src="libs/d3-3.3.8/d3.min.js"></script>
-<script src="libs/dagre-0.4.0/dagre-d3.min.js"></script>
-<link href="libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
-<script src="libs/mermaid-0.3.0/dist/mermaid.slim.min.js"></script>
-<link href="libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
-<script src="libs/chromatography-0.1/chromatography.js"></script>
-<script src="libs/DiagrammeR-binding-1.0.6.1/DiagrammeR.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KZ7ZD7E9WP"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJLLDXZ9NC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '', { 'anonymize_ip': true });
+  gtag('config', 'G-XJLLDXZ9NC', { 'anonymize_ip': true });
 </script>
+<script src="https://kit.fontawesome.com/6690488952.js" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
+<style>
+.zoomDiv {
+  opacity: 0;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 50;
+  transform: translate(-50%, -50%);
+  box-shadow: 0px 0px 50px #888888;
+  max-height:100%; 
+  overflow: scroll;
+  background-color: rgba(255, 255, 255, .95);
+}
 
-<style type="text/css">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
+.zoomImg {
+  width: 100%;
 }
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
 
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('body').prepend("<div class=\"zoomDiv\"><img src=\"\" class=\"zoomImg\"></div>");
+    // onClick function for all plots (img's)
+    $('img:not(.zoomImg)').click(function() {
+      $('.zoomImg').attr('src', $(this).attr('src'));
+      $('.zoomDiv').css({opacity: '1', width: '60%'});
+    });
+    // onClick function for zoomImg
+    $('img.zoomImg').click(function() {
+      $('.zoomDiv').css({opacity: '0', width: '0%'});
+    });
+  });
+</script>
+
+
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<<<<<<< HEAD
+
 <link rel="stylesheet" href="libs/sass02df998c52e0076bd5209eef5ae2a631/style.min.css" type="text/css" />
+=======
+<link rel="stylesheet" href="libs/sasse7e65224a485205bbc6377148f96357e/style.min.css" type="text/css" />
+>>>>>>> 84d36c3375e1704f89b8170ead9de1c00351b9e9
 </head>
 
 <body>
@@ -152,7 +147,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">Handboek itembanken</a></li>
+<li><a href="./">Handboek Itembanken</a></li>
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introductie</a>
@@ -255,28 +250,73 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="4" data-path="bijlagen.html"><a href="bijlagen.html"><i class="fa fa-check"></i><b>4</b> Bijlagen</a>
 <ul>
-<li class="chapter" data-level="4.1" data-path="bijlagen.html"><a href="bijlagen.html#bijlage-1"><i class="fa fa-check"></i><b>4.1</b> Bijlage 1</a>
+<li class="chapter" data-level="4.1" data-path="bijlagen.html"><a href="bijlagen.html#begrippenkader"><i class="fa fa-check"></i><b>4.1</b> Begrippenkader</a>
 <ul>
-<li class="chapter" data-level="4.1.1" data-path="bijlagen.html"><a href="bijlagen.html#begrippenkader"><i class="fa fa-check"></i><b>4.1.1</b> Begrippenkader</a></li>
+<li class="chapter" data-level="4.1.1" data-path="bijlagen.html"><a href="bijlagen.html#adaptieve-toets"><i class="fa fa-check"></i><b>4.1.1</b> Adaptieve toets</a></li>
+<li class="chapter" data-level="4.1.2" data-path="bijlagen.html"><a href="bijlagen.html#afspeelomgeving"><i class="fa fa-check"></i><b>4.1.2</b> Afspeelomgeving</a></li>
+<li class="chapter" data-level="4.1.3" data-path="bijlagen.html"><a href="bijlagen.html#auteursomgeving"><i class="fa fa-check"></i><b>4.1.3</b> Auteursomgeving</a></li>
+<li class="chapter" data-level="4.1.4" data-path="bijlagen.html"><a href="bijlagen.html#betrouwbaarheid"><i class="fa fa-check"></i><b>4.1.4</b> Betrouwbaarheid</a></li>
+<li class="chapter" data-level="4.1.5" data-path="bijlagen.html"><a href="bijlagen.html#body-of-knowledge-bok"><i class="fa fa-check"></i><b>4.1.5</b> Body of Knowledge (BoK)</a></li>
+<li class="chapter" data-level="4.1.6" data-path="bijlagen.html"><a href="bijlagen.html#businesscase"><i class="fa fa-check"></i><b>4.1.6</b> Businesscase</a></li>
+<li class="chapter" data-level="4.1.7" data-path="bijlagen.html"><a href="bijlagen.html#cronbachs-alpha"><i class="fa fa-check"></i><b>4.1.7</b> Cronbach’s alpha</a></li>
+<li class="chapter" data-level="4.1.8" data-path="bijlagen.html"><a href="bijlagen.html#diagnostische-toetsen-onderdeel-van-formatieve-toetsen"><i class="fa fa-check"></i><b>4.1.8</b> Diagnostische toetsen (onderdeel van formatieve toetsen)</a></li>
+<li class="chapter" data-level="4.1.9" data-path="bijlagen.html"><a href="bijlagen.html#digitaal-toetssysteem"><i class="fa fa-check"></i><b>4.1.9</b> Digitaal toetssysteem</a></li>
+<li class="chapter" data-level="4.1.10" data-path="bijlagen.html"><a href="bijlagen.html#formatieve-feedback"><i class="fa fa-check"></i><b>4.1.10</b> Formatieve feedback</a></li>
+<li class="chapter" data-level="4.1.11" data-path="bijlagen.html"><a href="bijlagen.html#formatieve-toetsing"><i class="fa fa-check"></i><b>4.1.11</b> Formatieve toetsing</a></li>
+<li class="chapter" data-level="4.1.12" data-path="bijlagen.html"><a href="bijlagen.html#geparametriseerde-vraag"><i class="fa fa-check"></i><b>4.1.12</b> Geparametriseerde vraag</a></li>
+<li class="chapter" data-level="4.1.13" data-path="bijlagen.html"><a href="bijlagen.html#ims"><i class="fa fa-check"></i><b>4.1.13</b> IMS</a></li>
+<li class="chapter" data-level="4.1.14" data-path="bijlagen.html"><a href="bijlagen.html#item-response-theorie-irt"><i class="fa fa-check"></i><b>4.1.14</b> Item-response theorie (IRT)</a></li>
+<li class="chapter" data-level="4.1.15" data-path="bijlagen.html"><a href="bijlagen.html#item"><i class="fa fa-check"></i><b>4.1.15</b> Item</a></li>
+<li class="chapter" data-level="4.1.16" data-path="bijlagen.html"><a href="bijlagen.html#itembank"><i class="fa fa-check"></i><b>4.1.16</b> Itembank</a></li>
+<li class="chapter" data-level="4.1.17" data-path="bijlagen.html"><a href="bijlagen.html#itembanksysteem"><i class="fa fa-check"></i><b>4.1.17</b> Itembanksysteem</a></li>
+<li class="chapter" data-level="4.1.18" data-path="bijlagen.html"><a href="bijlagen.html#klassieke-testtheorie"><i class="fa fa-check"></i><b>4.1.18</b> Klassieke testtheorie</a></li>
+<li class="chapter" data-level="4.1.19" data-path="bijlagen.html"><a href="bijlagen.html#kr20"><i class="fa fa-check"></i><b>4.1.19</b> KR20</a></li>
+<li class="chapter" data-level="4.1.20" data-path="bijlagen.html"><a href="bijlagen.html#learning-analytics"><i class="fa fa-check"></i><b>4.1.20</b> Learning analytics</a></li>
+<li class="chapter" data-level="4.1.21" data-path="bijlagen.html"><a href="bijlagen.html#lti"><i class="fa fa-check"></i><b>4.1.21</b> LTI</a></li>
+<li class="chapter" data-level="4.1.22" data-path="bijlagen.html"><a href="bijlagen.html#meetfout"><i class="fa fa-check"></i><b>4.1.22</b> Meetfout</a></li>
+<li class="chapter" data-level="4.1.23" data-path="bijlagen.html"><a href="bijlagen.html#metadata-1"><i class="fa fa-check"></i><b>4.1.23</b> Metadata</a></li>
+<li class="chapter" data-level="4.1.24" data-path="bijlagen.html"><a href="bijlagen.html#misclassificaties"><i class="fa fa-check"></i><b>4.1.24</b> Misclassificaties</a></li>
+<li class="chapter" data-level="4.1.25" data-path="bijlagen.html"><a href="bijlagen.html#oefentoetsen-onderdeel-van-formatieve-toetsen"><i class="fa fa-check"></i><b>4.1.25</b> Oefentoetsen (onderdeel van formatieve toetsen)</a></li>
+<li class="chapter" data-level="4.1.26" data-path="bijlagen.html"><a href="bijlagen.html#psychometrische-data-1"><i class="fa fa-check"></i><b>4.1.26</b> Psychometrische data</a></li>
+<li class="chapter" data-level="4.1.27" data-path="bijlagen.html"><a href="bijlagen.html#p-waarde"><i class="fa fa-check"></i><b>4.1.27</b> P-waarde</a></li>
+<li class="chapter" data-level="4.1.28" data-path="bijlagen.html"><a href="bijlagen.html#qti"><i class="fa fa-check"></i><b>4.1.28</b> QTI</a></li>
+<li class="chapter" data-level="4.1.29" data-path="bijlagen.html"><a href="bijlagen.html#rit-waarde"><i class="fa fa-check"></i><b>4.1.29</b> Rit-waarde</a></li>
+<li class="chapter" data-level="4.1.30" data-path="bijlagen.html"><a href="bijlagen.html#scorm"><i class="fa fa-check"></i><b>4.1.30</b> SCORM</a></li>
+<li class="chapter" data-level="4.1.31" data-path="bijlagen.html"><a href="bijlagen.html#stabiel-domein"><i class="fa fa-check"></i><b>4.1.31</b> Stabiel domein</a></li>
+<li class="chapter" data-level="4.1.32" data-path="bijlagen.html"><a href="bijlagen.html#structuur-1"><i class="fa fa-check"></i><b>4.1.32</b> Structuur</a></li>
+<li class="chapter" data-level="4.1.33" data-path="bijlagen.html"><a href="bijlagen.html#summatieve-toetsing"><i class="fa fa-check"></i><b>4.1.33</b> Summatieve toetsing</a></li>
+<li class="chapter" data-level="4.1.34" data-path="bijlagen.html"><a href="bijlagen.html#toetsitem"><i class="fa fa-check"></i><b>4.1.34</b> Toetsitem</a></li>
+<li class="chapter" data-level="4.1.35" data-path="bijlagen.html"><a href="bijlagen.html#toetstransparantie"><i class="fa fa-check"></i><b>4.1.35</b> Toetstransparantie</a></li>
+<li class="chapter" data-level="4.1.36" data-path="bijlagen.html"><a href="bijlagen.html#toetsmatrijs"><i class="fa fa-check"></i><b>4.1.36</b> Toetsmatrijs</a></li>
+<li class="chapter" data-level="4.1.37" data-path="bijlagen.html"><a href="bijlagen.html#toetsveiligheid"><i class="fa fa-check"></i><b>4.1.37</b> Toetsveiligheid</a></li>
+<li class="chapter" data-level="4.1.38" data-path="bijlagen.html"><a href="bijlagen.html#toetsvraag"><i class="fa fa-check"></i><b>4.1.38</b> Toetsvraag</a></li>
+<li class="chapter" data-level="4.1.39" data-path="bijlagen.html"><a href="bijlagen.html#vakgebied"><i class="fa fa-check"></i><b>4.1.39</b> Vakgebied</a></li>
+<li class="chapter" data-level="4.1.40" data-path="bijlagen.html"><a href="bijlagen.html#vragenbank"><i class="fa fa-check"></i><b>4.1.40</b> Vragenbank</a></li>
+<li class="chapter" data-level="4.1.41" data-path="bijlagen.html"><a href="bijlagen.html#volatiel-domein"><i class="fa fa-check"></i><b>4.1.41</b> Volatiel domein</a></li>
+<li class="chapter" data-level="4.1.42" data-path="bijlagen.html"><a href="bijlagen.html#workflow"><i class="fa fa-check"></i><b>4.1.42</b> Workflow</a></li>
 </ul></li>
-<li class="chapter" data-level="4.2" data-path="bijlagen.html"><a href="bijlagen.html#bijlage-2"><i class="fa fa-check"></i><b>4.2</b> Bijlage 2</a>
+<li class="chapter" data-level="4.2" data-path="bijlagen.html"><a href="bijlagen.html#workflows-voor-itemontwikkeling"><i class="fa fa-check"></i><b>4.2</b> Workflows voor itemontwikkeling</a>
 <ul>
-<li class="chapter" data-level="4.2.1" data-path="bijlagen.html"><a href="bijlagen.html#workflows-voor-itemontwikkeling"><i class="fa fa-check"></i><b>4.2.1</b> Workflows voor itemontwikkeling</a></li>
+<li class="chapter" data-level="4.2.1" data-path="bijlagen.html"><a href="bijlagen.html#een-itemontwikkelproces-door-twee-docenten"><i class="fa fa-check"></i><b>4.2.1</b> Een itemontwikkelproces door twee docenten</a></li>
+<li class="chapter" data-level="4.2.2" data-path="bijlagen.html"><a href="bijlagen.html#itemontwikkelproces-samenwerking-tussen-hogescholen"><i class="fa fa-check"></i><b>4.2.2</b> Itemontwikkelproces samenwerking tussen hogescholen</a></li>
+<li class="chapter" data-level="4.2.3" data-path="bijlagen.html"><a href="bijlagen.html#itemontwikkelproces-mbo-kennistoetsenbank"><i class="fa fa-check"></i><b>4.2.3</b> Itemontwikkelproces MBO Kennistoetsenbank</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="colofon.html"><a href="colofon.html"><i class="fa fa-check"></i><b>5</b> Colofon</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="colofon.html"><a href="colofon.html#authors"><i class="fa fa-check"></i><b>5.1</b> Authors</a></li>
-<li class="chapter" data-level="5.2" data-path="colofon.html"><a href="colofon.html#advies"><i class="fa fa-check"></i><b>5.2</b> Advies</a></li>
-<li class="chapter" data-level="5.3" data-path="colofon.html"><a href="colofon.html#redactie"><i class="fa fa-check"></i><b>5.3</b> Redactie</a></li>
-<li class="chapter" data-level="5.4" data-path="colofon.html"><a href="colofon.html#inhoudelijke-inbreng"><i class="fa fa-check"></i><b>5.4</b> Inhoudelijke inbreng</a></li>
-<li class="chapter" data-level="5.5" data-path="colofon.html"><a href="colofon.html#met-dank-aan"><i class="fa fa-check"></i><b>5.5</b> Met dank aan</a></li>
-<li class="chapter" data-level="5.6" data-path="colofon.html"><a href="colofon.html#vormgeving"><i class="fa fa-check"></i><b>5.6</b> Vormgeving</a></li>
-<li class="chapter" data-level="5.7" data-path="colofon.html"><a href="colofon.html#photography"><i class="fa fa-check"></i><b>5.7</b> Photography</a></li>
-<li class="chapter" data-level="5.8" data-path="colofon.html"><a href="colofon.html#copyright"><i class="fa fa-check"></i><b>5.8</b> Copyright</a></li>
+<li class="chapter" data-level="5.1" data-path="colofon.html"><a href="colofon.html#aan-deze-herziene-uitgave-werkten-mee"><i class="fa fa-check"></i><b>5.1</b> Aan deze herziene uitgave werkten mee:</a></li>
+<li class="chapter" data-level="5.2" data-path="colofon.html"><a href="colofon.html#de-oorspronkelijke-publicatie-is-geschreven-door"><i class="fa fa-check"></i><b>5.2</b> De oorspronkelijke publicatie is geschreven door:</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="colofon.html"><a href="colofon.html#redactie"><i class="fa fa-check"></i><b>5.2.1</b> Redactie</a></li>
 </ul></li>
+<li class="chapter" data-level="5.3" data-path="colofon.html"><a href="colofon.html#in-nauwe-samenwerking-met-verschillende-itembank-experts"><i class="fa fa-check"></i><b>5.3</b> In nauwe samenwerking met verschillende itembank-experts:</a></li>
+<li class="chapter" data-level="5.4" data-path="colofon.html"><a href="colofon.html#met-dank-aan"><i class="fa fa-check"></i><b>5.4</b> Met dank aan</a></li>
+<li class="chapter" data-level="5.5" data-path="colofon.html"><a href="colofon.html#opmaak"><i class="fa fa-check"></i><b>5.5</b> Opmaak</a></li>
+<li class="chapter" data-level="5.6" data-path="colofon.html"><a href="colofon.html#copyright"><i class="fa fa-check"></i><b>5.6</b> Copyright</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="literatuur.html"><a href="literatuur.html"><i class="fa fa-check"></i><b>6</b> Literatuur</a></li>
 <li class="divider"></li>
-<li><a href="mailto:annette.peet@surfnet.nl?SUBJECT=Reactie Resultaten Enquête Docenten" target="blank">Mail de werkgroep</a></li>
+<li><a href="mailto:annette.peet@surfnet.nl?SUBJECT=Reactie Handboek Itembanken" target="blank">Mail de werkgroep</a></li>
 <li><a href="https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/Verklaring_privacy_cookies.txt" target="blank">Privacyverklaring</a></li>
 <li><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></li>
 
@@ -289,7 +329,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Handboek<br>In 5 stappen naar een itembank</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Handboek Itembanken</a>
           </h1>
         </div>
 
@@ -437,7 +477,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <td>Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat je drie verschillende varianten van de toets samenstelt en dat de toets uit vijftig items bestaat. Dan is een itembank van 150 items afdoende.</td>
 </tr>
 <tr class="even">
-<td>Stel dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items.<span class="citation">[@draaijer2015practical]</span></td>
+<td>Stel dat de toetsvragen wel worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets random gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Dan is een itembank nodig waarbij de omvang bij elke toetsafname moet groeien met honderd items. Na vijf jaar heb je een itembank met 500 items <span class="citation">(<a href="#ref-draaijer2015practical" role="doc-biblioref">Draaijer and Klinkenberg 2015</a>)</span>.</td>
 <td>Stel dat de toetsvragen niet worden vrijgegeven na afloop van de toets, dat er voor elke positie van een vraag in de toets willekeurig gekozen wordt voor een van de twee items voor die positie en dat de toets uit vijftig items bestaat. Een itembank van honderd items is afdoende.</td>
 </tr>
 </tbody>
@@ -447,7 +487,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h3><span class="header-section-number">3.3.2</span> Summatieve toetsen die op elk moment kunnen worden afgenomen</h3>
 <p>Er zijn ook toetsen die worden afgenomen op aanvraag van de student. Daarbij bestaat het gevaar dat studenten items gaan verzamelen en met elkaar gaan delen. Of dat studenten zich vaker voor de toets inschrijven in de hoop dezelfde items te beantwoorden waarop ze dan het correcte antwoord weten.</p>
 <p>Over dergelijke toetsen zegt men soms dat het niet erg is dat de toetsvragen bekend zijn, als de bank maar groot genoeg is. Immers, als studenten kunnen oefenen met alle items, leren ze vanzelf de stof. Er zal echter ook een groep studenten proberen de correcte antwoorden letterlijk uit het hoofd te leren, waardoor er geen echte kennis of begrip wordt verworven. Als ze hierin slagen, maakt dit de toets minder valide. Hoeveel items er nodig zijn om dit tegen te gaan, is niet te zeggen. Itembanken van ten minste 1000 tot 2000 items lijken noodzakelijk.</p>
-<p>Het is in alle gevallen aan te raden studenten nieuwe vragen te laten beantwoorden. Een minimale variant is dat alternatieven uit meerkeuzevragen variëren van inhoud of van positie. Daarnaast zou gebruik kunnen worden gemaakt van geparametriseerde items. Dit zijn vragen waarbij getallen, objecten, concepten of begrippen worden getrokken uit een verzameling.<span class="citation">[@gierl2012automatic]</span></p>
+<p>Het is in alle gevallen aan te raden studenten nieuwe vragen te laten beantwoorden. Een minimale variant is dat alternatieven uit meerkeuzevragen variëren van inhoud of van positie. Daarnaast zou gebruik kunnen worden gemaakt van geparametriseerde items. Dit zijn vragen waarbij getallen, objecten, concepten of begrippen worden getrokken uit een verzameling <span class="citation">(<a href="#ref-fattoh2014automatic" role="doc-biblioref">Fattoh 2014</a>)</span>.</p>
 <div class="tip">
 <p>Bij de start van het itembankproject van de Open Universiteit gold de richtlijn dat er vijftien keer zoveel items in de bank moesten zitten als het aantal items in een toets. Deze eis was afgeleid van drie tentamenmogelijkheden per jaar en de aanname dat studenten binnen vijf jaar de opleiding zouden afronden.</p>
 <p>Voor docenten was het bijna onhaalbaar om zoveel items te maken, hoewel het voor ongeveer vijftig itembanken is gelukt. De OU heeft de programmatuur laten aanpassen, zodat studenten pas na vijf keer weer eenzelfde item voorgelegd konden krijgen. Daarmee kon de eis van vijftien keer verlaagd worden naar zes keer; een opluchting voor docenten.</p>
@@ -466,7 +506,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="kosten-en-baten" class="section level2" number="3.4">
 <h2><span class="header-section-number">3.4</span> Kosten en baten</h2>
-<p>Tijdens de voorbereiding schat je de financiële haalbaarheid van je project in. Je maakt een globale inschatting van de te verwachten investeringskosten en exploitatiekosten van de itembank. Daarnaast kijk je naar de kwantitatieve en kwalitatieve voordelen of baten die de itembank mogelijk oplevert. Je probeert antwoord te vinden op de vragen ‘waarom investeren in een itembank?’ en ‘wegen de kosten op tegen de baten?’ Het uitwerken van een kosten-batenanalyse biedt hiervoor uitkomst. Bij grote investeringsplannen wordt steeds vaker een businesscase gevraagd. Een businesscase geeft antwoord op de vraag ‘waarom willen we dit eigenlijk?’. Het is een onderbouwing van toekomstig besluit en draagt eraan bij dat iedereen begrijpt waarom het project belangrijk is.</p>
+<p>Tijdens de voorbereiding schat je de financiële haalbaarheid van je project in. Je maakt een globale inschatting van de te verwachten investeringskosten en exploitatiekosten van de itembank. Daarnaast kijk je naar de kwantitatieve en kwalitatieve voordelen of baten die de itembank mogelijk oplevert. Je probeert antwoord te vinden op de vragen ‘waarom investeren in een itembank?’ en ‘wegen de kosten op tegen de baten?’ Het uitwerken van een kosten-batenanalyse biedt hiervoor uitkomst. Bij grote investeringsplannen wordt steeds vaker een businesscase gevraagd. Een businesscase geeft antwoord op de vraag ‘waarom willen we dit eigenlijk?’ Het is een onderbouwing van toekomstig besluit en draagt eraan bij dat iedereen begrijpt waarom het project belangrijk is.</p>
 <p>Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatie- traject van digitaal toetsen bij instellingen. Hier ligt vaak een businesscase aan ten grondslag. De kosten en baten van een te ontwikkelen itembank is dan een van de onderdelen. 9 Voor meer informatie over de businesscase zie de thema-uitgave <a href="https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf">Digitale toets- en itembanken in het onderwijs, jan 2017</a> (hoofdstuk Kosten en baten van een itembank, bladzijde 12).</p>
 <div id="kosten" class="section level3" number="3.4.1">
 <h3><span class="header-section-number">3.4.1</span> Kosten</h3>
@@ -503,6 +543,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="componenten-en-processtappen" class="section level3" number="3.5.1">
 <h3><span class="header-section-number">3.5.1</span> Componenten en processtappen</h3>
 <p>Itembanksystemen bestaan vaak uit verschillende componenten met bijbehorende functies. Kerncomponenten zijn meestal een auteursomgeving, een itembank, een afspeelomgeving en een analysegereedschap. Binnen elk van die kerncomponenten zijn processtappen te onderscheiden. Neem de functionaliteiten van de itembank. Hierin onderscheiden we processen om items te kunnen invoeren, controleren, wijzigen, voorzien van metadata, ordenen en selecteren.</p>
+<<<<<<< HEAD
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="verdieping.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(<span class="st">&quot;DiagrammeR&quot;</span>)</span>
 <span id="cb1-2"><a href="verdieping.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">mermaid</span>(<span class="st">&quot;</span></span>
 <span id="cb1-3"><a href="verdieping.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="st">sequenceDiagram</span></span>
@@ -521,6 +562,29 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p><strong><img src="Images/Processtappen.png" alt="Figuur 2" /></strong><br />
 <strong>Figuur 2</strong></p>
 <p>In figuur 2 staat een uitwerking van een aantal processtappen die binnen de verschillende componenten van een toetssysteem kunnen plaatsvinden.</p>
+=======
+<p>Hieronder staat een uitwerking van een aantal processtappen die binnen de verschillende componenten van een toetssysteem kunnen plaatsvinden.</p>
+<div class="stappenplan">
+<ol style="list-style-type: decimal">
+<li>Auteursomgeving
+<ul>
+<li>Auteur schrijft item</li>
+<li>Review door collega reviewer</li>
+<li>Redactie door toetsexpert</li>
+<li>Specialist metadateert item</li>
+<li>Gatekeeper geeft items vrij</li>
+</ul></li>
+<li>Afname omgeving
+<ul>
+<li>Toetsbureau zet toets klaar</li>
+</ul></li>
+<li>Analysetool
+<ul>
+<li>Docent analyseert toets met toetsexpert</li>
+</ul></li>
+</ol>
+</div>
+>>>>>>> 84d36c3375e1704f89b8170ead9de1c00351b9e9
 </div>
 <div id="rollen-en-rechten" class="section level3" number="3.5.2">
 <h3><span class="header-section-number">3.5.2</span> Rollen en rechten</h3>
@@ -723,7 +787,7 @@ computerafname, zoals het verslepen of aanklikken van objecten. Dat elke vraag k
 <h2><span class="header-section-number">3.7</span> Didactiek: kwaliteit van items</h2>
 <p>Het verhogen van de kwaliteit van toetsing is meestal één van de belangrijkste redenen om gezamenlijk aan itembanken te werken. Zie <a href="verdieping.html#waarom-samenwerken-aan-een-itembank">§ 3.1.2</a>. De kwaliteit van toetsing neemt toe als de kwaliteit van de items toeneemt. Maar hoe zorgt een
 tool als een gezamenlijke itembank voor een hogere itemkwaliteit? Daarover gaat dit hoofdstuk.</p>
-<p>Er zijn veel definities voor de kwaliteit van toetsing.<span class="citation">[@a061ccfdc1fe4c00bf328e9808c0cb6d]</span> De kwaliteit van een itembanksysteem betreft de mate waarin het systeem het mogelijk maakt om op een effectieve, efficiënte en prettige manier items te ontwikkelen, te beheren en te selecteren voor opname in een toets. De kwaliteit van de itembank neemt toe naar mate de items beter de leerdoelen uit de toetsmatrijs representeren. De kwaliteit neemt ook toe als er meer items in de itembank zitten die van hogere kwaliteit zijn.</p>
+<p>Er zijn veel definities voor de kwaliteit van toetsing <span class="citation">(<a href="#ref-a061ccfdc1fe4c00bf328e9808c0cb6d" role="doc-biblioref">Joosten-ten Brinke and Draaijer 2014</a>)</span>. De kwaliteit van een itembanksysteem betreft de mate waarin het systeem het mogelijk maakt om op een effectieve, efficiënte en prettige manier items te ontwikkelen, te beheren en te selecteren voor opname in een toets. De kwaliteit van de itembank neemt toe naar mate de items beter de leerdoelen uit de toetsmatrijs representeren. De kwaliteit neemt ook toe als er meer items in de itembank zitten die van hogere kwaliteit zijn.</p>
 <div id="kwaliteit-van-items" class="section level3" number="3.7.1">
 <h3><span class="header-section-number">3.7.1</span> Kwaliteit van items</h3>
 <p>Wil je de kwaliteit van items verbeteren, focus je dan op twee soorten basiskwaliteit van toetsing: validiteit en betrouwbaarheid. Met behulp van itembanken kun je in beide een verbeterslag maken. Dit geldt zowel voor formatieve toetsing als voor summatieve toetsing.</p>
@@ -732,7 +796,7 @@ thema of leerdoel. Kwaliteitsverhoging treedt op wanneer docenten vaardiger word
 <p>De betrouwbaarheid gaat over de mate waarin het toetsresultaat (de score op een toets) reproduceerbaar is en zo min mogelijk afhangt van het toeval. Voor een hoge betrouwbaarheid moet de ‘ruis’ of ‘meetfout’ zo klein mogelijk zijn. De betrouwbaarheid van toetsen kan op de eerste plaats groter worden door meer items op te nemen in toetsen. Door gezamenlijk aan itembanken te werken vergroot je de voorraad aan items. Het aantal items waarmee een docent toetsen kan samenstellen, neemt toe.</p>
 <p>De betrouwbaarheid wordt ook groter door items te construeren die beter discrimineren tussen de studenten die voldoende en onvoldoende beheersing hebben van de studiestof. Beter discriminerende items verhogen over het algemeen ook de validiteit: je meet beter wat je wilt meten. Formuleer items in de eerste plaats zo helder, efficiënt en objectief mogelijk om beter te discrimineren.</p>
 <div class="tip">
-<p>Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld Van Berkel, H. J. M., Bax, A., &amp; Joosten-ten Brinke, D. (2017). Toetsen in het Hoger Onderwijs. (4rd ed.). Houten/Diegem: Bohn Stafleu Van Loghum.</p>
+<p>Er zijn veel handboeken en lijstjes met vuistregels om de meest bekende oorzaken voor onduidelijke items te voorkomen en daarmee de ruis. Zie bijvoorbeeld <span class="citation"><a href="#ref-van2017toetsen" role="doc-biblioref">Van Berkel, Bax, and Joosten-ten Brinke</a> (<a href="#ref-van2017toetsen" role="doc-biblioref">2017</a>)</span> <a href="https://www.google.com/search?q=toetsen+in+het+hoger+onderwijs">Toetsen in het Hoger Onderwijs</a>.</p>
 </div>
 </div>
 <div id="hoe-realiseer-je-een-kwaliteitsverbetering" class="section level3" number="3.7.2">
@@ -794,7 +858,7 @@ vermogen van een vraag. Dat is de mate waarin het item onderscheid maakt tussen 
 <div id="de-item-response-theorie-irt" class="section level5" number="3.7.3.2.2">
 <h5><span class="header-section-number">3.7.3.2.2</span> De item-response-theorie (IRT)</h5>
 <p>Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van
-items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen. <span class="citation">[@linden2000computerized]</span></p>
+items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen <span class="citation">(<a href="#ref-linden2000computerized" role="doc-biblioref">Linden, Linden, and Glas 2000</a>)</span>.</p>
 <p>Soms kiezen docenten in de voorbereiding voor adaptief toetsen, zonder zich voldoende te realiseren dat hiervoor complexe en kostbare IRT-technieken nodig zijn. Kies hier alleen voor als de projectgelden toereikend zijn.</p>
 <p>Voor de ordening van de itembank heeft de keuze voor IRT niet zo heel veel consequenties. Het maken van een adaptieve itembank vergt meer kennis en middelen om de kalibratie uit te kunnen voeren, maar het resultaat kan worden opgenomen in een ‘gewone’ itembank. Er zijn voldoende items nodig, verspreid over de verschillende moeilijkheidsniveaus, met meer moeilijke items dan items met een gemiddelde moeilijkheidsgraad.</p>
 <p>Voor een wat uitgebreidere handzame uitleg van de klassieke testtheorie en item-respons theorie, zie <a href="https://www.universiteitleiden.nl/binaries/content/assets/iclon/ho/toetsing-en-toetsanalyse.pdf">De Gruijter, D. N. M. (2008). Toetsing en toetsanalyse</a>.</p>
@@ -848,7 +912,7 @@ itemontwikkelproces, waarin de reviewer van een item checkt of het gebruikte bee
 <ul>
 <li>De citaten dienen ter ondersteuning van de inhoud van het onderwijs. Je mag ze niet gebruiken ter versiering. Ook mag je geen wijzigingen aanbrengen in het te citeren fragment.</li>
 <li>De omvang van het citaat is gerelateerd aan het doel dat je ermee nastreeft. In de praktijk komt dit neer op: gebruik altijd korte fragmenten.</li>
-<li>Afbeeldingen mag je wel in hun geheel ‘citeren’.</li>
+<li>Afbeeldingen mag je wel in hun geheel ‘citeren.’</li>
 <li>Je doet aan bronvermelding.</li>
 </ul>
 </div>
@@ -899,7 +963,7 @@ itemontwikkelproces, waarin de reviewer van een item checkt of het gebruikte bee
 <p>Zodra medewerkers of studenten een account aanmaken voor bijvoorbeeld een toetsapplicatie en de instelling of leverancier toegang heeft tot deze persoons- gegevens, moet er een verwerkersovereenkomst worden getekend tussen de instelling en de leverancier.</p>
 <p>Let op de volgende zaken:</p>
 <ul>
-<li>Het gebruik van een SAAS (software-as-a-service)-dienst vraagt om extra handelingen. De instelling of het samenwerkingsverband moet zorgen voor een vewerkersovereenkomst met de leverancier. Bij het inloggen in de applicatie staat er dan vaak: ‘er zijn gebruiksvoorwaarden van toepassing’. De gebruikers kunnen dit wel of niet accepteren, waarmee de privacy is geborgd. De instelling of het samenwerkingsverband neemt zelf voldoende passende maatregelen. Er is afstemming met de leverancier nodig in een contract en medewerkers moeten weten waar ze aan toe zijn. Als het gaat om een applicatie op de eigen servers, dan is de instelling of het samenwerkingsverband zelf verantwoordelijk voor het systeem en de gegevens. Zorg ook in dat geval voor duidelijke communicatie met medewerkers.</li>
+<li>Het gebruik van een SAAS (software-as-a-service)-dienst vraagt om extra handelingen. De instelling of het samenwerkingsverband moet zorgen voor een vewerkersovereenkomst met de leverancier. Bij het inloggen in de applicatie staat er dan vaak: ‘er zijn gebruiksvoorwaarden van toepassing.’ De gebruikers kunnen dit wel of niet accepteren, waarmee de privacy is geborgd. De instelling of het samenwerkingsverband neemt zelf voldoende passende maatregelen. Er is afstemming met de leverancier nodig in een contract en medewerkers moeten weten waar ze aan toe zijn. Als het gaat om een applicatie op de eigen servers, dan is de instelling of het samenwerkingsverband zelf verantwoordelijk voor het systeem en de gegevens. Zorg ook in dat geval voor duidelijke communicatie met medewerkers.</li>
 <li>Lees meer over de Algemene Verordening Gegevensbescherming op de SURF thema-pagina <a href="https://www.surf.nl/algemene-verordening-gegevensbescherming-avg">Algemene Verordening Gegevensbescherming (AVG)</a>.</li>
 </ul>
 </div>
@@ -908,6 +972,24 @@ itemontwikkelproces, waarin de reviewer van een item checkt of het gebruikte bee
 <p>Ben je van plan om met meerdere instellingen een itembank te ontwikkelen? Leg de rechtsvorm en de onderlinge verhoudingen vast. Stem ook af wie wat op welk moment aanlevert. Dit leg je bijvoorbeeld vast in statuten en of een samenwerkingsovereenkomst.</p>
 
 </div>
+</div>
+</div>
+<h3> Literatuur</h3>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-draaijer2015practical" class="csl-entry">
+Draaijer, S., and S. Klinkenberg. 2015. <span>“A Practical Procedure for the Construction and Reliability Analysis of Fixed Length Tests with Random Drawn Test Items.”</span> In <em>Computer Assisted Assessment: Research into e-Assessment</em>, edited by E. Ras and D. Joosten-Ten Brinke, 47–60. Spinger. <a href="https://doi.org/10.1007/978-3-319-27704-2_6">https://doi.org/10.1007/978-3-319-27704-2_6</a>.
+</div>
+<div id="ref-fattoh2014automatic" class="csl-entry">
+Fattoh, Ibrahim Eldesoky. 2014. <span>“Automatic Multiple Choice Question Generation System for Semantic Attributes Using String Similarity Measures.”</span> <em>Computer Engineering and Intelligent Systems</em> 5 (8): 66–73.
+</div>
+<div id="ref-a061ccfdc1fe4c00bf328e9808c0cb6d" class="csl-entry">
+Joosten-ten Brinke, D., and S. Draaijer. 2014. <span>“Kwaliteit van Toetsen.”</span> In <em>Kwaliteit van Toetsing Onder de Loep</em>, edited by M. Sluijsmans, D. Joosten-ten Brinke, and T. van Schilt-Mol, 37–54. Garant.
+</div>
+<div id="ref-linden2000computerized" class="csl-entry">
+Linden, Wim J, Wim J van der Linden, and Cees AW Glas. 2000. <em>Computerized Adaptive Testing: Theory and Practice</em>. Springer.
+</div>
+<div id="ref-van2017toetsen" class="csl-entry">
+Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. <em>Toetsen in Het Hoger Onderwijs</em>. Springer.
 </div>
 </div>
             </section>
@@ -958,7 +1040,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["handboek-itembanken.epub", "handboek-itembanken.pdf"],
+"download": ["handboek-itembanken.epub"],
 "search": {
 "engine": "fuse",
 "options": null
