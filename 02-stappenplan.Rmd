@@ -8,7 +8,7 @@ Ga na of het ontwikkelen van een itembank past binnen het beleid van de instelli
 Het is aan te raden om tijdens de voorbereiding ten minste de volgende zaken te bepalen en te beschrijven:
 
 *    De huidige situatie en de gewenste situatie.
-*    Het doel van de itembank. Waarom is het een goed idee? Wat hebben studenten eraan? Maak duidelijk hoe de itembank zich verhoudt tot andere beleids- documenten, bijvoorbeeld het digitaal toetsbeleid en het onderwijsbeleid.
+*    Het doel van de itembank. Waarom is het een goed idee? Wat hebben studenten eraan? Maak duidelijk hoe de itembank zich verhoudt tot andere beleidsdocumenten, bijvoorbeeld het digitaal toetsbeleid en het onderwijsbeleid.
 *    Welk resultaat ligt er als het project klaar is? Hoe ziet het onderhoud en beheer er globaal uit?
 *    Vanuit welke theorie worden de items ontwikkeld? In de voorbereiding bedenk je op basis van welke theorie je aan de slag gaat: de klassieke testtheorie (KTT) of de item response theorie (IRT). Welke vraagtypes wil je gebruiken en hoe wordt er met feedback omgegaan? Keuzes over feedback en vraagtypes zijn van invloed op het eindresultaat. Zie ook **[§ 3.6.4](#feedback-en-vraagtypes)** en **[§ 3.7.3](#toetsgegevens)**.
 *    Hoeveel tijd, geld en doorlooptijd is er nodig voor dit project?
@@ -17,7 +17,7 @@ Het is aan te raden om tijdens de voorbereiding ten minste de volgende zaken te 
 
 ### Haalbaarheidsonderzoek
 
-Een mogelijke tussenstap in de voorbereiding van je itembankproject is een onder- zoek naar de haalbaarheid ervan. Hierin werk je één of meerdere opties voor het inrichten van een itembank uit. Kies welke optie het beste is voor jouw situatie. Kijk naar de volgende aspecten: 
+Een mogelijke tussenstap in de voorbereiding van je itembankproject is een onderzoek naar de haalbaarheid ervan. Hierin werk je één of meerdere opties voor het inrichten van een itembank uit. Kies welke optie het beste is voor jouw situatie. Kijk naar de volgende aspecten: 
 
 * Inhoud: welke overeenkomsten zijn er tussen de items die je in de itembank wilt opnemen? Is er een gezamenlijke ordening te ontdekken? In hoeverre denken de docenten dat zij consensus kunnen bereiken over de inhoud van het vak en de items? Je moet dit weten om je aanpak te bepalen. Bij uiteenlopende meningen is er meer tijd nodig voor dit onderdeel. Zie ook **[H2.3](#stap-3-ontwerp)**.
 * Kwaliteit: wat is de kwaliteit van de toetsen eigenlijk op dit moment? Wat zijn de p-waarden en rit-waarden? Hoe acceptabel is dit? Welke verbeterslag willen we realiseren met de itembank? 
@@ -27,7 +27,7 @@ Een mogelijke tussenstap in de voorbereiding van je itembankproject is een onder
 * De beoogde omvang van de itembank. 
     * Hoeveel items zijn er al binnen de instelling die kunnen worden gebruikt? 
     * Hoeveel items heb je naar verwachting nodig? Zie ook **[H3.3](#omvang-van-de-itembank)**.
-* Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO- applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? Zie ook **[H3.2](#technologie-systemen)**.
+* Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO-applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? Zie ook **[H3.2](#technologie-systemen)**.
 * Organisatie: is er voldoende draagvlak voor de optie(s)? Ga in gesprek met organisaties die ervaring hebben met het inrichten van itembanken. 
 * Financiën: zet per optie de kosten en baten op een rij en neem de volgende zaken in acht. 
     * Kan er voldoende tijd en geld worden vrijgemaakt voor het ontwikkelen van de itembank? 
@@ -49,17 +49,17 @@ Verwerk alle gegevens tot een opdrachtformulering en verkrijg goedkeuring van je
 ## Stap 2: Plan van aanpak 
 In deze stap leg je vast hoe de itembank eruitziet aan het eind van het project. Je maakt een plan van aanpak om dit resultaat te bereiken. 
 
-Stel jezelf de vraag: wat hebben we als we klaar zijn? Het antwoord is afhankelijk van het doel dat de itembank zal vervullen in het onderwijs. Formuleer met de betrok- kenen eisen en wensen ten aanzien van de itembank. Eisen moeten verplicht worden gerealiseerd; wensen wil men graag realiseren, maar zijn niet noodzakelijk om tot een goed resultaat te komen. In je plan van aanpak zet je beide op een rij. 
+Stel jezelf de vraag: wat hebben we als we klaar zijn? Het antwoord is afhankelijk van het doel dat de itembank zal vervullen in het onderwijs. Formuleer met de betrokkenen eisen en wensen ten aanzien van de itembank. Eisen moeten verplicht worden gerealiseerd; wensen wil men graag realiseren, maar zijn niet noodzakelijk om tot een goed resultaat te komen. In je plan van aanpak zet je beide op een rij. 
 
-Het kan zijn dat een organisatie projectmatig werken faciliteert en dat er wordt gewerkt aan de hand van een projectmanagement-methode, zoals Prince II. Mogelijk zijn er zelfs projectleiders beschikbaar voor het trekken van grotere projecten. In dat geval zijn er binnen de instelling procedures gangbaar rondom werkwijze, fasering en besluitvorming. Check wat er beschikbaar is binnen de instelling over projectmatig werken. Grijp waar mogelijk terug op standaarddocumenten, zoals een sjabloon voor een plan van aanpak. Geef de stappen uit het stappenplan hierin een plek. 
+Het kan zijn dat een organisatie projectmatig werken faciliteert en dat er wordt gewerkt aan de hand van een projectmanagementmethode, zoals Prince II. Mogelijk zijn er zelfs projectleiders beschikbaar voor het trekken van grotere projecten. In dat geval zijn er binnen de instelling procedures gangbaar rondom werkwijze, fasering en besluitvorming. Check wat er beschikbaar is binnen de instelling over projectmatig werken. Grijp waar mogelijk terug op standaarddocumenten, zoals een sjabloon voor een plan van aanpak. Geef de stappen uit het stappenplan hierin een plek. 
 
 Zorg ervoor dat je plan van aanpak ten minste de volgende zaken zo gedetailleerd mogelijk beschrijft: 
 
 * Het doel en resultaat. 
 * Hoe je tot het resultaat wilt komen. 
 * De rol van opdrachtgever en wie dit op zich neemt. Idealiter is dit de toekomstige eigenaar van de itembank. Plan momenten in om met hem of haar de aanpak en plannen te bespreken. Stel vast waar je zijn of haar hulp nodig hebt. 
-* Bedenk wie je wanneer tijdens het project en erna nodig hebt. Beschikken zij over de juiste kennis en kunde? Denk aan de volgende expertises: opdrachtgever, pro- jectleider, toetsdeskundige, psychometrist, functioneel beheerder, jurist en docenten. 
-* Bepaal hoe je draagvlak creëert. Hoe ga je ervoor zorgen dat de itembank daad- werkelijk wordt gebruikt? Hoe kun je docenten en studenten ertoe aanzetten om de nieuwe werkwijzen in de praktijk te brengen? Ga hierover met ze in gesprek. Bedenk hoe je het belang van de itembank ook op de tactische en strategische agenda’s krijgt. Wie zijn de belanghebbenden? 
+* Bedenk wie je wanneer tijdens het project en erna nodig hebt. Beschikken zij over de juiste kennis en kunde? Denk aan de volgende expertises: opdrachtgever, projectleider, toetsdeskundige, psychometrist, functioneel beheerder, jurist en docenten. 
+* Bepaal hoe je draagvlak creëert. Hoe ga je ervoor zorgen dat de itembank daadwerkelijk wordt gebruikt? Hoe kun je docenten en studenten ertoe aanzetten om de nieuwe werkwijzen in de praktijk te brengen? Ga hierover met ze in gesprek. Bedenk hoe je het belang van de itembank ook op de tactische en strategische agenda’s krijgt. Wie zijn de belanghebbenden? 
 * Kosten en baten: geef een inschatting van wat het ontwikkelen van de itembank kost en wat het de komende jaren zal opleveren. 
 * Kwaliteit: hoe kom je tot een itembank van voldoende kwaliteit? 
 * Planning: welke fasering heb je voor ogen? Welke doorlooptijd heb je nodig? 
@@ -108,7 +108,7 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 ### Itemkwaliteit
 
 * Bepaal en documenteer vuistregels waaraan de items moeten voldoen. Denk ook aan regels over taalgebruik en bronvermelding. 
-* Betrek waar mogelijk item-experts (niet iedereen maakt goede items) of een psychometricus. 
+* Betrek waar mogelijk itemexperts (niet iedereen maakt goede items) of een psychometricus. 
 * Plan review-begeleidingssessies onder leiding van een vraagexpert. Laat docenten een flink aantal bestaande voorbeelditems aanleveren. Bespreek gezamenlijk de variatie tussen de vakken, de wijze van vraagstelling en de constructiefouten in deze items. Hierdoor krijgen de betrokkenen ideeën over uniformering van vraagformulering en vraagvormen. 
 * Bedenk hoe je de gewenste kwaliteitsverbetering kunt meten. 
 * Begin met het einde in gedachten: inventariseer welke gegevens je uit de itembank wilt kunnen halen ten behoeve van het onderwijskundige proces. Zie ook **[H3.7](#didactiek-kwaliteit-van-items)**.
@@ -140,7 +140,7 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 
 * Stel vast wie de eigenaar is van de items in de itembank. 
 * Bedenk hoe je wilt omgaan met materiaal van derden dat auteursrechtelijk beschermd is, zoals afbeeldingen bij items. 
-* Bepaal wat je nodig hebt op het gebied van de bescherming van persoons- gegevens. 
+* Bepaal wat je nodig hebt op het gebied van de bescherming van persoonsgegevens. 
 * Overleg welke afspraken je over de samenwerking met betrokken partijen wilt vastleggen. Leg ten minste vast hoeveel uur wordt geleverd voor itemontwikkeling. Betrek een juridisch expert bij instellingsoverstijgende samenwerkingen om te beoordelen wat de beste samenwerkingsmogelijkheid is en wat hierbij komt kijken. Zie ook **[H3.8](#juridische-aandachtspunten]**.
 
 ### Beheer itembank
@@ -156,7 +156,7 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 
 Een ontwerp van de itembank. Alle tussenresultaten per onderdeel tellen op tot het ontwerp van de itembank:
 
-* *Structuur*: een landkaart/tabel met de onderwerpstructuur die is overeen- gekomen en afspraken omtrent bijvoorbeeld notatiewijzen.
+* *Structuur*: een landkaart/tabel met de onderwerpstructuur die is overeengekomen en afspraken omtrent bijvoorbeeld notatiewijzen.
 * *Organisatie*: aanpak en gedocumenteerde organisatorische afspraken (beschrijving van de toets- en beheerorganisatie) over hoe de itembank zal worden beheerd, inclusief besturing van de itembank, inclusief benodigde kennis en kunde van betrokkenen (een opleidingsplan).
 * *Systeem*: inrichtingsplan systeem; dit betreft workflow (van het itemontwikkel- proces) en de metastructuur (hiërarchische structuur en metadatastructuur).
 * *Kwaliteit*:
@@ -174,7 +174,7 @@ Een ontwerp van de itembank. Alle tussenresultaten per onderdeel tellen op tot h
 
 Het ontwerp is klaar. Nu richt je de itembank in en maak je hem gereed voor gebruik. In deze stap wordt een itembankstructuur opgezet, metadata-categorieën ingevoerd, accounts aangemaakt, bestaande items geconverteerd, rollen en rechten verdeeld.
 
-Voer een pilot uit waarbij je een eerste toetsperiode volledig draait. Je test in de pilot of de keten van activiteiten werkt. Maak zoveel items dat je een eerste toetsperiode kan afdekken. Check of de gemaakte afspraken haalbaar zijn. Kloppen de uitgangs- punten? Weet iedereen welke rollen en rechten hij of zij heeft? Test of de systemen en de werkwijze technisch werken. En worden de items door studenten gebruikt zoals beoogd? Worden formatieve toetsen wel gebruikt? Evalueer en pas aan indien nodig.
+Voer een pilot uit waarbij je een eerste toetsperiode volledig draait. Je test in de pilot of de keten van activiteiten werkt. Maak zoveel items dat je een eerste toetsperiode kan afdekken. Check of de gemaakte afspraken haalbaar zijn. Kloppen de uitgangspunten? Weet iedereen welke rollen en rechten hij of zij heeft? Test of de systemen en de werkwijze technisch werken. En worden de items door studenten gebruikt zoals beoogd? Worden formatieve toetsen wel gebruikt? Evalueer en pas aan indien nodig.
 
 De volgende activiteiten vinden plaats in de pilot:
 
@@ -211,7 +211,7 @@ De pilot heeft een aantal lessen opgeleverd. Op basis hiervan kun je grootschali
 * Ga na of de businesscase haalbaar blijft. Zie ook **[H3.7](#didactiek-kwaliteit-van-items)**.
 
 ### Nazorg
-De itembank is geïmplementeerd. Het proces is in werking, iedereen vervult zijn taak en gebruikt de itembank op de afgesproken manier. Er is een formele eigenaar die het doel van de itembank in de gaten houdt. De itembank heeft een plek gekregen in de organisatie: er zijn mensen die ervoor zorgen dat de itembank blijft bestaan en goed wordt gebruikt. De onderwijskundig meerwaarde is duidelijk voor nu en in de toekomst.
+De itembank is geïmplementeerd. Het proces is in werking, iedereen vervult zijn taak en gebruikt de itembank op de afgesproken manier. Er is een formele eigenaar die het doel van de itembank in de gaten houdt. De itembank heeft een plek gekregen in de organisatie: er zijn mensen die ervoor zorgen dat de itembank blijft bestaan en goed wordt gebruikt. De onderwijskundige meerwaarde is duidelijk voor nu en in de toekomst.
 
 **Aandachtspunten:**
 
