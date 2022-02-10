@@ -461,7 +461,7 @@ Vaak willen docenten bij een item kunnen aangeven met welke andere items in de i
 
 Het is verstandig om elk item in een itembank van een unieke code te voorzien, die zelf de hiërarchische of metadatastructuur in zich herbergt. Items worden namelijk soms per ongeluk verplaatst. Na een toetsafname waarbij alleen ruwe data overblijft, maken de codes het terugvinden van individuele items in de bank weer mogelijk. Het unieke technische ID van een item op systeemniveau zegt vaak niet veel.
 
-Een voorbeeld van zo’n code: <leerdoel><topic><subtopic><niveau><uniek nr>
+Een voorbeeld van zo’n code: `<leerdoel><topic><subtopic><niveau><uniek nr>`
 
 B2_AF12-3_RegcoefT is dan een item uit het Bachelor 2-jaar over Hoofdstuk 12 uit het studieboek van Agresti en Finlay, met als onderwerp de regressiecoëfficiënt.
 
