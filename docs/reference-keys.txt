@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-fig:ToetsCyclus
-=======
 fig:toetscyclus
->>>>>>> 84d36c3375e1704f89b8170ead9de1c00351b9e9
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-3
@@ -14,12 +10,9 @@ fig:unnamed-chunk-8
 fig:unnamed-chunk-9
 fig:KwaliTijd
 fig:unnamed-chunk-10
-<<<<<<< HEAD
-=======
 fig:unnamed-chunk-11
 fig:unnamed-chunk-12
 fig:unnamed-chunk-13
->>>>>>> 84d36c3375e1704f89b8170ead9de1c00351b9e9
 introductie
 inleiding
 voor-wie-is-deze-uitgave
