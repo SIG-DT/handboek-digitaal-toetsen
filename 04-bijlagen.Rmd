@@ -40,8 +40,9 @@ Een psychometrische maat die bij een niet-herhaalde toets (dus éénmalige afnam
 ### Diagnostische toetsen (onderdeel van formatieve toetsen)  
 Een formatieve toets waarbij een kandidaat inzicht krijgt in zijn progressie door de leerstof. Een diagnostische toets is representatief voor wat betreft inhoud en niveau met een eventueel volgende summatieve eindtoets. Zie ook: Oefentoets.
 
-### Digitaal toetssysteem  
-Dit is het cyclische proces om van leerdoelen, via items, toetsen, afname en analyse toetsing te realiseren en voortdurend te verbeteren. Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van de itembank gesitueerd.
+### Digitaal toetssysteem
+
+Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. Bij dergelijke systemen wordt vaak onderscheid gemaakt tussen een aan- tal kerncomponenten: auteursomgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we hieronder aan de hand van de toetscyclus. Dit is het cyclische proces om van leerdoelen, via items, toetsen, afname en analyse toetsing te realiseren en voortdurend te verbeteren. Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van de itembank gesitueerd.
 
 ```{r, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="40%"}
 knitr::include_graphics("images/ToetsCyclus.svg")
