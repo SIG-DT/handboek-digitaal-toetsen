@@ -1,0 +1,13 @@
+# Veilig digitaal toetsen
+
+## Veilig toetsproces
+
+-   [Werkboek Veilig toetsen](https://www.surf.nl/werkboek-veilig-toetsen)
+
+## Online proctoring
+
+-   [Whitepaper Online proctoring](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand)
+
+### Onregelmatigheden en fraude
+
+-   [Handreiking Onregelmatigheden en fraude](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/handreikingen.html#het-onderscheid-tussen-onregelmatigheid-en-fraude-handreiking-voor-examencommissies)

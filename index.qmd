@@ -1,206 +1,196 @@
 # Introductie
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam sollicitudin tempor id eu nisl nunc. Varius quam quisque id diam vel. Porta nibh venenatis cras sed felis eget. Tincidunt dui ut ornare lectus sit amet. Varius morbi enim nunc faucibus a pellentesque. Praesent semper feugiat nibh sed pulvinar proin gravida. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Eros in cursus turpis massa tincidunt dui ut ornare lectus. Condimentum vitae sapien pellentesque habitant morbi tristique. Ut tristique et egestas quis. Fermentum et sollicitudin ac orci phasellus.
+
 ## Inleiding
 
-Digitale itembanken zijn een prachtige tool om de kwaliteit van toetsen te laten toenemen en de kosten te laten dalen. Wie gezamenlijk toetsvragen ontwikkelt, stemt doelen en processen af. Er is meer expertise en tijd beschikbaar per item (toetsvraag) voor ontwikkeling en kwaliteitscontrole. Dit alles komt de kwaliteit van de toetsen ten goede. Hergebruik van items kan de kosten doen dalen.
-
-De coronacrisis heeft daarnaast ook laten zien dat itembanken een rol spelen in situaties waarbij het online toetsen risico's met zich meebrengt. Met name in als toetsvragen gaan uitlekken of dat studenten ongeoorloofd samenwerken tijdens het maken van de toets. Itembanken bieden de mogelijkheid om deze risico's te verminderen.
-
-Het ontwikkelen, beheren en onderhouden van itembanken vraagt om goed projectmanagement. Met deze uitgave willen we laten zien hoe je een digitaal systeem opzet om items uit te wisselen met collega's van binnen en buiten de instelling. In dit handboek bundelen we de kennis en kunde die instellingen, samenwerkingsverbanden van instellingen en SURF over dit onderwerp hebben opgedaan. Het helpt instellingen op weg die hun voordeel willen behalen met digitale itembanken. Het handboek bestaat uit een introductie, een stappenplan en een verdiepend deel.
-
-### Voor wie is deze uitgave?
-
-Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom de ontwikkeling, het beheer en het onderhoud van een itembank en de items. Bijvoorbeeld:
-
--   Docenten die items beter willen ordenen of willen ontwikkelen en uitwisselen met een collega
--   Onderwijsadviseur die docenten ondersteunt of die trekker is van het inrichten van een itembank
--   Een samenwerkingsverband dat gezamenlijk toetsmateriaal wil uitwisselen of gezamenlijk toetsen wil uitzetten
--   Een landelijk overleg dat de kwaliteit van toetsen wil verhogen
--   Functioneel beheerders van een toetssysteem dat wordt gebruikt voor een itembank
-
-### Scope
-
-Het handboek richt zich op het ontwikkelen, beheren en gebruiken van itembanken binnen een opleiding, binnen één instelling, instellingsoverstijgend, binnen een bepaald domein of zelfs landelijk. Uitgangspunt is dat de processen in de basis hetzelfde zijn. Het handboek geeft geen uitgebreide beschrijving van bestaande itembanken of toetssystemen. Hiervoor kun je terecht in de SURF thema-uitgave [Toets-en vragenbanken in het onderwijs](https://www.surf.nl/thema-uitgave-toets-en-vragenbanken-in-het-onderwijs).
-
-Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatietraject van digitaal toetsen bij instellingen. Voor het implementeren van digitaal toetsen verwijzen wij naar enkele SURF- publicaties, zoals de [handreiking Beleid voor digitaal toetsen](https://www.surf.nl/kennisbank/2016/handreiking-beleid-voor-digitaal-toetsen.html), het [stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/kennisbank/2016/stappenplan-digitaaltoetsbeleid-schrijven.html) en het [werkboek Veilig toetsen](https://www.surf.nl/kennisbank/2016/werkboek-veilig-toetsen.html).
-
-In dit handboek gaan we vooral in op het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo'n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals Toetsen in het hoger onderwijs @van2017toetsen.
-
-### Verantwoording
-
-Deze uitgave is een bijgewerkte versie van de uitgave uit 2018. De special interest group (SIG) Digitaal toetsen heeft de uitgave -- mede in het licht van de ervaringen tijdens de coronacrisis van 2020/2021 -- kritisch bekeken, aangevuld en geactualiseerd. De oorspronkelijke publicatie is tot stand gekomen in nauwe samenwerking met itembankexperts uit diverse instellingen, de SIG Digitaal Toetsen, Cito, 10voordeLeraar en Prove2Move. Het handboek is gebaseerd op de ervaringen van de betrokken experts met het ontwikkelen van itembanken. Verder hebben we gebruikgemaakt van verzameld materiaal van onder andere SURF en beschikbare literatuur op dit gebied.
-
-Zie het colofon voor een overzicht van alle betrokkenen die hebben bijgedragen aan dit handboek. Neem gerust contact op met de auteurs en/of de deskundigen die een inhoudelijke bijdrage hebben geleverd aan het handboek voor meer informatie.
+Augue eget arcu dictum varius duis at consectetur lorem donec. Erat nam at lectus urna. Tellus id interdum velit laoreet id donec ultrices. Id aliquet lectus proin nibh nisl condimentum id venenatis a. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Cras sed felis eget velit aliquet sagittis id. Egestas tellus rutrum tellus pellentesque eu. Id diam maecenas ultricies mi eget mauris. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Sagittis nisl rhoncus mattis rhoncus. Felis donec et odio pellentesque diam. Donec pretium vulputate sapien nec sagittis aliquam. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Risus feugiat in ante metus. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Senectus et netus et malesuada fames ac turpis. Molestie a iaculis at erat. Semper viverra nam libero justo laoreet. Sed vulputate mi sit amet mauris.
 
 ## Definities en begrippen
 
-Voor het gebruik van dit handboek is een goed begrip van een aantal termen essentieel. We beschrijven kort de componenten van een digitaal toetssysteem en laten zien hoe ze zich verhouden tot de itembank.
+### Adaptieve toets
 
-### Wat is een itembank?
+Een toets waarbij de kandidaten gemakkelijker of moeilijker opgaven moeten beantwoorden afhankelijk van de vaardigheid van de kandidaat, die wordt ingeschat op basis van voorgaand items.
 
-Een itembank is een verzameling van items ofwel vragen (in het vervolg van dit handboek noemen we ze items). Een itembanksysteem is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan meerdere itembanken bevatten. Als wij in dit werkboek spreken over itembank bedoelen we het itembanksysteem (de digitale itembank).
+Bij een op IRT gebaseerde adaptieve toets is sprake van gekalibreerde items waarvan die op een gegeven vaardigheidsniveau van de kandidaten het meest nauwkeurig kunnen meten. Bij een computer-adaptieve toets worden geen items meer aan de kandidaat aangeboden als het niveau van vaardigheid met de gewenste nauwkeurigheid is vastgesteld. Zie ook: item response.
 
-::: tip
-**Definitie**\
-Een **itembank** is een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een hiërarchische structuur.\
-Een **itembanksysteem** is het digitale systeem waarin de verzameling van items is opgeslagen en waarmee ze beheerd kunnen worden. Een itembanksysteem kan verscheidene itembanken bevatten.
-:::
+### Afspeelomgeving
 
-In de itembank worden de vragen logisch ingedeeld. Er vindt versiebeheer plaats en er kunnen allerlei metadata worden opgeslagen over de inhoud, het vraagtype, het niveauen over andere kenmerken. Je kunt er ook psychometrische gegevens in opslaan, zoals de moeilijkheidsgraad en het discriminerend vermogen van items. Soms draaien de programma's van een itembanksysteem lokaal op een computer. Andere itembanken bestaan uit internetomgevingen. De database en de applicatie worden vanuit de cloud benaderd. Verschillende mensen kunnen tegelijkertijd werken in zo'n cloudsysteem.
+De component van een toetssysteem waarmee toetsen en items aan de kandidaten worden aangeboden en de antwoorden geregistreerd worden.
 
-::: tip
-**Nice to know**\
-**Waarom worden 'toetsvragen' door toetsdeskundigen eigenlijk vaak items genoemd?**\
-In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde toetsen en rudimentaire bestanden met vragen. Al snel ontstond een beroepsgroep met bijbehorend beroepsjargon. 'Test questions' werd 'test items'. In Nederland hebben we dit woordgebruik overgenomen en 'vernederlandst' naar 'ietums' in plaats van 'aitums'.
-:::
+-   zorgt dat studenten na inloggen de toets kunnen maken;
+-   wordt vaak gecombineerd met een zogenaamde secure browser, die ervoor zorgt dat de student niet ongeoorloofd software kan gebruiken om op internet te zoeken, met derden te communiceren, etc.;
+-   registreert de antwoorden en stuurt deze terug naar de itembank.
 
-### De plek van een itembank binnen het digitale toetssysteem
+### Auteursomgeving
 
-Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. We maken onderscheid tussen een aantal kerncomponenten: auteurs- omgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we aan de hand van de toetscyclus. Niet alle stappen uit de toetscyclus worden ondersteund door digitale toetssystemen. In figuur \@ref(fig:toetscyclus) is te zien hoe de componenten van een digitaal toetssysteem aansluiten op de toetscyclus.
+De component van een toetssysteem waarmee items kunnen worden ingevoerd.
 
-```{r toetscyclus, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="60%"}
+-   is een interface waarin items kunnen worden ontwikkeld en voorzien van metadata;
+-   biedt keuze uit allerlei vraagtypen (meerkeuze, aanwijsvraag, open vraag, etc.);
+-   geeft de mogelijkheid multimediale componenten op te nemen;
+-   ondersteunt (meestal) de workflow en legt het reviewproces vast;
+-   ondersteunt het reviseren van items (bijvoorbeeld na de eerste toetsafname)
+
+### Betrouwbaarheid
+
+De mate waarin de score op een toets niet van het toeval afhankelijk is. De mate waarin een toets bij gelijke condities dezelfde uitslag oplevert. In statische termen wordt betrouwbaarheid beschreven in de mate waarin een meting vrij is van meetfouten (ook wel ruis of error genoemd). Zie ook: Misclassificaties.
+
+### Body of Knowledge (BoK)
+
+Een Body of Knowledge (BoK) is een gemeenschappelijke kennisbasis voor een vakgebied of sector waaraan de professional zijn theoretische en praktische kennis, inzichten en methoden ontleent. Het gaat niet alleen om theorie, maar ook om beproefde inzichten en methoden van de beroepsgroep in kwestie.
+
+### Businesscase
+
+Een businesscase of een haalbaarheidsstudie beschrijft de afweging om een project of taak te beginnen of te stoppen. In de businesscase worden de kosten tegen de baten afgewogen, rekening houdend met de risico's. Een businesscase is niet bedoeld om uitsluitend een financiële afweging te maken. Juist ook kwalitatieve overwegingen worden in een goede businesscase nadrukkelijk in de beoordeling betrokken. Een aspect als kwaliteitsverbetering kan voor een instelling heel belangrijk zijn, terwijl het zuiver financiële gewin daarvan nauwelijks te bepalen is. Bekijk ook de [**whitepaper De businesscase van digitaal toetsen**](https://www.surf.nl/kennisbank/2014/whitepaper-de-businesscase-%20van-digitaal-toetsen.html).
+
+### Cronbach's alpha
+
+Een psychometrische maat die bij een niet-herhaalde toets (dus éénmalige afname zoals een tentamen) een waarde geeft waarin de meting onderhevig is aan meetfouten. Cronbach's alpha is geschikt voor polytoom gescoorde items. Vragen waar naast correct-incorrect (0 of 1) ook met bijvoorbeeld 0, 1, 2, 3 etc. punten kan worden gerekend. Zie ook: KR20.
+
+### Diagnostische toetsen (onderdeel van formatieve toetsen)
+
+Een formatieve toets waarbij een kandidaat inzicht krijgt in zijn progressie door de leerstof. Een diagnostische toets is representatief voor wat betreft inhoud en niveau met een eventueel volgende summatieve eindtoets. Zie ook: Oefentoets.
+
+### Digitaal toetssysteem
+
+Dit is het cyclische proces om van leerdoelen, via items, toetsen, afname en analyse toetsing te realiseren en voortdurend te verbeteren. Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van de itembank gesitueerd.
+
+```{r, echo=FALSE, fig.cap="Componenten van digitale toetssystemen afgebeeld op de toetscyclus.", out.width="40%"}
 knitr::include_graphics("images/ToetsCyclus.svg")
 ```
 
-De *itembank* vormt de centrale component waarin de items worden opgeslagen. De bewerking en het afspelen van de items vindt plaats in andere systemen, die vervolgens de resultaten teruggeven aan de itembank. Bij de volgende onderdelen van de toetscyclus speelt de itembank een rol:
+### Formatieve feedback
 
-Het **ontwerp** van de toets (ook wel toetsspecificatie) gaat over aspecten als het doel van de toets, te toetsen onderdelen, de keuze voor formatief of summatief toetsen en 'wijze van toetsing'. In het ontwerp worden dus nog geen items gemaakt.
+Feedback waarbij de opbrengst voor het leerproces voorop staat. De feedback is bedoeld om studenten te stimuleren om zich verder te verdiepen in de stof. Bij incorrecte antwoorden worden vaak aan wijzingen gegeven om het correct antwoord te kunnen achterhalen of simpelweg het correcte antwoord. Bij correcte antwoorden wordt soms verdiepende stof of een ander voorbeeld besproken.
 
-Een toets wordt samengesteld vanuit een verzameling items. Hiervoor wordt meestal een specificatietabel gebruikt, ook wel toetsmatrijs of blauwdruk van de toets genaamd. Hierin is vastgelegd hoeveel items, welke vraagtypen en welke onderwerpen van welke aard, kennis, of toepassing in de toets komen.
+### Formatieve toetsing
 
-De **ontwikkeling** (constructie) van de items vindt plaats in de auteursomgeving van een toetssysteem. De antwoorden in geval van gesloten vragen worden hierin opgenomen en soms ook die van de open vragen.
+Toetsing waarbij het leren van de toets voorop staat. Vanuit de literatuur wordt hierbij aanbevolen om af te zien van het geven van cijfers . Door met toetsopgaven aan de slag te gaan en te leren van fouten en feedback wordt het leerproces gestimuleerd. Er wordt niet gestreefd naar een bepaald minimaal te behalen niveau. Soms ook aangeduid met Assessment for Learning of Assessment as Learning.
 
-Toetssoftware biedt voor online **toetsafname** een afspeelomgeving aan. Deze omgeving controleert de identiteit van de student door middel van een inlogproces, biedt de student een toets aan en slaat de antwoorden van de student op.
+### Geparametriseerde vraag
 
-Het **nakijken** van de toets hangt af van de gekozen vraagtypen. Antwoorden van gesloten vragen worden doorgaans zonder menselijke tussenkomst beoordeeld en gescoord. De itemontwikkelaar (de docent) heeft hierbij vooraf het correcte antwoord ingegeven. Open vragen moeten worden nagekeken, waarbij systemen bijvoorbeeld 'blind' nakijken mogelijk maken en 'vraag-voor-vraag' nakijken, eventueel met behulp van ondersteunende software.
+Een item bestaand uit een vaste hoofdstructuur met variabele elementen (getallen, objecten, concepten, principes), zodat ze elke keer een nieuw item vormen. Sommige itembanksystemen genereren elke keer een uniek nieuw item voor de docent of een unieke set van waarden voor elke student.
 
-Sommige softwarepakketten bevatten een analysetool voor **toetsanalyse**, maar analyseren kan ook met behulp van een download van een gegevensbestand en een bewerking hierna in bijvoorbeeld Excel of SPSS. Toetsanalyse is veelal gericht op het bepalen van de betrouwbaarheid van toetsen en het opsporen van items die van onvoldoende kwaliteit zijn.
+### IMS
 
-### Belangrijke begrippen
+Een IMS-standaard is vastgelegd door het IMS Global Learning Consortium, een community van hogeronderwijsinstellingen, leveranciers en overheidsinstellingen die samen uitwisselingsstandaarden ontwikkelen. Toen IMS in 1997 begon was de officiële naam Instructional Management Systems (IMS)-project.
 
-**Formatief toetsen**: Toetsing waarbij het leren van de toets voorop staat, meestal zonder cijfers, vaak met feedback per toetsvraag of toets. Door met toetsopgaven aan de slag te gaan en te leren van fouten en feedback wordt het leerproces gestimuleerd. Er is geen sprake van een minimaal te behalen niveau.
+### Item-response theorie (IRT)
 
-**Psychometrische gegevens**: Deze data zeggen iets over de moeilijkheidsgraad van vragen en geven aan in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Psychometrische gegevens kunnen worden opgeslagen in de itembank bij het item waarop ze betrekking hebben.
+Item-response theorie (IRT) is een methode waarbij er vanuit wordt gegaan dat de kans dat een kandidaat een item correct beantwoordt bepaald wordt door de vaardigheid van de kandidaat als functie van het moeilijkheidsniveau van het item en het onderscheidend vermogen van het item. IRT is een theorie die uitgaat van de karakteristiek van items, terwijl de klassieke testtheorie uitgaat van de karakteristiek van een toets. Om IRT zinvol te kunnen toepassen moet op basis van een groot aantal toetsafnames bij een populatie waarin alle vaardigheidsniveaus aanwezig zijn deze karakteristieken voorafgaand aan een toets worden bepaald (zgn. kalbireren). Zie ook: adaptieve toets.
 
-**Summatief toetsen**: Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score wordt gebruikt voor formele toekenning van een behaald studieresultaat, zoals studiepunten of een diploma.
+### Item
 
-**Toetskwaliteit**: Het geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie neemt bijvoorbeeld toe als er inzicht is in de wijze waarop items worden gemaakt. Betrouwbaarheid neemt bijvoorbeeld toe als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid. Validiteit neemt toe als de items beter en vollediger de beoogde kennis of vaardigheid meten.
+Een opdracht/taak waarop een kandidaat het correcte antwoord moet geven. Wordt ook wel aangeduid als vraag, toetsvraag of toetsitem.
 
-::: tip
-**Samenwerkingsverbanden**\
-In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:
+### Itembank
 
-[**deKennistoetsenbank MBO** <i class="fas fa-external-link-alt"></i>](https://www.prove2move.nl/dekennistoetsenbank/)\
-Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).
+Een verzameling van items voor een bepaald toetsdoel. Een itembank heeft daarvoor een bepaalde ordening, meestal op basis van metadata en in de vorm van een metadata en in de vorm van een hiërarchische structuur.
 
-[**IVTG** <i class="fas fa-external-link-alt"></i>](https://www.ivtg.nl)\
-De interuniversitaire VoortgangsToets Geneeskunde (iVTG) is een meetinstrument om de kennisprogressie van studenten geneeskunde gedurende hun studie te meten. Het betreft een interuniversitair samenwerkingsverband, bestaande uit zes UMC's.
+### Itembanksysteem
 
-[**10voordeleraar** <i class="fas fa-external-link-alt"></i>](https://www.10voordeleraar.nl)\
-Het programma 10voordeLeraar is onder regie van de Vereniging Hogescholen ontwikkeld en biedt landelijke kennisbases, verplichte kennistoetsen en een peer-review-systematiek voor alle lerarenopleidingen.
+Een software om itembanken in op te kunnen slaan en bewerken. Itembanksystemen kunnen losse systemen zijn of onderdeel van een toetssysteem. In een toetssysteem zijn ook functies opgenomen om toetsen samen te stellen, toetsen af te nemen, toetsen te scoren en toetsanalyses uit te voeren.
 
-[**Sharestats** <i class="fas fa-external-link-alt"></i>](https://www.sharestats.nl)\
-Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling leermaterialen over statistiek te bieden. Door meta-datering van het leermateriaal kunnen docenten uit de vakcommunity naar behoefte een selectie van statistiekopgaven kiezen en gebruiken in het eigen onderwijs. De vijf partners van het projectteam (UvA Psychologie en Pedagogische en Onderwijswetenschappen, VU Sociale Wetenschappen (FSW), VU Gedrags- en Bewegingswetenschappen (FGB), UU Sociale Wetenschappen en EUR Psychologie/Pedagogiek) vormen de kern van de vakcommunity.
-:::
+### Klassieke testtheorie
 
-## In 5 stappen naar een itembank
+De klassieke testtheorie (KTT) heeft als basisaanname dat de geobserveerde score op een toets bestaat uit de werkelijke score plus een meetfout. Uitgaande van deze basisveronderstellingen kunnen grootheden zoals Cronbach's alpha worden berekend, die een schatting is voor de grootte van de meetfout.
 
-In de praktijk ontstaan itembanken soms zonder bewust plan. Een uitprobeersel op kleine schaal groeit uit tot iets omvangrijks. Een dergelijke aanpak brengt het risico met zich mee dat de itembankontwikkeling in een later stadium stagneert, bijvoorbeeld door tijdgebrek of personele wisselingen. Het advies in deze is 'bezint eer ge begint'. Werk volgens beheerste stappen. Te snel gaan heeft mogelijk later consequenties voor het draagvlak of kan zelfs het project doen mislukken.
+### KR20
 
-Wij onderscheiden vijf stappen voor het ontwikkelen en gebruiken van een itembank. Binnen iedere stap moet je voor een aantal zaken zorgen. Deze zaken zullen soms gelijktijdig om aandacht vragen, of in een andere volgorde dan hier beschreven. In elke stap wordt het resultaat, een in gebruik genomen itembank, concreter gemaakt; er wordt van grof naar fijn gewerkt.
+Een psychometrische maat die bij een niet herhaalde toets (dus éénmalige afname zoals een tentamen) een waarde geeft waarin de meting onderhavig is aan meetfouten. Het enige verschil tussen KR20 en Cronbachs alfa is dat er bij KR20 uitsluitend met dichotoom gescoorde items kan worden gerekend, zoals meerkeuzevragen. Dus items die correct of incorrect zijn en 0 of 1 punt opleveren. Zie ook: Cronbachs alfa.
 
-Deel 2 van het handboek, het Stappenplan, neemt je mee door de verschillende stappen. Soms heb je daarvoor theoretische kennis nodig. Daarom verwijzen we regelmatig naar deel 3 van het handboek, de Verdieping. Dit deel bevat meer achtergrondinformatie voor het opzetten van een itembank.
+### Learning analytics
 
-::: tip
-**Tip**\
-Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfactoren voor het ontwikkelen, beheren en gebruiken van een itembank uit hoofdstuk 4 bij de hand.
-:::
+Learning analytics is het verzamelen en analyseren van studiedata die een student tijdens het online leren genereert. De studiedata worden omgezet naar waardevolle informatie en kan bijdragen aan de verbetering van de onderwijskwaliteit. Zie ook: https://www.surf.nl/onderwijs-ict/learning-analytics.
 
-### Stappenplan
+### LTI
 
-::: stappenplan
-1.  ::: {.nr .stap}
-    1
-    :::
+LTI (Learning Tools Interoperability standard) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: SCORM.
 
-    ::: stap
-    Voorbereiding
-    :::
+### Meetfout
 
-    -   Formuleer het doel en onderzoek de haalbaarheid van de itembank.\
-    -   Oriënteer je op toetssystemen en uitwisselbaarheid.\
-    -   Verdiep je in omvang en vraagreproductie.\
-    -   Maak een eerste kosten- en batenanalyse.\
+De meetfout bij een toets is de afwijking van de score op een toets die niet verklaard kan worden. De werkelijke score is de geobserveerde score minus de meetfout. Zie ook: ruis en error.
 
-2.  ::: {.nr .stap}
-    2
-    :::
+### Metadata
 
-    ::: stap
-    Plan
-    :::
+Toegevoegde gegevens aan items die aanvullende karakeristieken beschrijven. Die gegevens kunnen gebruikt worden om de items te structureren (zie structuur), zoeken, filteren en selecteren.
 
-    -   Maak een plan van aanpak, waarin je beschrijft:\
-    -   het doel;\
-    -   het resultaat (wat hebben we als we klaar zijn?);\
-    -   hoe je denkt dit te realiseren.\
+### Misclassificaties
 
-3.  ::: {.nr .stap}
-    3
-    :::
+Het aandeel kandidaten dat onterecht gezakt danwel geslaagd is op een toets. Toetsen met lage betrouwbaarheid hebben een hoge mate van misclassificaties. Zie ook: betrouwbaarheid.
 
-    ::: stap
-    Ontwerp
-    :::
+### Oefentoetsen (onderdeel van formatieve toetsen)
 
-    -   Orden de vragen.\
-    -   Organiseer de processtappen en bepaal rollen en rechten.
-    -   Stel kwaliteitseisen vast en check of het systeem hieraan voldoet.\
-    -   Kies een toetssysteem.\
-    -   Leg afspraken over omvang en vraagproductie vast.\
-    -   Regel de financiën.\
-    -   Zorg voor een juridische verankering van het project.\
-    -   Organiseer het beheer van de itembank.\
+Een toets waarbij een kandidaat kan oefenen met de leerstof. De kandidaat kan zelf onderwerpen en niveau kiezen. Vaak worden deze toetsen gebruikt om vooral met moeilijke begrippen of concepten te oefenen. Soms wordt enige adaptiviteit ingebouwd zodat de afspeelomgeving items op een best passend niveau wordt aangeboden aan de kandidaat. Zie ook: diagnostische toets.
 
-4.  ::: {.nr .stap}
-    4
-    :::
+### Psychometrische data
 
-    ::: stap
-    Pilot
-    :::
+Psychometrische data betreft de te berekenen gegevens van afgenomen toetsen en items die iets zeggen over de kwaliteit van de toetsing. Enerzijds zeggen zij iets over de betrouwbaarheid en moeilijkheidsgraad van toetsen als geheel. Anderzijds zeggen ze iets over het discriminerend vermogen en de moeilijkheidsgraad van afzonderlijke items uit die toetsen. Zie ook: klassieke testtheorie, item-response theorie, Cronbach's alpha, p-waarde, rit-waarde.
 
-    -   Ontwikkel de items.\
-    -   Richt de itembank in en probeer uit.\
+### P-waarde
 
-5.  ::: {.nr .stap}
-    5
-    :::
+De proportie van de kandidaten die een item correct heeft beantwoord. Wordt ook de moeilijkheidsgraad van een item genoemd. Hoe hoger de p-waarde, des te gemakkelijker is het item. P-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie.
 
-    ::: stap
-    Realisatie
-    :::
+### QTI
 
-    -   Neem de itembank in gebruik.\
-    -   Zorg voor een toekomstbestendige itembank.
-:::
+QTI (Question and Test Interoperability) is een IMS-standaard voor de uitwisseling van items en toetsen tussen toetssystemen.
 
-## Succesfactoren
+### Rit-waarde
 
-Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande succesfactoren leveren een belangrijke bijdrage aan de levensvatbaarheid van een itembank. Neem ze in acht, ook bij een relatief eenvoudige samenwerking. Deze factoren lopen als een rode draad door het handboek.
+De correlatie tussen de score van de kandidaten op de item en de score op de toets als geheel minus de betreffende item zelf. De rir-waarde is een wat strengere maat voor het discriminerend vermogen dan de rit-waarde omdat bij de rir-waarde de invloed van het item zelf op het discriminerend vermogen wordt uitgesloten. Rir-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie. Zie ook: Rit-waarde en klassieke testtheorie.
 
-::: bullets_spaced
-1.  Bezint eer ge begint: neem de tijd bij de start, schat de haalbaarheid goed in en vind de balans tussen een projectmatige aanpak en laten ontstaan. Kies een werkwijze die past bij jouw situatie.
-2.  Stel een opdrachtgever aan en zorg dat het eigenaarschap van begin af aan goed belegd is. Zonder een opdrachtgever of afspraken over eigenaarschap is de kans op mislukking groot.
-3.  Bepaal voor het ontwikkelen van de itembank welke stappen je wilt doorlopen en welke resultaten je per stap wilt bereiken.
-4.  Bepaal het doel van je itembank en geef de itembank een duidelijke rol in het onderwijs. Houd hieraan vast. Draag deze visie regelmatig uit.
-5.  Wees reëel en manage verwachtingen: de ideale itembank ontstaat niet in één dag en misschien zelfs wel helemaal nooit. De ideale inrichting kun je niet vanachter je bureau bedenken. Durf dingen uit te proberen.
-6.  Kijk om je heen, er is al veel ontwikkeld. Vind het wiel niet opnieuw uit. Betrek deskundigen.
-7.  Draagvlak is essentieel.
-    -   Docenten die elkaar kennen en vertrouwen en die het doel van de itembank delen, zijn een randvoorwaarde voor succes; steek energie in het leren kennen van elkaar.
-    -   Zorg voor goede begeleiding en ondersteuning van docenten.
-    -   Het bestaan van een netwerk van mensen die al samenwerken en kennis uitwisselen vergroot de kans op succes aanzienlijk.
-8.  Begin klein met de itembank en probeer verschillende inrichtingen en metadatamogelijkheden uit. Blijf aanpassen totdat de juiste inrichting en werkwijze is gevonden. Houd het eenvoudig en dicht bij de dagelijkse praktijk.
-9.  Onderschat de aard en omvang van de werkzaamheden en/of het project niet. Het is moeilijke materie om te doorgronden. Gedrag en werkwijzen van mensen veranderen gaat niet vanzelf.
-10. Wees je bewust van technische beperkingen als je over instellingsgrenzen heen aan een itembank werkt.
-:::
+### SCORM
+
+SCORM (Sharable Content Object Reference Model) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden met name docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: LTI.
+
+### Stabiel domein
+
+Een vakgebied dat weinig veranderingen meer ondergaat. Zie ook: volatiel domein.
+
+### Structuur
+
+De manier waarop een verzameling van items logisch geordend zijn, bijvoorbeeld in een boomstructuur.
+
+### Summatieve toetsing
+
+Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score op een dergelijke meting wordt gebruikt voor formele toerekening van een behaald studieresultaat zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een tentamen. Soms ook aangeduid met assessment of learning.
+
+### Toetsitem
+
+Zie: item.
+
+### Toetstransparantie
+
+Het geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie kan bijvoorbeeld toenemen als inzicht is in de wijze waarop items worden gemaakt, betrouwbaarheid kan toenemen als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid, validiteit kan toenemen als de items beter en vollediger de beoogde kennis of vaardigheid meten.
+
+### Toetsmatrijs
+
+Een toetsmatrijs is een overzicht hoe toetsopgaven in een toets verdeeld zijn over de stof. Vaak wordt per onderdeel van de stof tevens de gewenste type vaardigheid, zoals kennis, inzicht of toepassing, aangegeven. Soms ook aangeduid als toetsmatrix, toetplan, specificatietabel of blueprint.
+
+### Toetsveiligheid
+
+De mate waarin correcte antwoorden items en toetsen niet op een ongeoorloofde manier door kandidaten gegeven worden (fraude). Bijvoorbeeld doordat items zijn gestolen of in het publieke domein terecht zijn gekomen, danwel dat kandidaten tijdens de toetsafn ame de beschikking hebben over ongeoorloofde bronnen, danwel dat kandidaten toetsuitslagen kunnen wijzigen. Zie o.a. de SURF uitgave [Handboekveilig toetsen](https://www.surf.nl/werkboek-veilig-toetsen).
+
+### Toetsvraag
+
+Zie: [item].
+
+### Vakgebied
+
+Een vakgebied is een terrein van beroepsmatig toegepaste kennis en vaardigheden waar mensen zich in kunnen specialiseren. Voor het uitwisselen van ervaring en vakkennis is meestal een jargon nodig.
+
+### Vragenbank
+
+Een systeem waarin alle items zijn verzameld.
+
+### Volatiel domein
+
+Een vakgebied dat aan veel veranderingen onderhevig is door nieuw ontwikkelde kennis, methoden of technieken. Zie ook: stabiel domein.
+
+### Workflow
+
+Een logische, vastgelegde volgorde van activiteiten die moeten worden uitgevoerd om een van te voren gedefinieerde uitkomst te verkrijgen. Deze stappen kunnen sequentieel zijn, maar kunnen ook parallel worden uitgevoerd afhankelijk van doel van het proces.
+
+----
+

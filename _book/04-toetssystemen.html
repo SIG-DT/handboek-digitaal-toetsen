@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.361">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Handboek Digitaal Toetsen - 4&nbsp; Toetssystemen</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./05-itembanken.html" rel="next">
+<link href="./03-toetsvormen.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-toetssystemen.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Toetssystemen</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Handboek Digitaal Toetsen</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introductie</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-randvoorwaarden.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Randvoorwaarden</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-toetsvormen.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Toetsvormen</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-toetssystemen.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Toetssystemen</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-itembanken.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Itembanken</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-veilig-digitaal-toetsen.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Veilig digitaal toetsen</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./07-innovaties.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Innovaties</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./08-colofon.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Colofon</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#veelgebruikte-toetssystemen-voor-onderwijs" id="toc-veelgebruikte-toetssystemen-voor-onderwijs" class="nav-link active" data-scroll-target="#veelgebruikte-toetssystemen-voor-onderwijs"><span class="header-section-number">4.1</span> Veelgebruikte toetssystemen voor onderwijs</a></li>
+  <li><a href="#toetsstandaarden" id="toc-toetsstandaarden" class="nav-link" data-scroll-target="#toetsstandaarden"><span class="header-section-number">4.2</span> Toetsstandaarden</a>
+  <ul class="collapse">
+  <li><a href="#qti-standaard" id="toc-qti-standaard" class="nav-link" data-scroll-target="#qti-standaard"><span class="header-section-number">4.2.1</span> QTI-standaard</a></li>
+  <li><a href="#lti-en-scorm-standaard" id="toc-lti-en-scorm-standaard" class="nav-link" data-scroll-target="#lti-en-scorm-standaard"><span class="header-section-number">4.2.2</span> LTI en SCORM standaard</a></li>
+  </ul></li>
+  <li><a href="#toetsgegevens" id="toc-toetsgegevens" class="nav-link" data-scroll-target="#toetsgegevens"><span class="header-section-number">4.3</span> Toetsgegevens</a>
+  <ul class="collapse">
+  <li><a href="#toetsgegevens-1" id="toc-toetsgegevens-1" class="nav-link" data-scroll-target="#toetsgegevens-1"><span class="header-section-number">4.3.1</span> Toetsgegevens</a></li>
+  <li><a href="#itembanken" id="toc-itembanken" class="nav-link" data-scroll-target="#itembanken"><span class="header-section-number">4.3.2</span> Itembanken</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Toetssystemen</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="veelgebruikte-toetssystemen-voor-onderwijs" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="veelgebruikte-toetssystemen-voor-onderwijs"><span class="header-section-number">4.1</span> Veelgebruikte toetssystemen voor onderwijs</h2>
+<p>Deze paragraaf geeft een overzicht van de meest gebruikte toetssystemen voor het hoger onderwijs. De lijst is samengesteld door experts die betrokken zijn bij de ontwikkeling van dit handboek. De markt van toetssysteemleveranciers is dynamisch. Daarom is deze lijst niet compleet.</p>
+<div class="tip">
+<p><strong>Veel gebruikte toetssystemen in Nederland:</strong></p>
+<ul>
+<li><a href="http://www.testvision.nl">TestVision</a></li>
+<li><a href="https://www.paragin.nl/remindotoets/">RemindoToets</a></li>
+<li><a href="https://www.maplesoft.com/products/mapleta/">MapleTA</a></li>
+<li><a href="http://www.cirrusassessment.com/">Cirrus Assessment</a></li>
+<li><a href="http://www.questionmark.com">QM</a></li>
+<li><a href="www.infoland.nl/producten/iqualify">iQualify</a></li>
+<li><a href="https://secure.ans-delft.nl/%20Quiz-/">Ans Delft</a></li>
+</ul>
+<p><strong>Toetssystemen in Learning Management Systemen met beperkte itembankfunctionaliteit:</strong></p>
+<ul>
+<li><a href="https://www.canvaslms.com/">Canvas</a></li>
+<li><a href="http://www.blackboard.com">Blackboard</a></li>
+<li><a href="https://www.d2l.com/products/learning-environment/">Desire2Learn BrightSpace</a></li>
+<li><a href="https://moodle.com/">Moodle</a></li>
+<li><a href="https://www.cumlaudelearning.com/">Cumlaude</a></li>
+</ul>
+<p><strong>Itembanksystemen (Stand Alone programma’s) met directe itemexportfunctionaliteit:</strong></p>
+<ul>
+<li><a href="https://www.respondus.com/">Respondus</a></li>
+<li><a href="https://www.turningtechnologies.com/examview">ExamView</a></li>
+</ul>
+<p><strong>Toetssystemen met vragen:</strong></p>
+<ul>
+<li><a href="https://sowiso.nl/nl/">SOWISO (Wiskunde)</a></li>
+<li><a href="https://www.grasple.com/">Grasple (Statistiek)</a></li>
+<li><a href="http://zap.psy.utwente.nl/">Zeer Actieve Psychologie</a></li>
+<li><a href="http://www.r-exams.org/">R/Exams (Statistiek)</a></li>
+<li><a href="https://www.drillster.com/info/">Drillster</a></li>
+<li><a href="https://quizlet.com/">Quizlet</a></li>
+<li><a href="https://www.proprofs.com/">ProProfs</a></li>
+<li>Itembanken van uitgeverijen, vaak behorende bij een specifiek studieboek of online leeromgeving (bijv. <a href="https://mlm.pearson.com/">Pearson MyLab series</a>, (McGraw Hill methoden, WebAssign e.d.)</li>
+</ul>
+</div>
+</section>
+<section id="toetsstandaarden" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="toetsstandaarden"><span class="header-section-number">4.2</span> Toetsstandaarden</h2>
+<section id="qti-standaard" class="level3" data-number="4.2.1">
+<h3 data-number="4.2.1" class="anchored" data-anchor-id="qti-standaard"><span class="header-section-number">4.2.1</span> QTI-standaard</h3>
+<p>In de afgelopen jaren is onder meer in SURF-verband onderzoek gedaan naar de interoperabiliteit en uitwisselbaarheid van vragen tussen verschillende systemen. In internationaal verband wordt voortdurend gewerkt aan de IMS <a href="https://www.imsglobal.org/question/index.html">QTI-standaard (Question and Test Interoperability)</a> voor de uitwisseling tussen toetssystemen. Deze standaard zal niet op korte termijn alle uitwisselingsvraagstukken oplossen, omdat sommige systemen vraagtypen hebben, die andere niet hebben, zoals de meerdere punten in een afbeelding aanwijzen of ongelijke-matchvragen. Tegelijkertijd werkt QTI al wel in veel gevallen voor multiple choice toetsen. In de praktijk zien we dan ook dat een complexere samenwerking van meerdere instellingen voor de meeste deelnemende partijen betekent dat ze moeten werken in een ander systeem dan hun eigen instellingssysteem.</p>
+<p>Als je bij een samenwerking niet in één itembanksysteem kan werken, beperk dan het te gebruiken vraagtype tot de meerkeuzevraag. Deze vorm is zo eenvoudig dat uitwisseling via QTI of platte tekst meestal probleemloos verloopt. Ga ervan uit dat metadata en media (afbeeldingen, geluid) niet (goed) meekomen als je items ex- en importeert.</p>
+<p>Voer in de voorbereiding een proef uit met het uitwisselen van items. Zo kun je bepalen of het overzetten goed gaat of dat er conversiegereedschappen moeten worden gemaakt. Probeer zo veel mogelijk in hetzelfde systeem te werken, ook vanuit verschillende instellingen.</p>
+</section>
+<section id="lti-en-scorm-standaard" class="level3" data-number="4.2.2">
+<h3 data-number="4.2.2" class="anchored" data-anchor-id="lti-en-scorm-standaard"><span class="header-section-number">4.2.2</span> LTI en SCORM standaard</h3>
+<p>In de toetswereld wordt vaak gewerkt met de standaarden IMS LTI (Learning Tools Interoperability standard) en SCORM (Sharable Content Object Reference Model). Dit zijn géén uitwisselstandaarden voor items. Deze standaarden worden gebruikt om toetssystemen te koppelen aan andere systemen, zoals digitale leeromgevingen (Leer-managementsystemen (LMS) zoals Blackboard of Canvas).</p>
+<p>Daarbij worden met name docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit het LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in het LMS. Voor de eindgebruikers ontstaat een meer eenduidige beleving van het LMS en ze hoeven niet extra in te loggen.</p>
+</section>
+</section>
+<section id="toetsgegevens" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="toetsgegevens"><span class="header-section-number">4.3</span> Toetsgegevens</h2>
+<section id="toetsgegevens-1" class="level3" data-number="4.3.1">
+<h3 data-number="4.3.1" class="anchored" data-anchor-id="toetsgegevens-1"><span class="header-section-number">4.3.1</span> Toetsgegevens</h3>
+<p>Een krachtig middel om de itemkwaliteit te verbeteren, is het verzamelen van gegevens over items van afgenomen toetsen. In combinatie met de kwaliteitsverhoging door itembanken heb je een dubbele verbeterslag te pakken. Deze gegevens zeggen namelijk iets over de kwaliteit van de items en de mate waarin studenten presteren of over de kwaliteit van het onderwijs. Het is belangrijk om beschrijvende en psychometrische gegevens goed te onderscheiden. Zij hebben een heel verschillend karakter, dat moet passen bij het doel dat je nastreeft met de itembank.</p>
+<section id="beschrijvende-data" class="level4" data-number="4.3.1.1">
+<h4 data-number="4.3.1.1" class="anchored" data-anchor-id="beschrijvende-data"><span class="header-section-number">4.3.1.1</span> Beschrijvende data</h4>
+<p>Eenvoudige beschrijvende data van items gaan om zaken zoals het aantal keren dat een item is afgenomen of beantwoord.</p>
+<p>Op het niveau van een toets als geheel kunnen beschrijvende data gaan over hoe vaak een student een poging heeft ondernomen om een toets te maken, wanneer de poging is geweest, hoe de student scoort, wat de slagingspercentages zijn enzovoort. Deze data zijn afkomstig uit toetsservicesystemen.</p>
+<p>De data kun je vertalen naar een grafische overzichtspagina voor docenten of studenten. Docenten krijgen een overzicht van de progressie van een groep studenten en de onderwerpen waarmee ze moeite hebben. Studenten krijgen inzicht in hun progressie en hun positie ten opzichte van groepsgenoten. Dit levert in feite managementinformatie op. Gebruik van data op deze wijze noemt men ook wel <em>learning analytics</em>.</p>
+</section>
+<section id="psychometrische-data" class="level4" data-number="4.3.1.2">
+<h4 data-number="4.3.1.2" class="anchored" data-anchor-id="psychometrische-data"><span class="header-section-number">4.3.1.2</span> Psychometrische data</h4>
+<p>Psychometrische gegevens zeggen iets over de moeilijkheidsgraad van items en in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Daarbij maakt het uit of je gebruik maakt van de klassieke testtheorie (KTT) of de item-response-theorie (IRT). In deze paragraaf leggen we beide theorieën kort uit.</p>
+<section id="de-klassieke-testtheorie-ktt" class="level5" data-number="4.3.1.2.1">
+<h5 data-number="4.3.1.2.1" class="anchored" data-anchor-id="de-klassieke-testtheorie-ktt"><span class="header-section-number">4.3.1.2.1</span> De klassieke testtheorie (KTT)</h5>
+<p>De klassieke testtheorie gaat ervan uit dat de score op een toets bestaat uit de werkelijke score en een fout in de meting (ruis). Door statistische bewerkingen kan van één toets worden bepaald wat de betrouwbaarheid is van de toets, dat wil zeggen, in welke bandbreedte de werkelijke score van de student met een bepaalde mate van zekerheid ligt.</p>
+<p>De belangrijkste psychometrische gegevens voor items binnen het concept van de klassieke testtheorie zijn:</p>
+<ul>
+<li><em>Betrouwbaarheid</em>: de mate waarin de toets als geheel, dus alle items gezamenlijk, goed onderscheid maken in de mate van beheersingsgraad van de stof. Het is een maat van meetnauwkeurigheid en de mate waarin de score op een toets niet aan het toeval is te wijten. Volgens de literatuur moeten tentamens ten minste een waarde van 0,7 of hoger hebben en bijvoorbeeld selectietoetsen een waarde van 0,9 of hoger.</li>
+<li><em>p-waarde</em>: de proportie correcte antwoorden van de studentenpopulatie. De p-waarde wordt vaak aangeduid als de moeilijkheidsgraad van een item, maar is in feite een graad van gemakkelijkheid. Bij open items wordt een optimum van 0,5 en voor meerkeuzevragen met vier alternatieven is dit 0,67. Hier kan ook nog de a-waarde worden genoemd. Dat is de proportie studenten uit de groep die een bepaalde afleider heeft gekozen.</li>
+<li><em>Rit-waarde</em>: de correlatie tussen de score van de studenten op de item en de score op de toets als geheel. De rit-waarde is een maat voor het discriminerend vermogen van een vraag. Dat is de mate waarin het item onderscheid maakt tussen de studenten die de stof beter of slechter beheersen. De rir-waarde is een wat strengere maat voor het discriminerend vermogen, omdat de invloed van het item zelf op het discriminerend vermogen wordt weggelaten. Volgens de literatuur ligt het streven op een rit-waarde van ten minste 0,3. Waarden lager dan 0,1 worden als slecht beschouwd. Negatieve waarden verdienen direct aandacht. Hier komt de rat-waarde van pas. Dat is de mate waarin de keuze voor een bepaald incorrect alternatief samenhangt met de toetsscore.</li>
+</ul>
+<p>Het kan waardevol zijn om psychometrische gegevens bij de items op te slaan. Sommige toetssystemen ondersteunen zelfs een automatische update van deze gegevens na iedere beantwoording door een student. Op zich aantrekkelijk, ware het niet dat ze alleen interpreteerbaar zijn per toetsafname. Onderling kun je ze alleen vergelijken als de afnamecondities identiek zijn. Psychometrische gegevens per toetsafname zijn wel zinnig.</p>
+</section>
+<section id="de-item-response-theorie-irt" class="level5" data-number="4.3.1.2.2">
+<h5 data-number="4.3.1.2.2" class="anchored" data-anchor-id="de-item-response-theorie-irt"><span class="header-section-number">4.3.1.2.2</span> De item-response-theorie (IRT)</h5>
+<p>Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen <span class="citation" data-cites="linden2000computerized">(<a href="#ref-linden2000computerized" role="doc-biblioref">Linden, Linden, and Glas 2000</a>)</span>.</p>
+<p>Soms kiezen docenten in de voorbereiding voor adaptief toetsen, zonder zich voldoende te realiseren dat hiervoor complexe en kostbare IRT-technieken nodig zijn. Kies hier alleen voor als de projectgelden toereikend zijn.</p>
+<p>Voor de ordening van de itembank heeft de keuze voor IRT niet zo heel veel consequenties. Het maken van een adaptieve itembank vergt meer kennis en middelen om de kalibratie uit te kunnen voeren, maar het resultaat kan worden opgenomen in een ‘gewone’ itembank. Er zijn voldoende items nodig, verspreid over de verschillende moeilijkheidsniveaus, met meer moeilijke items dan items met een gemiddelde moeilijkheidsgraad.</p>
+<p>Voor een wat uitgebreidere handzame uitleg van de klassieke testtheorie en item-respons theorie, zie <a href="https://www.universiteitleiden.nl/binaries/content/assets/iclon/ho/toetsing-en-toetsanalyse.pdf">De Gruijter, D. N. M. (2008). Toetsing en toetsanalyse</a>.</p>
+</section>
+</section>
+</section>
+<section id="itembanken" class="level3" data-number="4.3.2">
+<h3 data-number="4.3.2" class="anchored" data-anchor-id="itembanken"><span class="header-section-number">4.3.2</span> Itembanken</h3>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-linden2000computerized" class="csl-entry" role="listitem">
+Linden, Wim J, Wim J van der Linden, and Cees AW Glas. 2000. <em>Computerized Adaptive Testing: Theory and Practice</em>. Springer.
+</div>
+</div>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./03-toetsvormen.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Toetsvormen</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./05-itembanken.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Itembanken</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>

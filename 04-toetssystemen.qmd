@@ -1,0 +1,100 @@
+# Toetssystemen
+
+## Veelgebruikte toetssystemen voor onderwijs
+
+Deze paragraaf geeft een overzicht van de meest gebruikte toetssystemen voor het hoger onderwijs. De lijst is samengesteld door experts die betrokken zijn bij de ontwikkeling van dit handboek. De markt van toetssysteemleveranciers is dynamisch. Daarom is deze lijst niet compleet.
+
+::: tip
+**Veel gebruikte toetssystemen in Nederland:**
+
+-   [TestVision](http://www.testvision.nl)
+-   [RemindoToets](https://www.paragin.nl/remindotoets/)
+-   [MapleTA](https://www.maplesoft.com/products/mapleta/)
+-   [Cirrus Assessment](http://www.cirrusassessment.com/)
+-   [QM](http://www.questionmark.com)
+-   [iQualify](www.infoland.nl/producten/iqualify)
+-   [Ans Delft](https://secure.ans-delft.nl/%20Quiz-/)
+
+**Toetssystemen in Learning Management Systemen met beperkte itembankfunctionaliteit:**
+
+-   [Canvas](https://www.canvaslms.com/)
+-   [Blackboard](http://www.blackboard.com)
+-   [Desire2Learn BrightSpace](https://www.d2l.com/products/learning-environment/)
+-   [Moodle](https://moodle.com/)
+-   [Cumlaude](https://www.cumlaudelearning.com/)
+
+**Itembanksystemen (Stand Alone programma's) met directe itemexportfunctionaliteit:**
+
+-   [Respondus](https://www.respondus.com/)
+-   [ExamView](https://www.turningtechnologies.com/examview)
+
+**Toetssystemen met vragen:**
+
+-   [SOWISO (Wiskunde)](https://sowiso.nl/nl/)
+-   [Grasple (Statistiek)](https://www.grasple.com/)
+-   [Zeer Actieve Psychologie](http://zap.psy.utwente.nl/)
+-   [R/Exams (Statistiek)](http://www.r-exams.org/)
+-   [Drillster](https://www.drillster.com/info/)
+-   [Quizlet](https://quizlet.com/)
+-   [ProProfs](https://www.proprofs.com/)
+-   Itembanken van uitgeverijen, vaak behorende bij een specifiek studieboek of online leeromgeving (bijv. [Pearson MyLab series](https://mlm.pearson.com/), (McGraw Hill methoden, WebAssign e.d.)
+:::
+
+## Toetsstandaarden
+
+### QTI-standaard {#qti-standaard}
+
+In de afgelopen jaren is onder meer in SURF-verband onderzoek gedaan naar de interoperabiliteit en uitwisselbaarheid van vragen tussen verschillende systemen. In internationaal verband wordt voortdurend gewerkt aan de IMS [QTI-standaard (Question and Test Interoperability)](https://www.imsglobal.org/question/index.html) voor de uitwisseling tussen toetssystemen. Deze standaard zal niet op korte termijn alle uitwisselingsvraagstukken oplossen, omdat sommige systemen vraagtypen hebben, die andere niet hebben, zoals de meerdere punten in een afbeelding aanwijzen of ongelijke-matchvragen. Tegelijkertijd werkt QTI al wel in veel gevallen voor multiple choice toetsen. In de praktijk zien we dan ook dat een complexere samenwerking van meerdere instellingen voor de meeste deelnemende partijen betekent dat ze moeten werken in een ander systeem dan hun eigen instellingssysteem.
+
+Als je bij een samenwerking niet in één itembanksysteem kan werken, beperk dan het te gebruiken vraagtype tot de meerkeuzevraag. Deze vorm is zo eenvoudig dat uitwisseling via QTI of platte tekst meestal probleemloos verloopt. Ga ervan uit dat metadata en media (afbeeldingen, geluid) niet (goed) meekomen als je items ex- en importeert.
+
+Voer in de voorbereiding een proef uit met het uitwisselen van items. Zo kun je bepalen of het overzetten goed gaat of dat er conversiegereedschappen moeten worden gemaakt. Probeer zo veel mogelijk in hetzelfde systeem te werken, ook vanuit verschillende instellingen.
+
+### LTI en SCORM standaard
+
+In de toetswereld wordt vaak gewerkt met de standaarden IMS LTI (Learning Tools Interoperability standard) en SCORM (Sharable Content Object Reference Model). Dit zijn géén uitwisselstandaarden voor items. Deze standaarden worden gebruikt om toetssystemen te koppelen aan andere systemen, zoals digitale leeromgevingen (Leer-managementsystemen (LMS) zoals Blackboard of Canvas).
+
+Daarbij worden met name docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit het LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in het LMS. Voor de eindgebruikers ontstaat een meer eenduidige beleving van het LMS en ze hoeven niet extra in te loggen.
+
+## Toetsgegevens
+
+### Toetsgegevens
+
+Een krachtig middel om de itemkwaliteit te verbeteren, is het verzamelen van gegevens over items van afgenomen toetsen. In combinatie met de kwaliteitsverhoging door itembanken heb je een dubbele verbeterslag te pakken. Deze gegevens zeggen namelijk iets over de kwaliteit van de items en de mate waarin studenten presteren of over de kwaliteit van het onderwijs. Het is belangrijk om beschrijvende en psychometrische gegevens goed te onderscheiden. Zij hebben een heel verschillend karakter, dat moet passen bij het doel dat je nastreeft met de itembank.
+
+#### Beschrijvende data
+
+Eenvoudige beschrijvende data van items gaan om zaken zoals het aantal keren dat een item is afgenomen of beantwoord.
+
+Op het niveau van een toets als geheel kunnen beschrijvende data gaan over hoe vaak een student een poging heeft ondernomen om een toets te maken, wanneer de poging is geweest, hoe de student scoort, wat de slagingspercentages zijn enzovoort. Deze data zijn afkomstig uit toetsservicesystemen.
+
+De data kun je vertalen naar een grafische overzichtspagina voor docenten of studenten. Docenten krijgen een overzicht van de progressie van een groep studenten en de onderwerpen waarmee ze moeite hebben. Studenten krijgen inzicht in hun progressie en hun positie ten opzichte van groepsgenoten. Dit levert in feite managementinformatie op. Gebruik van data op deze wijze noemt men ook wel *learning analytics*.
+
+#### Psychometrische data {#psychometrische-data}
+
+Psychometrische gegevens zeggen iets over de moeilijkheidsgraad van items en in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Daarbij maakt het uit of je gebruik maakt van de klassieke testtheorie (KTT) of de item-response-theorie (IRT). In deze paragraaf leggen we beide theorieën kort uit.
+
+##### De klassieke testtheorie (KTT)
+
+De klassieke testtheorie gaat ervan uit dat de score op een toets bestaat uit de werkelijke score en een fout in de meting (ruis). Door statistische bewerkingen kan van één toets worden bepaald wat de betrouwbaarheid is van de toets, dat wil zeggen, in welke bandbreedte de werkelijke score van de student met een bepaalde mate van zekerheid ligt.
+
+De belangrijkste psychometrische gegevens voor items binnen het concept van de klassieke testtheorie zijn:
+
+-   *Betrouwbaarheid*: de mate waarin de toets als geheel, dus alle items gezamenlijk, goed onderscheid maken in de mate van beheersingsgraad van de stof. Het is een maat van meetnauwkeurigheid en de mate waarin de score op een toets niet aan het toeval is te wijten. Volgens de literatuur moeten tentamens ten minste een waarde van 0,7 of hoger hebben en bijvoorbeeld selectietoetsen een waarde van 0,9 of hoger.
+-   *p-waarde*: de proportie correcte antwoorden van de studentenpopulatie. De p-waarde wordt vaak aangeduid als de moeilijkheidsgraad van een item, maar is in feite een graad van gemakkelijkheid. Bij open items wordt een optimum van 0,5 en voor meerkeuzevragen met vier alternatieven is dit 0,67. Hier kan ook nog de a-waarde worden genoemd. Dat is de proportie studenten uit de groep die een bepaalde afleider heeft gekozen.
+-   *Rit-waarde*: de correlatie tussen de score van de studenten op de item en de score op de toets als geheel. De rit-waarde is een maat voor het discriminerend vermogen van een vraag. Dat is de mate waarin het item onderscheid maakt tussen de studenten die de stof beter of slechter beheersen. De rir-waarde is een wat strengere maat voor het discriminerend vermogen, omdat de invloed van het item zelf op het discriminerend vermogen wordt weggelaten. Volgens de literatuur ligt het streven op een rit-waarde van ten minste 0,3. Waarden lager dan 0,1 worden als slecht beschouwd. Negatieve waarden verdienen direct aandacht. Hier komt de rat-waarde van pas. Dat is de mate waarin de keuze voor een bepaald incorrect alternatief samenhangt met de toetsscore.
+
+Het kan waardevol zijn om psychometrische gegevens bij de items op te slaan. Sommige toetssystemen ondersteunen zelfs een automatische update van deze gegevens na iedere beantwoording door een student. Op zich aantrekkelijk, ware het niet dat ze alleen interpreteerbaar zijn per toetsafname. Onderling kun je ze alleen vergelijken als de afnamecondities identiek zijn. Psychometrische gegevens per toetsafname zijn wel zinnig.
+
+##### De item-response-theorie (IRT)
+
+Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen [@linden2000computerized].
+
+Soms kiezen docenten in de voorbereiding voor adaptief toetsen, zonder zich voldoende te realiseren dat hiervoor complexe en kostbare IRT-technieken nodig zijn. Kies hier alleen voor als de projectgelden toereikend zijn.
+
+Voor de ordening van de itembank heeft de keuze voor IRT niet zo heel veel consequenties. Het maken van een adaptieve itembank vergt meer kennis en middelen om de kalibratie uit te kunnen voeren, maar het resultaat kan worden opgenomen in een 'gewone' itembank. Er zijn voldoende items nodig, verspreid over de verschillende moeilijkheidsniveaus, met meer moeilijke items dan items met een gemiddelde moeilijkheidsgraad.
+
+Voor een wat uitgebreidere handzame uitleg van de klassieke testtheorie en item-respons theorie, zie [De Gruijter, D. N. M. (2008). Toetsing en toetsanalyse](https://www.universiteitleiden.nl/binaries/content/assets/iclon/ho/toetsing-en-toetsanalyse.pdf).
+
+### Itembanken
+
