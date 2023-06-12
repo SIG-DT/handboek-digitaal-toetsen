@@ -1,2 +1,0 @@
-# Handboek-Itembank
- HANDBOEK IN 5 STAPPEN NAAR EEN ITEMBANK

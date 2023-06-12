@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Handboek Digitaal Toetsen"
+  chapters:
+    - index.qmd
+    - 02-stappenplan.qmd
+    - 03-verdieping.qmd
+    - 04-bijlagen.qmd
+    - 05-colofon.qmd
+ 
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
