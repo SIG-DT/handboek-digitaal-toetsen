@@ -8,9 +8,9 @@ book:
     - 02-randvoorwaarden.qmd
     - 03-toetsvormen.qmd
     - 04-toetssystemen.qmd
-    - 05-itembanken.qmd
-    - 06-veilig-digitaal-toetsen.qmd
-    - 07-innovaties.qmd
+    - 05-veilig-digitaal-toetsen.qmd
+    - 06-innovaties.qmd
+    - 07-begrippen.qmd
     - 08-colofon.qmd
  
 bibliography: references.bib
@@ -23,3 +23,4 @@ format:
 
 editor: visual
 
+number-depth: 3
