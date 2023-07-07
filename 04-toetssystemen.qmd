@@ -191,7 +191,7 @@ Wij onderscheiden vijf stappen voor het ontwikkelen en gebruiken van een itemban
 Deel 2 van het handboek, het Stappenplan, neemt je mee door de verschillende stappen. Soms heb je daarvoor theoretische kennis nodig. Daarom verwijzen we regelmatig naar deel 3 van het handboek, de Verdieping. Dit deel bevat meer achtergrondinformatie voor het opzetten van een itembank.
 
 ::: tip
-**Tip**\
+**Tip**
 Geen tijd om het hele handboek door te nemen? Hou dan in ieder geval de succesfactoren voor het ontwikkelen, beheren en gebruiken van een itembank uit hoofdstuk 4 bij de hand.
 :::
 
