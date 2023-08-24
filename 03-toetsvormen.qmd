@@ -2,8 +2,20 @@
 
 ## Kiezen van een toetsvorm
 
--   [Keuzetool Toetsen](https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/)
+**[Keuzetool Toetsen](https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/)**  
+Naar aanleiding van de massale invoering van digitaal toetsen tijdens de coronacrisis, voerde de werkgroep Toetsen op afstand van het Versnellingsplan begin 2021 een enquête uit onder docenten. Daaruit bleek: er bestaat wel kennis rond het onderwerp digitaal toetsen, maar deze is lastig te vinden en ook niet iedereen weet de kennis te vinden. Daarom ontwikkelde de werkgroep deze tool die docenten helpt bij het kiezen van de juiste toetsvorm die op afstand kan worden afgenomen. De tool bevat een beslisboom waarmee de docent op basis van groepsgrootte en toetsdoel snel kan zien welke toetsvormen inzetbaar zijn. Daarbij worden er tips en aanvullende aandachtspunten getoond bij elke specifieke toetsvorm. De keuzetool bundelt de adviezen van verschillende handreikingen die tijdens de coronapandemie zijn ontwikkeld.
 
 ## Programmatisch toetsen
+Programmatisch toetsen is een holistische manier van toetsen waarbij gekeken wordt naar de gehele ontwikkeling van de student. Het doel van programmatisch toetsen is het optimaliseren van de beslisfunctie én het optimaliseren van de leerfunctie van toetsing (Baartman, Schilt-Mol & Vleuten, 2020).
 
--   [Leeromgeving Programmatisch toetsen](https://www.programmatischtoetsen.nl)
+**[Leeromgeving Programmatisch toetsen](https://www.programmatischtoetsen.nl)**  
+Deze leeromgeving is bedoeld voor iedereen die meer wil weten over programmatisch toetsen of er praktisch mee aan de slag wil. De omgeving bestaat uit zes hoofdstukken:  
+
+1. De basis  
+2. Programmatisch toetsen als ontwerpvraagstuk  
+3. Implementatie  
+4. De leerfunctie van programmatisch toetsen  
+5. De beslisfunctie van programmatisch toetsen  
+6. Zorgen voor en borgen van toetskwaliteit  
+
+Elk hoofdstuk bevat algemene informatie, praktijkvoorbeelden, praktische handvatten, en aanvullende bronnen zoals wetenschappelijke- en praktijkpublicaties. 

@@ -1,20 +1,36 @@
 # Randvoorwaarden
 
 ## Visie op toetsen
+(Introductietekst over visie op toetsen)
 
--   [Visietool toetsen](https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/)
+### Tools en hulpmiddelen
 
--   [Toetsweb](https://toetsweb.netlify.app)
+**[Toekomstperspectieven op digitaal toetsen](https://www.versnellingsplan.nl/wp-content/uploads/2022/10/Toekomstperspectief-op-digitaal-toetsen-en-beoordelen.pdf)**  
+In 2022 ontwikkelde de werkgroep Toetsen op Afstand uit het Versnellingsplan het toekomstperspectief voor toetsen en beoordelen in 2027. Dit perspectief is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs. Vervolgens is het perspectief ingekleurd door SURF, samen met bijna 50 experts uit mbo, hbo en wo. Dit proces werd geleid door bureau Turner.
 
--   [Stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf)
+**[Visietool toetsen](https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/)**  
+Op basis van het hiervoor genoemde toekomstperspectief voor toetsen en beoordelen is de Visietool Toetsen ontwikkeld. Dit is een hulpmiddel om het gesprek te voeren over de inkleuring van de vijf verschillende dimensies uit het toekomstperspectief binnen een organisatie of instelling:  
+1. Formatieve en summatieve functie van toetsen in balans  
+2. Toetsen en leren geïntegreerd en samenhangend, maar ook modulair waar wenselijk  
+3. Toetsen zijn authentiek, rijk en gevarieerd  
+4. Plaats- en tijdonafhankelijk toetsen  
+5. Toetsproces in samenhang en in samenwerking gedigitaliseerd en georganiseerd  
 
--   [MVP Virtuele toetswerkplek](https://www.surf.nl/virtuele-toetswerkplek)
+**[Toetsweb](https://toetsweb.netlify.app)**  
+De Toetsweb-Scan is gebaseerd op de methodiek van De Toetsing Getoetst en is bedoeld om de kwaliteit van toetsing te analyseren, verbeteren en borgen. Met behulp van de Toetsweb-Scan kun je als team samen vaststellen hoe de (duurzame) kwaliteit van toetsing er op dit moment uitziet in jullie opleiding (positiebepaling). Ook helpt de scan om samen keuzes te maken over jullie ontwikkeling richting (duurzame) toetskwaliteit (ambitiebepaling). Daarnaast maak je met je team een onderbouwd actieplan om te komen tot jullie ambitie.
 
--   [Toekomstperspectieven op digitaal toetsen](https://www.versnellingsplan.nl/wp-content/uploads/2022/10/Toekomstperspectief-op-digitaal-toetsen-en-beoordelen.pdf)
+**[Stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf)**  
+Digitaal toetsen vraagt om beleid. Het ontwikkelen van digitaaltoetsbeleid is in de praktijk een lastige klus: er komt meer bij kijken dan je denkt. SURFnet ontwikkelde daarom dit stappenplan. Het is een verkorte versie van de handreiking Beleid voor digitaal toetsen dat geschreven is door deelnemers
+uit 10 instellingen, de denktank digitaaltoetsbeleid. Deze korte versie is gemakkelijk bij de hand te houden bij
+het schrijven aan of het voeren van een gesprek over
+digitaaltoetsbeleid binnen je instelling. In de handreiking
+vind je meer toelichting, achtergrondinformatie en hulpvragen
+om je te helpen bij het schrijven van digitaaltoetsbeleid.
 
 ## Maturity scan
 
--   [Maturity scan Digitaal toetsen](https://www.surf.nl/files/2019-01/surf-maturityscan-digitaal-toetsen.pdf)
+**[Maturity scan Digitaal toetsen](https://www.surf.nl/files/2019-01/surf-maturityscan-digitaal-toetsen.pdf)**  
+Bij het ontwikkelen van strategie op uiteenlopende thema’s wordt steeds vaker gebruik gemaakt van modellen waarmee de volwassenheid van een organisatie op een bepaald thema inzichtelijk gemaakt kan worden. Meestal wordt de Engelse term ‘maturity’ gebruikt en het bijbehorend instrument is dan een ‘maturityscan’. Je komt dit veel tegen in de wereld van de informatievoorziening, bijvoorbeeld bij informatieveiligheid, bij data governance en bij online strategieën. SURF heeft een maturitymodel ontwikkeld voor toetsen in het hoger onderwijs. Het model bestaat uit vijf thema’s: beleid en visie, organisatie, deskundigheid, voorzieningen en implementatiestrategie. Deze thema’s hebben elk een eigen diagram. Het model laat in de vorm van een ‘spinnenweb’ de maturity zien van zowel de huidige als de toekomstige en gewenste situatie. Het instrument is ontwikkeld in Excel, zodat iedereen er eenvoudig mee kan werken en het zelf aan kan passen.
 
 ## Inrichting toetsprocessen
 

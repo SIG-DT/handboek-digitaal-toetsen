@@ -2,12 +2,19 @@
 
 ## Veilig toetsproces
 
--   [Werkboek Veilig toetsen](https://www.surf.nl/werkboek-veilig-toetsen)
+**[Werkboek Veilig toetsen](https://www.surf.nl/werkboek-veilig-toetsen)**  
+Het Werkboek veilig toetsen ondersteunt je met praktische handvatten bij het veilig maken van het hele toetsproces. Het is gemaakt door SURF, samen met experts uit het hoger onderwijs. Dit werkboek is van toepassing op zowel het papieren als digitale toetsproces. 
+
+Het werkboek bestaat uit 2 delen. Het eerste deel beschrijft hoe je een risicoanalyse van het toetsproces kunt maken. Ook beschrijft het welke stappen je als instelling moet zetten om tot een veilig toetsproces te komen. Het tweede deel bestaat uit een aantal bijlagen die concrete maatregelen geven om de toetsveiligheid te verhogen.
 
 ## Online proctoring
 
--   [Whitepaper Online proctoring](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand)
+**[Whitepaper Online proctoring](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand)**  
+In 2016 publiceerde SURF de eerste versie van de whitepaper over online proctoring om instellingen inzicht te geven in de vraagstukken die daarbij een rol spelen. De whitepaper is bedoeld om onderwijsinstellingen te ondersteunen bij het maken van de keuze al dan niet online proctoring in te zetten bij toetsen op afstand. Het bevat informatie en overwegingen die instellingen mee kunnen nemen bij het maken de keuze óf zij online surveilleren, en zo ja, onder welke voorwaarden. 
+
+In samenwerking met experts op het gebied van online proctoring, is de whitepaper geüpdatet. In de versie van 2020 zijn opgenomen: de nieuwe privacywetgeving Algemene verordening gegevensbescherming (AVG) uit 2018, de nieuwe mogelijkheden in online proctoring, en de impact van de coronacrisis.
 
 ### Onregelmatigheden en fraude
 
--   [Handreiking Onregelmatigheden en fraude](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/handreikingen.html#het-onderscheid-tussen-onregelmatigheid-en-fraude-handreiking-voor-examencommissies)
+**[Handreiking Onregelmatigheden en Fraude](https://www.versnellingsplan.nl/wp-content/uploads/2021/09/Handreiking-examencommissies-onregelmatigheden-fraude.pdf)**  
+De werkgroep Toetsen op Afstand ontwikkelde de Handreiking Onregelmatigheden en Fraude. Deze handreiking werd geschreven door  auteurs en juristen Rolf Bindels en Jillian van Damme (Honoré Advocaten) en auteur Roelof van Deemter (Shibboleth Assessments). Het is een praktisch stappenplan dat kan worden gebruikt bij het maken van een onderscheid tussen onregelmatigheden en gevallen van fraude. De handreiking bevat een uitleg van belangrijke begrippen, bepalingen en bevoegdheidsverdelingen. In het stappenplan wordt de lezer vervolgens meegenomen van het moment van signalering van een mogelijke onregelmatigheid, tot het moment waarop een definitief besluit wordt genomen. Tenslotte worden de vier mogelijke besluiten die kunnen worden genomen besproken.

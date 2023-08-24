@@ -2,15 +2,17 @@
 
 ## Virtuele toetswerkplek
 
--   [MVP Virtuele toetswerkplek](https://www.surf.nl/virtuele-toetswerkplek)
+**[MVP Virtuele toetswerkplek](https://www.surf.nl/virtuele-toetswerkplek)**  
+Een virtuele toetswerkplek werkt als volgt: om aan een toets te beginnen, logt een student in op een apparaat (laptop, desktop, chromebook) met het instellings-ID. De virtuele werkplek start nu alleen met de essentiele applicaties en bestanden op; de toets start automatisch. De student maakt de toets en levert deze in. Bij het afsluiten wordt een back-up gemaakt.
 
-## Virtual Reality
+SURF heeft verkend wat de mogelijkheden zijn om zo'n virtuele toetswerkplek te ontwikkelen als onderdeel van het [SURFcumulus](https://www.surf.nl/surfcumulus) aanbod. Er is een inventarisatie gedaan naar de behoefte van geïnteresseerde instellingen en vervolgens een minimal viable product (mvp) uitgewerkt. Dit vormde een mooi startpunt om in gesprek te gaan met verschillende marktpartijen die hun aanbod konden relateren aan het mvp. 
 
-Faucibus et molestie ac feugiat. Ut placerat orci nulla pellentesque
-dignissim enim sit. Pellentesque dignissim enim sit amet venenatis urna
-cursus. Euismod quis viverra nibh cras pulvinar mattis nunc. Nulla
-facilisi morbi tempus iaculis urna id volutpat lacus. Senectus et netus
-et malesuada fames ac turpis egestas. Facilisi nullam vehicula ipsum a.
-Erat imperdiet sed euismod nisi porta lorem mollis. Adipiscing tristique
-risus nec feugiat in fermentum posuere urna nec. Dolor morbi non arcu
-risus quis.
+## Extended Reality (Virtual, Augmented en Mixed Reality)
+ 
+Extended reality (XR) is de overkoepelende term die wordt gebruikt voor virtual reality (VR), augmented reality (AR) en mixed reality (MR). 
+
+### Het verschil tussen virtual, mixed en augmented reality
+Bij **virtual reality** wordt de gebruiker met behulp van een VR-bril of headset volledig ondergedompeld in een virtuele wereld. De gebruiker is afgesloten van de buitenwereld. **Augmented reality** is een technologie waarin de echte wereld verrijkt wordt door het toevoegen van digitale elementen. Dit wordt vaak bekeken via de camera van een mobiele telefoon of tablet. De digitale elementen worden als een laag (overlay) over de realiteit weergegeven. Bij **mixed reality** wordt de volledige omgeving in kaart gebracht, waarbij digitale elementen worden geprojecteerd op de omgeving. In tegenstelling tot bij augmented reality zijn deze digitale elementen echter in staat om zowel met elkaar als met de echte omgeving te interacteren. Dit gebeurt door het gebruik van sensoren in de bril/headset, waardoor het apparaat 'weet' waar objecten in de echte wereld zich bevinden. 
+
+### Toepassing van XR in het onderwijs
+De toepassing van XR in het onderwijs biedt nieuwe didactische mogelijkheden voor het aanleren van kennis en (beroeps)vaardigheden. Zo kunnen VR-simulaties gebruikt worden om realistische leerervaringen voor studenten te creëren, waarin zij vaardigheden zonder gevaar en met eindeloze herhaling kunnen oefenen. 
