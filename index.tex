@@ -1,0 +1,844 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{3}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Handboek Digitaal Toetsen},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Handboek Digitaal Toetsen}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, frame hidden, boxrule=0pt, sharp corners, interior hidden, borderline west={3pt}{0pt}{shadecolor}, breakable]}{\end{tcolorbox}}\fi
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\bookmarksetup{startatroot}
+
+\hypertarget{introductie}{%
+\chapter{Introductie}\label{introductie}}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Diam sollicitudin
+tempor id eu nisl nunc. Varius quam quisque id diam vel. Porta nibh
+venenatis cras sed felis eget. Tincidunt dui ut ornare lectus sit amet.
+Varius morbi enim nunc faucibus a pellentesque. Praesent semper feugiat
+nibh sed pulvinar proin gravida. Diam in arcu cursus euismod quis
+viverra nibh cras pulvinar. Eros in cursus turpis massa tincidunt dui ut
+ornare lectus. Condimentum vitae sapien pellentesque habitant morbi
+tristique. Ut tristique et egestas quis. Fermentum et sollicitudin ac
+orci phasellus.
+
+\hypertarget{inleiding}{%
+\section{Inleiding}\label{inleiding}}
+
+Augue eget arcu dictum varius duis at consectetur lorem donec. Erat nam
+at lectus urna. Tellus id interdum velit laoreet id donec ultrices. Id
+aliquet lectus proin nibh nisl condimentum id venenatis a. Ultricies
+lacus sed turpis tincidunt id aliquet risus feugiat in. Cras sed felis
+eget velit aliquet sagittis id. Egestas tellus rutrum tellus
+pellentesque eu. Id diam maecenas ultricies mi eget mauris. Eget egestas
+purus viverra accumsan in nisl nisi scelerisque. Sagittis nisl rhoncus
+mattis rhoncus. Felis donec et odio pellentesque diam. Donec pretium
+vulputate sapien nec sagittis aliquam. Mauris pellentesque pulvinar
+pellentesque habitant morbi tristique senectus et netus. Risus feugiat
+in ante metus. Volutpat commodo sed egestas egestas fringilla phasellus
+faucibus scelerisque. Senectus et netus et malesuada fames ac turpis.
+Molestie a iaculis at erat. Semper viverra nam libero justo laoreet. Sed
+vulputate mi sit amet mauris.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{randvoorwaarden}{%
+\chapter{Randvoorwaarden}\label{randvoorwaarden}}
+
+\hypertarget{visie-op-toetsen}{%
+\section{Visie op toetsen}\label{visie-op-toetsen}}
+
+\begin{itemize}
+\item
+  \href{https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/}{Visietool
+  toetsen}
+\item
+  \href{https://toetsweb.netlify.app}{Toetsweb}
+\item
+  \href{https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf}{Stappenplan
+  Digitaal toetsbeleid schrijven}
+\item
+  \href{https://www.surf.nl/virtuele-toetswerkplek}{MVP Virtuele
+  toetswerkplek}
+\item
+  \href{https://www.versnellingsplan.nl/wp-content/uploads/2022/10/Toekomstperspectief-op-digitaal-toetsen-en-beoordelen.pdf}{Toekomstperspectieven
+  op digitaal toetsen}
+\end{itemize}
+
+\hypertarget{maturity-scan}{%
+\section{Maturity scan}\label{maturity-scan}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.surf.nl/files/2019-01/surf-maturityscan-digitaal-toetsen.pdf}{Maturity
+  scan Digitaal toetsen}
+\end{itemize}
+
+\hypertarget{inrichting-toetsprocessen}{%
+\section{Inrichting toetsprocessen}\label{inrichting-toetsprocessen}}
+
+Maecenas ultricies mi eget mauris pharetra et. Blandit cursus risus at
+ultrices. Fermentum iaculis eu non diam phasellus vestibulum lorem sed.
+Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis.
+Consectetur adipiscing elit duis tristique sollicitudin. Tristique
+senectus et netus et malesuada fames ac turpis. Tellus molestie nunc non
+blandit massa enim. Egestas pretium aenean pharetra magna ac placerat.
+Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Consectetur a
+erat nam at lectus. Quisque egestas diam in arcu cursus euismod quis
+viverra nibh. Nec feugiat in fermentum posuere urna. Nullam vehicula
+ipsum a arcu cursus vitae. Id interdum velit laoreet id donec. Sit amet
+porttitor eget dolor morbi non arcu. Cursus sit amet dictum sit amet
+justo donec enim. Ultricies mi quis hendrerit dolor magna eget.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{toetsvormen}{%
+\chapter{Toetsvormen}\label{toetsvormen}}
+
+\hypertarget{kiezen-van-een-toetsvorm}{%
+\section{Kiezen van een toetsvorm}\label{kiezen-van-een-toetsvorm}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/}{Keuzetool
+  Toetsen}
+\end{itemize}
+
+\hypertarget{programmatisch-toetsen}{%
+\section{Programmatisch toetsen}\label{programmatisch-toetsen}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.programmatischtoetsen.nl}{Leeromgeving
+  Programmatisch toetsen}
+\end{itemize}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{veilig-digitaal-toetsen}{%
+\chapter{Veilig digitaal toetsen}\label{veilig-digitaal-toetsen}}
+
+\hypertarget{veilig-toetsproces}{%
+\section{Veilig toetsproces}\label{veilig-toetsproces}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.surf.nl/werkboek-veilig-toetsen}{Werkboek Veilig
+  toetsen}
+\end{itemize}
+
+\hypertarget{online-proctoring}{%
+\section{Online proctoring}\label{online-proctoring}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand}{Whitepaper
+  Online proctoring}
+\end{itemize}
+
+\hypertarget{onregelmatigheden-en-fraude}{%
+\subsection{Onregelmatigheden en
+fraude}\label{onregelmatigheden-en-fraude}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/handreikingen.html\#het-onderscheid-tussen-onregelmatigheid-en-fraude-handreiking-voor-examencommissies}{Handreiking
+  Onregelmatigheden en fraude}
+\end{itemize}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{innovaties}{%
+\chapter{Innovaties}\label{innovaties}}
+
+\hypertarget{virtuele-toetswerkplek}{%
+\section{Virtuele toetswerkplek}\label{virtuele-toetswerkplek}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.surf.nl/virtuele-toetswerkplek}{MVP Virtuele
+  toetswerkplek}
+\end{itemize}
+
+\hypertarget{virtual-reality}{%
+\section{Virtual Reality}\label{virtual-reality}}
+
+Faucibus et molestie ac feugiat. Ut placerat orci nulla pellentesque
+dignissim enim sit. Pellentesque dignissim enim sit amet venenatis urna
+cursus. Euismod quis viverra nibh cras pulvinar mattis nunc. Nulla
+facilisi morbi tempus iaculis urna id volutpat lacus. Senectus et netus
+et malesuada fames ac turpis egestas. Facilisi nullam vehicula ipsum a.
+Erat imperdiet sed euismod nisi porta lorem mollis. Adipiscing tristique
+risus nec feugiat in fermentum posuere urna nec. Dolor morbi non arcu
+risus quis.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{begrippen}{%
+\chapter{Begrippen}\label{begrippen}}
+
+\hypertarget{adaptieve-toets}{%
+\section{Adaptieve toets}\label{adaptieve-toets}}
+
+Een toets waarbij de kandidaten gemakkelijker of moeilijker opgaven
+moeten beantwoorden afhankelijk van de vaardigheid van de kandidaat, die
+wordt ingeschat op basis van voorgaand items.
+
+Bij een op IRT gebaseerde adaptieve toets is sprake van gekalibreerde
+items waarvan die op een gegeven vaardigheidsniveau van de kandidaten
+het meest nauwkeurig kunnen meten. Bij een computer-adaptieve toets
+worden geen items meer aan de kandidaat aangeboden als het niveau van
+vaardigheid met de gewenste nauwkeurigheid is vastgesteld. Zie ook: item
+response.
+
+\hypertarget{afspeelomgeving}{%
+\section{Afspeelomgeving}\label{afspeelomgeving}}
+
+De component van een toetssysteem waarmee toetsen en items aan de
+kandidaten worden aangeboden en de antwoorden geregistreerd worden.
+
+\begin{itemize}
+\tightlist
+\item
+  zorgt dat studenten na inloggen de toets kunnen maken;
+\item
+  wordt vaak gecombineerd met een zogenaamde secure browser, die ervoor
+  zorgt dat de student niet ongeoorloofd software kan gebruiken om op
+  internet te zoeken, met derden te communiceren, etc.;
+\item
+  registreert de antwoorden en stuurt deze terug naar de itembank.
+\end{itemize}
+
+\hypertarget{auteursomgeving}{%
+\section{Auteursomgeving}\label{auteursomgeving}}
+
+De component van een toetssysteem waarmee items kunnen worden ingevoerd.
+
+\begin{itemize}
+\tightlist
+\item
+  is een interface waarin items kunnen worden ontwikkeld en voorzien van
+  metadata;
+\item
+  biedt keuze uit allerlei vraagtypen (meerkeuze, aanwijsvraag, open
+  vraag, etc.);
+\item
+  geeft de mogelijkheid multimediale componenten op te nemen;
+\item
+  ondersteunt (meestal) de workflow en legt het reviewproces vast;
+\item
+  ondersteunt het reviseren van items (bijvoorbeeld na de eerste
+  toetsafname)
+\end{itemize}
+
+\hypertarget{betrouwbaarheid}{%
+\section{Betrouwbaarheid}\label{betrouwbaarheid}}
+
+De mate waarin de score op een toets niet van het toeval afhankelijk is.
+De mate waarin een toets bij gelijke condities dezelfde uitslag
+oplevert. In statische termen wordt betrouwbaarheid beschreven in de
+mate waarin een meting vrij is van meetfouten (ook wel ruis of error
+genoemd). Zie ook: Misclassificaties.
+
+\hypertarget{body-of-knowledge-bok}{%
+\section{Body of Knowledge (BoK)}\label{body-of-knowledge-bok}}
+
+Een Body of Knowledge (BoK) is een gemeenschappelijke kennisbasis voor
+een vakgebied of sector waaraan de professional zijn theoretische en
+praktische kennis, inzichten en methoden ontleent. Het gaat niet alleen
+om theorie, maar ook om beproefde inzichten en methoden van de
+beroepsgroep in kwestie.
+
+\hypertarget{businesscase}{%
+\section{Businesscase}\label{businesscase}}
+
+Een businesscase of een haalbaarheidsstudie beschrijft de afweging om
+een project of taak te beginnen of te stoppen. In de businesscase worden
+de kosten tegen de baten afgewogen, rekening houdend met de risico's.
+Een businesscase is niet bedoeld om uitsluitend een financiële afweging
+te maken. Juist ook kwalitatieve overwegingen worden in een goede
+businesscase nadrukkelijk in de beoordeling betrokken. Een aspect als
+kwaliteitsverbetering kan voor een instelling heel belangrijk zijn,
+terwijl het zuiver financiële gewin daarvan nauwelijks te bepalen is.
+Bekijk ook de
+\href{https://www.surf.nl/kennisbank/2014/whitepaper-de-businesscase-\%20van-digitaal-toetsen.html}{\textbf{whitepaper
+De businesscase van digitaal toetsen}}.
+
+\hypertarget{cronbachs-alpha}{%
+\section{Cronbach's alpha}\label{cronbachs-alpha}}
+
+Een psychometrische maat die bij een niet-herhaalde toets (dus éénmalige
+afname zoals een tentamen) een waarde geeft waarin de meting onderhevig
+is aan meetfouten. Cronbach's alpha is geschikt voor polytoom gescoorde
+items. Vragen waar naast correct-incorrect (0 of 1) ook met bijvoorbeeld
+0, 1, 2, 3 etc. punten kan worden gerekend. Zie ook: KR20.
+
+\hypertarget{diagnostische-toetsen-onderdeel-van-formatieve-toetsen}{%
+\section{Diagnostische toetsen (onderdeel van formatieve
+toetsen)}\label{diagnostische-toetsen-onderdeel-van-formatieve-toetsen}}
+
+Een formatieve toets waarbij een kandidaat inzicht krijgt in zijn
+progressie door de leerstof. Een diagnostische toets is representatief
+voor wat betreft inhoud en niveau met een eventueel volgende summatieve
+eindtoets. Zie ook: Oefentoets.
+
+\hypertarget{digitaal-toetssysteem}{%
+\section{Digitaal toetssysteem}\label{digitaal-toetssysteem}}
+
+Dit is het cyclische proces om van leerdoelen, via items, toetsen,
+afname en analyse toetsing te realiseren en voortdurend te verbeteren.
+Vaak wordt in het centrum van deze cyclus de ontwikkeling en beheer van
+de itembank gesitueerd.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.4\textwidth,height=\textheight]{./images/ToetsCyclus.svg}
+
+}
+
+\caption{Componenten van digitale toetssystemen afgebeeld op de
+toetscyclus.}
+
+\end{figure}
+
+\hypertarget{formatieve-feedback}{%
+\section{Formatieve feedback}\label{formatieve-feedback}}
+
+Feedback waarbij de opbrengst voor het leerproces voorop staat. De
+feedback is bedoeld om studenten te stimuleren om zich verder te
+verdiepen in de stof. Bij incorrecte antwoorden worden vaak aan
+wijzingen gegeven om het correct antwoord te kunnen achterhalen of
+simpelweg het correcte antwoord. Bij correcte antwoorden wordt soms
+verdiepende stof of een ander voorbeeld besproken.
+
+\hypertarget{formatieve-toetsing}{%
+\section{Formatieve toetsing}\label{formatieve-toetsing}}
+
+Toetsing waarbij het leren van de toets voorop staat. Vanuit de
+literatuur wordt hierbij aanbevolen om af te zien van het geven van
+cijfers . Door met toetsopgaven aan de slag te gaan en te leren van
+fouten en feedback wordt het leerproces gestimuleerd. Er wordt niet
+gestreefd naar een bepaald minimaal te behalen niveau. Soms ook
+aangeduid met Assessment for Learning of Assessment as Learning.
+
+\hypertarget{geparametriseerde-vraag}{%
+\section{Geparametriseerde vraag}\label{geparametriseerde-vraag}}
+
+Een item bestaand uit een vaste hoofdstructuur met variabele elementen
+(getallen, objecten, concepten, principes), zodat ze elke keer een nieuw
+item vormen. Sommige itembanksystemen genereren elke keer een uniek
+nieuw item voor de docent of een unieke set van waarden voor elke
+student.
+
+\hypertarget{ims}{%
+\section{IMS}\label{ims}}
+
+Een IMS-standaard is vastgelegd door het IMS Global Learning Consortium,
+een community van hogeronderwijsinstellingen, leveranciers en
+overheidsinstellingen die samen uitwisselingsstandaarden ontwikkelen.
+Toen IMS in 1997 begon was de officiële naam Instructional Management
+Systems (IMS)-project.
+
+\hypertarget{item-response-theorie-irt}{%
+\section{Item-response theorie (IRT)}\label{item-response-theorie-irt}}
+
+Item-response theorie (IRT) is een methode waarbij er vanuit wordt
+gegaan dat de kans dat een kandidaat een item correct beantwoordt
+bepaald wordt door de vaardigheid van de kandidaat als functie van het
+moeilijkheidsniveau van het item en het onderscheidend vermogen van het
+item. IRT is een theorie die uitgaat van de karakteristiek van items,
+terwijl de klassieke testtheorie uitgaat van de karakteristiek van een
+toets. Om IRT zinvol te kunnen toepassen moet op basis van een groot
+aantal toetsafnames bij een populatie waarin alle vaardigheidsniveaus
+aanwezig zijn deze karakteristieken voorafgaand aan een toets worden
+bepaald (zgn. kalbireren). Zie ook: adaptieve toets.
+
+\hypertarget{item}{%
+\section{Item}\label{item}}
+
+Een opdracht/taak waarop een kandidaat het correcte antwoord moet geven.
+Wordt ook wel aangeduid als vraag, toetsvraag of toetsitem.
+
+\hypertarget{itembank}{%
+\section{Itembank}\label{itembank}}
+
+Een verzameling van items voor een bepaald toetsdoel. Een itembank heeft
+daarvoor een bepaalde ordening, meestal op basis van metadata en in de
+vorm van een metadata en in de vorm van een hiërarchische structuur.
+
+\hypertarget{itembanksysteem}{%
+\section{Itembanksysteem}\label{itembanksysteem}}
+
+Een software om itembanken in op te kunnen slaan en bewerken.
+Itembanksystemen kunnen losse systemen zijn of onderdeel van een
+toetssysteem. In een toetssysteem zijn ook functies opgenomen om toetsen
+samen te stellen, toetsen af te nemen, toetsen te scoren en
+toetsanalyses uit te voeren.
+
+\hypertarget{klassieke-testtheorie}{%
+\section{Klassieke testtheorie}\label{klassieke-testtheorie}}
+
+De klassieke testtheorie (KTT) heeft als basisaanname dat de
+geobserveerde score op een toets bestaat uit de werkelijke score plus
+een meetfout. Uitgaande van deze basisveronderstellingen kunnen
+grootheden zoals Cronbach's alpha worden berekend, die een schatting is
+voor de grootte van de meetfout.
+
+\hypertarget{kr20}{%
+\section{KR20}\label{kr20}}
+
+Een psychometrische maat die bij een niet herhaalde toets (dus éénmalige
+afname zoals een tentamen) een waarde geeft waarin de meting onderhavig
+is aan meetfouten. Het enige verschil tussen KR20 en Cronbachs alfa is
+dat er bij KR20 uitsluitend met dichotoom gescoorde items kan worden
+gerekend, zoals meerkeuzevragen. Dus items die correct of incorrect zijn
+en 0 of 1 punt opleveren. Zie ook: Cronbachs alfa.
+
+\hypertarget{learning-analytics}{%
+\section{Learning analytics}\label{learning-analytics}}
+
+Learning analytics is het verzamelen en analyseren van studiedata die
+een student tijdens het online leren genereert. De studiedata worden
+omgezet naar waardevolle informatie en kan bijdragen aan de verbetering
+van de onderwijskwaliteit. Zie ook:
+https://www.surf.nl/onderwijs-ict/learning-analytics.
+
+\hypertarget{lti}{%
+\section{LTI}\label{lti}}
+
+LTI (Learning Tools Interoperability standard) is een IMS-standaard om
+toetssystemen te koppelen aan andere systemen zoals digitale
+leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden
+docent- en studentgegevens tussen de systemen automatisch uitgewisseld,
+kunnen toetsen vanuit de LMS worden gestart en worden de scores op
+toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook:
+SCORM.
+
+\hypertarget{meetfout}{%
+\section{Meetfout}\label{meetfout}}
+
+De meetfout bij een toets is de afwijking van de score op een toets die
+niet verklaard kan worden. De werkelijke score is de geobserveerde score
+minus de meetfout. Zie ook: ruis en error.
+
+\hypertarget{metadata}{%
+\section{Metadata}\label{metadata}}
+
+Toegevoegde gegevens aan items die aanvullende karakeristieken
+beschrijven. Die gegevens kunnen gebruikt worden om de items te
+structureren (zie structuur), zoeken, filteren en selecteren.
+
+\hypertarget{misclassificaties}{%
+\section{Misclassificaties}\label{misclassificaties}}
+
+Het aandeel kandidaten dat onterecht gezakt danwel geslaagd is op een
+toets. Toetsen met lage betrouwbaarheid hebben een hoge mate van
+misclassificaties. Zie ook: betrouwbaarheid.
+
+\hypertarget{oefentoetsen-onderdeel-van-formatieve-toetsen}{%
+\section{Oefentoetsen (onderdeel van formatieve
+toetsen)}\label{oefentoetsen-onderdeel-van-formatieve-toetsen}}
+
+Een toets waarbij een kandidaat kan oefenen met de leerstof. De
+kandidaat kan zelf onderwerpen en niveau kiezen. Vaak worden deze
+toetsen gebruikt om vooral met moeilijke begrippen of concepten te
+oefenen. Soms wordt enige adaptiviteit ingebouwd zodat de
+afspeelomgeving items op een best passend niveau wordt aangeboden aan de
+kandidaat. Zie ook: diagnostische toets.
+
+\hypertarget{psychometrische-data}{%
+\section{Psychometrische data}\label{psychometrische-data}}
+
+Psychometrische data betreft de te berekenen gegevens van afgenomen
+toetsen en items die iets zeggen over de kwaliteit van de toetsing.
+Enerzijds zeggen zij iets over de betrouwbaarheid en moeilijkheidsgraad
+van toetsen als geheel. Anderzijds zeggen ze iets over het
+discriminerend vermogen en de moeilijkheidsgraad van afzonderlijke items
+uit die toetsen. Zie ook: klassieke testtheorie, item-response theorie,
+Cronbach's alpha, p-waarde, rit-waarde.
+
+\hypertarget{p-waarde}{%
+\section{P-waarde}\label{p-waarde}}
+
+De proportie van de kandidaten die een item correct heeft beantwoord.
+Wordt ook de moeilijkheidsgraad van een item genoemd. Hoe hoger de
+p-waarde, des te gemakkelijker is het item. P-waarde wordt alleen
+gebruik in relatie tot de klassieke testtheorie.
+
+\hypertarget{qti}{%
+\section{QTI}\label{qti}}
+
+QTI (Question and Test Interoperability) is een IMS-standaard voor de
+uitwisseling van items en toetsen tussen toetssystemen.
+
+\hypertarget{rit-waarde}{%
+\section{Rit-waarde}\label{rit-waarde}}
+
+De correlatie tussen de score van de kandidaten op de item en de score
+op de toets als geheel minus de betreffende item zelf. De rir-waarde is
+een wat strengere maat voor het discriminerend vermogen dan de
+rit-waarde omdat bij de rir-waarde de invloed van het item zelf op het
+discriminerend vermogen wordt uitgesloten. Rir-waarde wordt alleen
+gebruik in relatie tot de klassieke testtheorie. Zie ook: Rit-waarde en
+klassieke testtheorie.
+
+\hypertarget{scorm}{%
+\section{SCORM}\label{scorm}}
+
+SCORM (Sharable Content Object Reference Model) is een IMS-standaard om
+toetssystemen te koppelen aan andere systemen zoals digitale
+leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden met
+name docent- en studentgegevens tussen de systemen automatisch
+uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de
+scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS.
+Zie ook: LTI.
+
+\hypertarget{stabiel-domein}{%
+\section{Stabiel domein}\label{stabiel-domein}}
+
+Een vakgebied dat weinig veranderingen meer ondergaat. Zie ook: volatiel
+domein.
+
+\hypertarget{structuur}{%
+\section{Structuur}\label{structuur}}
+
+De manier waarop een verzameling van items logisch geordend zijn,
+bijvoorbeeld in een boomstructuur.
+
+\hypertarget{summatieve-toetsing}{%
+\section{Summatieve toetsing}\label{summatieve-toetsing}}
+
+Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau
+van vaardigheid voorop staat. De behaalde score op een dergelijke meting
+wordt gebruikt voor formele toerekening van een behaald studieresultaat
+zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een
+tentamen. Soms ook aangeduid met assessment of learning.
+
+\hypertarget{toetsitem}{%
+\section{Toetsitem}\label{toetsitem}}
+
+Zie: item.
+
+\hypertarget{toetstransparantie}{%
+\section{Toetstransparantie}\label{toetstransparantie}}
+
+Het geheel van aspecten rondom toetsing dat de mate van transparantie,
+betrouwbaarheid en validiteit van toetsing behelst. Transparantie kan
+bijvoorbeeld toenemen als inzicht is in de wijze waarop items worden
+gemaakt, betrouwbaarheid kan toenemen als items beter onderscheid maken
+tussen studenten met verschillende mate van beheersing van de stof of
+vaardigheid, validiteit kan toenemen als de items beter en vollediger de
+beoogde kennis of vaardigheid meten.
+
+\hypertarget{toetsmatrijs}{%
+\section{Toetsmatrijs}\label{toetsmatrijs}}
+
+Een toetsmatrijs is een overzicht hoe toetsopgaven in een toets verdeeld
+zijn over de stof. Vaak wordt per onderdeel van de stof tevens de
+gewenste type vaardigheid, zoals kennis, inzicht of toepassing,
+aangegeven. Soms ook aangeduid als toetsmatrix, toetplan,
+specificatietabel of blueprint.
+
+\hypertarget{toetsveiligheid}{%
+\section{Toetsveiligheid}\label{toetsveiligheid}}
+
+De mate waarin correcte antwoorden items en toetsen niet op een
+ongeoorloofde manier door kandidaten gegeven worden (fraude).
+Bijvoorbeeld doordat items zijn gestolen of in het publieke domein
+terecht zijn gekomen, danwel dat kandidaten tijdens de toetsafn ame de
+beschikking hebben over ongeoorloofde bronnen, danwel dat kandidaten
+toetsuitslagen kunnen wijzigen. Zie o.a. de SURF uitgave
+\href{https://www.surf.nl/werkboek-veilig-toetsen}{Handboekveilig
+toetsen}.
+
+\hypertarget{toetsvraag}{%
+\section{Toetsvraag}\label{toetsvraag}}
+
+Zie: \protect\hyperlink{item}{item}.
+
+\hypertarget{vakgebied}{%
+\section{Vakgebied}\label{vakgebied}}
+
+Een vakgebied is een terrein van beroepsmatig toegepaste kennis en
+vaardigheden waar mensen zich in kunnen specialiseren. Voor het
+uitwisselen van ervaring en vakkennis is meestal een jargon nodig.
+
+\hypertarget{vragenbank}{%
+\section{Vragenbank}\label{vragenbank}}
+
+Een systeem waarin alle items zijn verzameld.
+
+\hypertarget{volatiel-domein}{%
+\section{Volatiel domein}\label{volatiel-domein}}
+
+Een vakgebied dat aan veel veranderingen onderhevig is door nieuw
+ontwikkelde kennis, methoden of technieken. Zie ook: stabiel domein.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{colofon}{%
+\chapter{Colofon}\label{colofon}}
+
+Deze uitgave is een bijgewerkte versie van de uitgave uit 2018. De
+special interest group (SIG) Digitaal toetsen heeft de uitgave -- mede
+in het licht van de ervaringen tijdens de coronacrisis van 2020/2021 --
+kritisch bekeken, aangevuld en geactualiseerd.
+
+\hypertarget{aan-deze-herziene-uitgave-werkten-mee}{%
+\section{Aan deze herziene uitgave werkten
+mee:}\label{aan-deze-herziene-uitgave-werkten-mee}}
+
+\begin{itemize}
+\tightlist
+\item
+  Silvester Draaijer, \textbf{Vrije Universiteit}
+\item
+  Sharon Klinkenberg, \textbf{Universiteit van Amsterdam}
+\item
+  Vincent Hendriks, \textbf{Open Universiteit}
+\item
+  Annette Peet, \textbf{SURF}
+\end{itemize}
+
+\hypertarget{de-oorspronkelijke-publicatie-is-geschreven-door}{%
+\section{De oorspronkelijke publicatie is geschreven
+door:}\label{de-oorspronkelijke-publicatie-is-geschreven-door}}
+
+\begin{itemize}
+\tightlist
+\item
+  Silvester Draaijer, \textbf{Vrije Universiteit}
+\item
+  Jenny de Werk, \textbf{SURFnet}
+\end{itemize}
+
+\hypertarget{redactie}{%
+\subsection{Redactie}\label{redactie}}
+
+\begin{itemize}
+\tightlist
+\item
+  Marjolein van Trigt
+\end{itemize}
+
+\hypertarget{in-nauwe-samenwerking-met-verschillende-itembank-experts}{%
+\section{In nauwe samenwerking met verschillende
+itembank-experts:}\label{in-nauwe-samenwerking-met-verschillende-itembank-experts}}
+
+\begin{itemize}
+\tightlist
+\item
+  Sander Schenk, \textbf{Hogeschool Rotterdam}
+\item
+  Jane Groenendijk, \textbf{Prove2Move}
+\item
+  Jeroen Donkers, \textbf{Maastricht University}
+\item
+  Marjolein Wijnker, \textbf{DAS}
+\item
+  Peter Roos, \textbf{10voordeleraar}
+\item
+  Angela Verschoor, \textbf{CITO}
+\item
+  Wil de Groot-Bolluijt, \textbf{GrootBolwerk}
+\end{itemize}
+
+\hypertarget{met-dank-aan}{%
+\section{Met dank aan}\label{met-dank-aan}}
+
+\begin{itemize}
+\tightlist
+\item
+  Desiree Joosten-Ten Brinke, \textbf{Fontys Hogescholen}
+\item
+  Ludo van Meeuwen, \textbf{Technische Universiteit Eindhoven} en
+  \textbf{SIG digitaal toetsen}
+\item
+  Rob Reichardt, \textbf{NHL Stenden Hogeschool} en \textbf{SIG digitaal
+  toetsen}
+\item
+  Kirsten Veelo, \textbf{SURFnet}
+\end{itemize}
+
+\hypertarget{opmaak}{%
+\section{Opmaak}\label{opmaak}}
+
+\begin{itemize}
+\tightlist
+\item
+  Rochelle Hurenkamp, \textbf{Werkgroep Toetsen op Afstand}
+\end{itemize}
+
+\hypertarget{copyright}{%
+\section{Copyright}\label{copyright}}
+
+Beschikbaar onder de licentie
+\href{https://creativecommons.org/licenses/by/4.0/deed.nl}{Creative
+Commons Naamsvermelding 4.0 Nederland}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{literatuur}{%
+\chapter{Literatuur}\label{literatuur}}
+
+
+
+\end{document}
