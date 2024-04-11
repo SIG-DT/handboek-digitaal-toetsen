@@ -20,9 +20,9 @@ Het handboek is bedoeld voor iedereen die een rol vervult in de processen rondom
 
 ##### Scope
 
-Het handboek richt zich op het ontwikkelen, beheren en gebruiken van itembanken binnen een opleiding, binnen één instelling, instellingsoverstijgend, binnen een bepaald domein of zelfs landelijk. Uitgangspunt is dat de processen in de basis hetzelfde zijn. Het handboek geeft geen uitgebreide beschrijving van bestaande itembanken of toetssystemen. Hiervoor kun je terecht in de SURF thema-uitgave [Toets-en vragenbanken in het onderwijs](https://www.surf.nl/thema-uitgave-toets-en-vragenbanken-in-het-onderwijs).
+Het handboek richt zich op het ontwikkelen, beheren en gebruiken van itembanken binnen een opleiding, binnen één instelling, instellingsoverstijgend, binnen een bepaald domein of zelfs landelijk. Uitgangspunt is dat de processen in de basis hetzelfde zijn. Het handboek geeft geen uitgebreide beschrijving van bestaande itembanken of toetssystemen. Hiervoor kun je terecht in de SURF thema-uitgave [Toets-en vragenbanken in het onderwijs](https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf).
 
-Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatietraject van digitaal toetsen bij instellingen. Voor het implementeren van digitaal toetsen verwijzen wij naar enkele SURF- publicaties, zoals de [handreiking Beleid voor digitaal toetsen](https://www.surf.nl/kennisbank/2016/handreiking-beleid-voor-digitaal-toetsen.html), het [stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/kennisbank/2016/stappenplan-digitaaltoetsbeleid-schrijven.html) en het [werkboek Veilig toetsen](https://www.surf.nl/kennisbank/2016/werkboek-veilig-toetsen.html).
+Het ontwikkelen van itembanken kan onderdeel zijn van een groter implementatietraject van digitaal toetsen bij instellingen. Voor het implementeren van digitaal toetsen verwijzen wij naar enkele SURF- publicaties, zoals de [handreiking Beleid voor digitaal toetsen](https://www.surf.nl/files/2019-04/handreiking-beleid-voor-digitaal-toetsen.pdf), het [stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf) en het [werkboek Veilig toetsen](https://www.surf.nl/kennisbank/2016/werkboek-veilig-toetsen.html).
 
 In dit handboek gaan we vooral in op het ontwikkelen van items (het itemontwikkelproces) en het beheer van items in een itembank. Een goede itembank vormt de basis voor goede toetsen. Over hoe je op basis van zo'n itembank goede toetsen ontwikkelt in een toetssysteem, zijn andere bronnen beschikbaar, zoals Toetsen in het hoger onderwijs @van2017toetsen.
 
@@ -71,7 +71,7 @@ In de jaren '30 werd er in de Verenigde Staten gewerkt met gestandaardiseerde to
 
 In het handboek refereren we naar een aantal Nederlandse instellingsoverstijgende itembanken. We hebben dankbaar gebruik gemaakt van hun kennis en ervaring. Het gaat om de volgende samenwerkingsverbanden:
 
-[**deKennistoetsenbank MBO** <i class="fas fa-external-link-alt"></i>](https://www.prove2move.nl/dekennistoetsenbank/)\
+[**deKennistestbank MBO** <i class="fas fa-external-link-alt"></i>](https://www.prove2move.nl/dekennistestbank/)\
 Voor de MBO-opleidingsprofielen Zorg en Welzijn, Maatschappelijk Werk en Verpleegkunde/Verzorgende IG heeft deKennistoetsenbank MBO van Prove2Move itembanken beschikbaar van duizenden items elk. DeKennistoetsenbank MBO is een methode-overstijgend digitaal systeem dat leren ondersteunt met goede kennisvragen. Prove2move is een coöperatie van de drie ROC's (Landstede, Deltion College en ROC van Twente).
 
 [**IVTG** <i class="fas fa-external-link-alt"></i>](https://www.ivtg.nl)\
@@ -174,7 +174,7 @@ Het ontwikkelen en gebruiken van een itembank kan complex zijn. De onderstaande 
 
 #### Stap 1: Voorbereiding {#stap-1-voorbereiding}
 
-Begin met het formuleren van het doel van de itembank. Denk na over de rol van de itembank binnen het onderwijs, de mogelijke fasering en het eigenaarschap van de itembank. Wie heb je nodig? Hoe kun je stapsgewijs een itembank ontwikkelen die meerwaarde heeft voor het onderwijs en langere periode 'in de lucht' blijft? [**Zie ook H3.1**](#waarom-samenwerken-aan-een-itembank)**.**
+Begin met het formuleren van het doel van de itembank. Denk na over de rol van de itembank binnen het onderwijs, de mogelijke fasering en het eigenaarschap van de itembank. Wie heb je nodig? Hoe kun je stapsgewijs een itembank ontwikkelen die meerwaarde heeft voor het onderwijs en langere periode 'in de lucht' blijft? [**Zie ook H7.0.3**](#waarom-samenwerken-aan-een-itembank)**.**
 
 Ga na of het ontwikkelen van een itembank past binnen het beleid van de instelling en of het de onderwijsvisie ondersteunt. Past het binnen het digitale toetsbeleid? Welke kwalitatieve en kwantitatieve doelen wil jouw instelling met digitaal toetsen bereiken? Zorg dat je het doel van jouw itembank laat passen binnen dit beleid. Dit maakt de itembank kansrijker. Om een idee uit te werken zal er commitment nodig zijn in de vorm van tijd en geld. Iedere instelling regelt dit anders. Vaak gaat het om een bestuurlijk traject, waarbij diverse mensen praten/lobbyen op operationeel, tactisch en strategisch niveau. Er zijn meestal richtlijnen en procedures beschikbaar voor het opstarten van een project binnen een instelling. Denk bijvoorbeeld aan innovatiegelden die via onderwijsprijzen of stimuleringsmaatregelen beschikbaar kunnen komen. Mogelijk moet je bijvoorbeeld een startnotitie of projectopdracht formuleren om de middelen te regelen. Het kan zijn dat er al wordt gevraagd naar een initiële inschatting van de kosten ten opzichte van de baten.
 
@@ -183,29 +183,29 @@ Het is aan te raden om tijdens de voorbereiding ten minste de volgende zaken te 
 -   De huidige situatie en de gewenste situatie.
 -   Het doel van de itembank. Waarom is het een goed idee? Wat hebben studenten eraan? Maak duidelijk hoe de itembank zich verhoudt tot andere beleidsdocumenten, bijvoorbeeld het digitaal toetsbeleid en het onderwijsbeleid.
 -   Welk resultaat ligt er als het project klaar is? Hoe ziet het onderhoud en beheer er globaal uit?
--   Vanuit welke theorie worden de items ontwikkeld? In de voorbereiding bedenk je op basis van welke theorie je aan de slag gaat: de klassieke testtheorie (KTT) of de item response theorie (IRT). Welke vraagtypes wil je gebruiken en hoe wordt er met feedback omgegaan? Keuzes over feedback en vraagtypes zijn van invloed op het eindresultaat. Zie ook [**§ 3.6.4**](#feedback-en-vraagtypes) en [**§ 3.7.3**](#toetsgegevens).
+-   Vanuit welke theorie worden de items ontwikkeld? In de voorbereiding bedenk je op basis van welke theorie je aan de slag gaat: de klassieke testtheorie (KTT) of de item response theorie (IRT). Welke vraagtypes wil je gebruiken en hoe wordt er met feedback omgegaan? Keuzes over feedback en vraagtypes zijn van invloed op het eindresultaat. Zie ook [**§ feedback-en-vraagtypes**](#feedback-en-vraagtypes) en [**H6 Toetsgegevens**](#toetsgegevens).
 -   Hoeveel tijd, geld en doorlooptijd is er nodig voor dit project?
 -   Bepaal de haalbaarheid van het project: voer eventueel een apart *haalbaarheidsonderzoek* of *vooronderzoek* uit.
--   Bepaal wie de opdrachtgever en/of de uiteindelijke eigenaar van de itembank is. Stel vast wie je nodig hebt om de itembank te ontwikkelen. Zie ook [**H3.5**](#componenten-en-processtappen).
+-   Bepaal wie de opdrachtgever en/of de uiteindelijke eigenaar van de itembank is. Stel vast wie je nodig hebt om de itembank te ontwikkelen. Zie ook [**componenten en processtappen**](#componenten-en-processtappen).
 
 ##### Haalbaarheidsonderzoek
 
 Een mogelijke tussenstap in de voorbereiding van je itembankproject is een onderzoek naar de haalbaarheid ervan. Hierin werk je één of meerdere opties voor het inrichten van een itembank uit. Kies welke optie het beste is voor jouw situatie. Kijk naar de volgende aspecten:
 
--   Inhoud: welke overeenkomsten zijn er tussen de items die je in de itembank wilt opnemen? Is er een gezamenlijke ordening te ontdekken? In hoeverre denken de docenten dat zij consensus kunnen bereiken over de inhoud van het vak en de items? Je moet dit weten om je aanpak te bepalen. Bij uiteenlopende meningen is er meer tijd nodig voor dit onderdeel. Zie ook [**H2.3**](#stap-3-ontwerp).
+-   Inhoud: welke overeenkomsten zijn er tussen de items die je in de itembank wilt opnemen? Is er een gezamenlijke ordening te ontdekken? In hoeverre denken de docenten dat zij consensus kunnen bereiken over de inhoud van het vak en de items? Je moet dit weten om je aanpak te bepalen. Bij uiteenlopende meningen is er meer tijd nodig voor dit onderdeel. Zie ook [**Ontwerp**](#stap-3-ontwerp).
 -   Kwaliteit: wat is de kwaliteit van de toetsen eigenlijk op dit moment? Wat zijn de p-waarden en rit-waarden? Hoe acceptabel is dit? Welke verbeterslag willen we realiseren met de itembank?
     -   De keuze voor het kopen of zelf ontwikkelen van de items.
         -   Wat is er al op de markt aan itembanken? Check oplossingen buiten de instelling, bijvoorbeeld het inkopen van items van een externe commerciële partij.
         -   Is er een mogelijkheid om aan te sluiten bij een bestaand samenwerkingsverband dat al een itembank ontwikkelt?
 -   De beoogde omvang van de itembank.
     -   Hoeveel items zijn er al binnen de instelling die kunnen worden gebruikt?
-    -   Hoeveel items heb je naar verwachting nodig? Zie ook [**H3.3**](#omvang-van-de-itembank).
--   Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO-applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? Zie ook [**H3.2**](#technologie-systemen).
+    -   Hoeveel items heb je naar verwachting nodig? Zie ook [**omvang van de itembank**](#omvang-van-de-itembank).
+-   Techniek (toetssystemen en itembanksystemen): Ga na wat er al beschikbaar is binnen de instelling aan itembanksystemen en itembanken die je kunt gebruiken. Zoek de afdeling op die verantwoordelijk is voor het beheer en gebruik van ICTO-applicaties en specifiek de toetsapplicaties. Moet er iets door de instelling worden aangeschaft? Zie ook [**technologie systemen**](#technologie-systemen).
 -   Organisatie: is er voldoende draagvlak voor de optie(s)? Ga in gesprek met organisaties die ervaring hebben met het inrichten van itembanken.
 -   Financiën: zet per optie de kosten en baten op een rij en neem de volgende zaken in acht.
     -   Kan er voldoende tijd en geld worden vrijgemaakt voor het ontwikkelen van de itembank?
     -   In hoeverre zal de itembank de prijs-kwaliteitverhouding van items kunnen verbeteren?
-    -   Kun je projectgeld of subsidiegeld aantrekken? Zie ook [**H3.4**](#kosten-en-baten).
+    -   Kun je projectgeld of subsidiegeld aantrekken? Zie ook [**kosten en baten**](#kosten-en-baten).
 
 ##### Afronding voorbereidingsstap
 
@@ -267,14 +267,14 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 
 -   Vragen die aan de orde komen: Hoe schrijf je de items uit? Wat vind je relevant of opleidingsspecifiek? Hoe zien de toetsmatrijzen eruit?
 -   Het kan zijn dat er verschillen zijn op notatie-of illustratieniveau. Hoe ga je hiermee om?
--   Bepaal welke hiërarchische structuur de itembank krijgt en welke metadata wenselijk zijn. Zie ook [**H3.6**](#de-ordening-van-een-itembank).
+-   Bepaal welke hiërarchische structuur de itembank krijgt en welke metadata wenselijk zijn. Zie ook [**de ordening van een itembank**](#de-ordening-van-een-itembank).
 
 ##### Itemontwikkelproces
 
 -   Bepaal wie welke stappen in het itemontwikkelproces doorloopt om de toetskwaliteit te borgen.
 -   Stel een indicatie op voor de verwachte ontwikkeltijd per item.
 -   Kijk naar de huidige processtappen. Scherp ze indien nodig aan of breid ze uit.
--   Moeten al bestaande items opnieuw bekeken worden en worden gekeurd? Hoeveel? Zie ook [**H3.5**](#organisatie-processtappen-rollen-en-rechten).
+-   Moeten al bestaande items opnieuw bekeken worden en worden gekeurd? Hoeveel? Zie ook [**organisatie processtappen rollen en rechten**](#organisatie-processtappen-rollen-en-rechten).
 
 ##### Itemkwaliteit
 
@@ -282,7 +282,7 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 -   Betrek waar mogelijk itemexperts (niet iedereen maakt goede items) of een psychometricus.
 -   Plan review-begeleidingssessies onder leiding van een vraagexpert. Laat docenten een flink aantal bestaande voorbeelditems aanleveren. Bespreek gezamenlijk de variatie tussen de vakken, de wijze van vraagstelling en de constructiefouten in deze items. Hierdoor krijgen de betrokkenen ideeën over uniformering van vraagformulering en vraagvormen.
 -   Bedenk hoe je de gewenste kwaliteitsverbetering kunt meten.
--   Begin met het einde in gedachten: inventariseer welke gegevens je uit de itembank wilt kunnen halen ten behoeve van het onderwijskundige proces. Zie ook [**H3.7**](#didactiek-kwaliteit-van-items).
+-   Begin met het einde in gedachten: inventariseer welke gegevens je uit de itembank wilt kunnen halen ten behoeve van het onderwijskundige proces. Zie ook [**didactiek: kwaliteit van items**](#didactiek-kwaliteit-van-items).
 
 ##### Systeem
 
@@ -290,14 +290,14 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 -   Bij een complex itembankproject: indien er meerdere systemen in gebruik zijn, maak een afweging welk systeem het meest geschikt is voor het doel.
 -   Past het gewenste itemontwikkelproces in het systeem? Dan kun je bepalen hoeveel werk het is om in te richten. Past het niet, bepaal dan of je het proces kunt aanpassen, of dat je liever onderzoekt of de structuur van het systeem kan worden aangepast.
 -   Geef aan wat er nodig is om de veiligheid van de items in de bank te waarborgen.
--   Hoe schaalbaar moet het systeem zijn, nu en in de toekomst -- voor zover je kunt overzien? Zie ook [**H3.2**](#technologie-systemen).
+-   Hoe schaalbaar moet het systeem zijn, nu en in de toekomst -- voor zover je kunt overzien? Zie ook [**technologie systemen**](#technologie-systemen).
 
 ##### Productie en planning
 
 -   In de voorbereiding heb je grofweg bepaald hoeveel items je nodig hebt in de itembank. Zet dit aantal uit in tijd (korte en lange termijn). Hoeveel vraagt dit van medewerkers?
 -   Hoeveel items zijn al beschikbaar bij de verschillende partijen en kunnen met weinig moeite bij elkaar gebracht worden?
 -   Bedenk hoe je het vullen van de itembank aanpakt. Bepaal de periode, eventuele deadlines (wanneer vinden de eerste toetsen plaats?) en streefproductie door opschaling (batches).
--   Bepaal wanneer je een kwaliteitsreview doet op basis van toetsstatistieken en psychometrische gegevens. Zie ook [**H3.3**](#omvang-van-de-itembank).
+-   Bepaal wanneer je een kwaliteitsreview doet op basis van toetsstatistieken en psychometrische gegevens. Zie ook [**omvang van de itembank**](#omvang-van-de-itembank).
 
 ##### Financiën
 
@@ -305,14 +305,14 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 -   Stel vast hoe je de exploitatie van de itembank na afronding van het project gaat financieren. Stel een exploitatieplan op. Mogelijkheden om inkomsten te genereren zijn bijvoorbeeld:
     -   Instellingen nemen een abonnement op de itembank, om deze vervolgens kosteloos aan studenten aan te bieden.
     -   Studenten betalen voor toegang tot de itembank.
--   Betrek de opdrachtgever van de itembank bij het opstellen van het budget voor exploitatie. Zorg dat hij of zij zich hiervoor verantwoordelijk voelt. Zie ook [**H3.4**](#kosten-en-baten).
+-   Betrek de opdrachtgever van de itembank bij het opstellen van het budget voor exploitatie. Zorg dat hij of zij zich hiervoor verantwoordelijk voelt. Zie ook [**kosten en baten**](#kosten-en-baten).
 
 ##### Juridische aandachtspunten
 
 -   Stel vast wie de eigenaar is van de items in de itembank.
 -   Bedenk hoe je wilt omgaan met materiaal van derden dat auteursrechtelijk beschermd is, zoals afbeeldingen bij items.
 -   Bepaal wat je nodig hebt op het gebied van de bescherming van persoonsgegevens.
--   Overleg welke afspraken je over de samenwerking met betrokken partijen wilt vastleggen. Leg ten minste vast hoeveel uur wordt geleverd voor itemontwikkeling. Betrek een juridisch expert bij instellingsoverstijgende samenwerkingen om te beoordelen wat de beste samenwerkingsmogelijkheid is en wat hierbij komt kijken. Zie ook **\[H3.8\](#juridische-aandachtspunten\]**.
+-   Overleg welke afspraken je over de samenwerking met betrokken partijen wilt vastleggen. Leg ten minste vast hoeveel uur wordt geleverd voor itemontwikkeling. Betrek een juridisch expert bij instellingsoverstijgende samenwerkingen om te beoordelen wat de beste samenwerkingsmogelijkheid is en wat hierbij komt kijken. Zie ook **\[juridische aandachtspunten\](#juridische-aandachtspunten\]**.
 
 ##### Beheer itembank
 
