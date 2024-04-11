@@ -12,14 +12,14 @@ Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het 
 -   [MapleTA](https://www.maplesoft.com/products/mapleta/)
 -   [Cirrus Assessment](http://www.cirrusassessment.com/)
 -   [QM](http://www.questionmark.com)
--   [iQualify](www.infoland.nl/producten/iqualify)
--   [Ans Delft](https://secure.ans-delft.nl/%20Quiz-/)
+-   [iQualify](https://www.iqualify.com)
+-   [Ans Delft](https://www.ans.app)
 
 **Toetssystemen in Learning Management Systemen met beperkte itembankfunctionaliteit:**
 
 -   [Canvas](https://www.canvaslms.com/)
 -   [Blackboard](http://www.blackboard.com)
--   [Desire2Learn BrightSpace](https://www.d2l.com/products/learning-environment/)
+-   [Desire2Learn BrightSpace](https://www.d2l.com)
 -   [Moodle](https://moodle.com/)
 -   [Cumlaude](https://www.cumlaudelearning.com/)
 
