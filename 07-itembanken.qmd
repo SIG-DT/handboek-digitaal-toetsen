@@ -312,14 +312,14 @@ Breng in kaart in welke mate de vakgebieden overeenkomen. Laat de betrokken do- 
 -   Stel vast wie de eigenaar is van de items in de itembank.
 -   Bedenk hoe je wilt omgaan met materiaal van derden dat auteursrechtelijk beschermd is, zoals afbeeldingen bij items.
 -   Bepaal wat je nodig hebt op het gebied van de bescherming van persoonsgegevens.
--   Overleg welke afspraken je over de samenwerking met betrokken partijen wilt vastleggen. Leg ten minste vast hoeveel uur wordt geleverd voor itemontwikkeling. Betrek een juridisch expert bij instellingsoverstijgende samenwerkingen om te beoordelen wat de beste samenwerkingsmogelijkheid is en wat hierbij komt kijken. Zie ook **\[juridische aandachtspunten\](#juridische-aandachtspunten\]**.
+-   Overleg welke afspraken je over de samenwerking met betrokken partijen wilt vastleggen. Leg ten minste vast hoeveel uur wordt geleverd voor itemontwikkeling. Betrek een juridisch expert bij instellingsoverstijgende samenwerkingen om te beoordelen wat de beste samenwerkingsmogelijkheid is en wat hierbij komt kijken. Zie ook [**juridische aandachtspunten**](#juridische-aandachtspunten).
 
 ##### Beheer itembank
 
 -   Bedenk hoe je de gebruikers, zoals docenten en studenten, het beste kunt ondersteunen om het eindproduct in gebruik te nemen. Ga hiervoor met hen in gesprek en luister naar argumenten. Laat hen juist bij het ontwerp meedenken.
 -   Bedenk wie of wat je nodig hebt om de itembank te beheren. Wie heb je nodig op het gebied van ondersteuning en beheer na het project?
 -   Maak instructiemateriaal en plan instructiemomenten.
--   Ga in gesprek met de eventueel beschikbare toets- en beheerorganisatie in de instelling en stem de werkwijze af. Zie ook [**H3.5**](#organisatie-processtappen-rollen-en-rechten).
+-   Ga in gesprek met de eventueel beschikbare toets- en beheerorganisatie in de instelling en stem de werkwijze af. Zie ook [**organisatie: processtappen, rollen en rechten**](#organisatie-processtappen-rollen-en-rechten).
 
 ::: tip
 **Wat heb je aan het einde van deze stap?**
@@ -375,7 +375,7 @@ De pilot heeft een aantal lessen opgeleverd. Op basis hiervan kun je grootschali
 
 -   Zorg dat de eigenaar van de itembank zich blijft bezig houden het volgen en bewaken van de doelstellingen en resultaten.
 -   Bespreek de borging regelmatig met de eigenaar van de itembank. Maken de itemontwikkelaars voldoende items? Zijn de items van goede kwaliteit? Hoe kun je zorgen voor zo min mogelijk variatie in kwaliteit? Is iedereen tevreden met het proces? Kan de docent gemakkelijk toetsen samenstellen? Vinden studenten de ontwikkelde formatieve items en feedback aantrekkelijk?
--   Ga na of de businesscase haalbaar blijft. Zie ook [**H3.7**](#didactiek-kwaliteit-van-items).
+-   Ga na of de businesscase haalbaar blijft. Zie ook [**didactiek: kwaliteit van items**](#didactiek-kwaliteit-van-items).
 
 ##### Nazorg
 
@@ -388,7 +388,7 @@ De itembank is geïmplementeerd. Het proces is in werking, iedereen vervult zijn
 -   Zorg voor goede documentatie, zoals:
     -   een beschrijving van de inzet van de itembank in de cursus.
     -   een beschrijving van het onderhoud van de itembank voor de toets- en beheerorganisatie.
-    -   een beschrijving van het onderhoud van de itembank voor een eventueel coördinatieteam en voor elk auteursteam per itembank. Zie [**§ 3.7.2.3**](#itembankonderhoud-en-beheer).
+    -   een beschrijving van het onderhoud van de itembank voor een eventueel coördinatieteam en voor elk auteursteam per itembank. Zie [**§ itembankonderhoud en beheer**](#itembankonderhoud-en-beheer).
     -   een standaard instructieprogramma voor gebruik van het itembanksysteem voor nieuwe medewerkers.
     -   aanpassingen aan het instructieprogramma bij updates van en aanpassingen aan het itembanksysteem.
 
@@ -423,11 +423,11 @@ Zowel binnen de instellingen als tussen instellingen valt veel profijt te behale
 
 Ten eerste moeten docenten die samen een itembank inrichten het gesprek aangaan in eenduidige bewoordingen. Ze bepalen samen hoe ze over itemontwikkeling spreken en welke minimale eisen ze stellen ten aanzien van kwaliteit. Dit is op zich al kwaliteitsverhogend.
 
-Ten tweede ligt bij samenwerking de inzet van toetsdeskundigen voor de hand. Zij kunnen een bijdrage leveren aan de toetsinhoud, maar ook op het gebied van bijvoorbeeld toetsdeskundigheid, redactie, opmaak. Ook dit zal de kwaliteit van items verhogen. Zie [**§ 3.7.2**](#hoe-realiseer-je-een-kwaliteitsverbetering) over verschillende rollen bij itemontwikkeling.
+Ten tweede ligt bij samenwerking de inzet van toetsdeskundigen voor de hand. Zij kunnen een bijdrage leveren aan de toetsinhoud, maar ook op het gebied van bijvoorbeeld toetsdeskundigheid, redactie, opmaak. Ook dit zal de kwaliteit van items verhogen. Zie [**§ hoe realiseer je een kwaliteitsverbetering**](#hoe-realiseer-je-een-kwaliteitsverbetering) over verschillende rollen bij itemontwikkeling.
 
 Ten derde maak je bij samenwerking meer afspraken over het proces van itemontwikkeling. Dat betekent dat de itemontwikkelaars zich bewuster worden van de verschillende ontwikkelingsfasen, de verantwoordelijkheid en de borging van het proces. Als itemontwikkelaars zich aan deze afspraken houden, leidt dat tot kwaliteitsverhoging. Er is betere grip op kwaliteit doordat het proces is geborgd.
 
-Tot slot kan samenwerking zorgen voor lagere kosten. In eerste instantie zal een samenwerking meer kosten met zich meebrengen, maar als eenmaal ontwikkelde items vaker en door meer docenten worden ingezet en dus door meer studenten worden gebruikt, wordt het gebruik van de items per saldo goedkoper. Voor een verdere toelichting zie [**Hoofdstuk 3.4**](#kosten-en-baten).
+Tot slot kan samenwerking zorgen voor lagere kosten. In eerste instantie zal een samenwerking meer kosten met zich meebrengen, maar als eenmaal ontwikkelde items vaker en door meer docenten worden ingezet en dus door meer studenten worden gebruikt, wordt het gebruik van de items per saldo goedkoper. Voor een verdere toelichting zie [**kosten en baten**](#kosten-en-baten).
 
 ##### Kansrijke vakgebieden voor een succesvolle samenwerking
 
@@ -450,7 +450,7 @@ Primair moeten itembanksystemen het mogelijk maken om:
 
 Toetssystemen zijn er in vele soorten en maten en bieden een grote hoeveelheid functionaliteiten die tegemoetkomen aan deze eisen.
 
-De kerncomponenten van een digitaal toetssysteem zijn de auteursomgeving, de itembank, de afspeelomgeving en de analysetool. In [**Hoofdstuk 3.5**](#organisatie-processtappen-rollen-en-rechten) gaan we dieper in op de achterliggende processen van deze componenten.
+De kerncomponenten van een digitaal toetssysteem zijn de auteursomgeving, de itembank, de afspeelomgeving en de analysetool. In [**organisatie: processtappen, rollen en rechten**](#organisatie-processtappen-rollen-en-rechten) gaan we dieper in op de achterliggende processen van deze componenten.
 
 #### Toetsitems uitwisselen tussen systemen
 
@@ -547,7 +547,7 @@ Bedenk dat zonder een gezamenlijke itembank de kosten voor het ontwikkelen van i
 
 ##### Baten
 
-Wat zijn de baten van de itembank? In [§ 3.1.1](#waarom-een-itembank) staat een opsomming van mogelijke vormen van impact van de itembank. Probeer die kwaliteitsdoelen zo te formuleren dat ze in financiële zin kunnen worden uitgedrukt. Vaak is dat niet goed mogelijk en komt het aan op de kracht van argumenten.
+Wat zijn de baten van de itembank? In [§ waarom een itembank](#waarom-een-itembank) staat een opsomming van mogelijke vormen van impact van de itembank. Probeer die kwaliteitsdoelen zo te formuleren dat ze in financiële zin kunnen worden uitgedrukt. Vaak is dat niet goed mogelijk en komt het aan op de kracht van argumenten.
 
 Baten kunnen bestaan uit structurele exploitatie, waarbij financiering wordt geborgd door bijvoorbeeld lump-sum financiering, contributie of financiering op basis van toetsafname door studenten of docenten. Breng vooraf in kaart welke wijze van bekostiging je wilt hanteren. Zorg ervoor dat partijen zich al in de voorbereiding hieraan committeren.
 
@@ -644,7 +644,7 @@ In een toetssysteem kan van elk item een geschiedenis worden bijgehouden. Zo wor
 ::: tip
 **Tip**
 
-Als de kwaliteit bij inzet al hoog is: richt een uitgebreider workflowproces in met diverse controlemomenten. Daarmee optimaliseer je de mogelijkheden om de kwaliteit van de items te verhogen. In [§ 3.7.2.2](#gecontroleerde-itemontwikkeling-door-review) lees je meer over gecontroleerde itemontwikkeling.
+Als de kwaliteit bij inzet al hoog is: richt een uitgebreider workflowproces in met diverse controlemomenten. Daarmee optimaliseer je de mogelijkheden om de kwaliteit van de items te verhogen. In [§ gecontroleerde itemontwikkeling door review](#gecontroleerde-itemontwikkeling-door-review) lees je meer over gecontroleerde itemontwikkeling.
 :::
 
 #### De ordening van een itembank {#de-ordening-van-een-itembank}
@@ -787,7 +787,7 @@ Bij meerkeuzevragen wordt de een-uit-vijfvraag veel door Amerikanen gebruikt. De
 
 #### Didactiek: kwaliteit van items {#didactiek-kwaliteit-van-items}
 
-Het verhogen van de kwaliteit van toetsing is meestal één van de belangrijkste redenen om gezamenlijk aan itembanken te werken. Zie [§ 3.1.2](#waarom-samenwerken-aan-een-itembank). De kwaliteit van toetsing neemt toe als de kwaliteit van de items toeneemt. Maar hoe zorgt een tool als een gezamenlijke itembank voor een hogere itemkwaliteit? Daarover gaat dit hoofdstuk.
+Het verhogen van de kwaliteit van toetsing is meestal één van de belangrijkste redenen om gezamenlijk aan itembanken te werken. Zie [§ waarom samenwerken aan een itembank](#waarom-samenwerken-aan-een-itembank). De kwaliteit van toetsing neemt toe als de kwaliteit van de items toeneemt. Maar hoe zorgt een tool als een gezamenlijke itembank voor een hogere itemkwaliteit? Daarover gaat dit hoofdstuk.
 
 Er zijn veel definities voor de kwaliteit van toetsing [@a061ccfdc1fe4c00bf328e9808c0cb6d]. De kwaliteit van een itembanksysteem betreft de mate waarin het systeem het mogelijk maakt om op een effectieve, efficiënte en prettige manier items te ontwikkelen, te beheren en te selecteren voor opname in een toets. De kwaliteit van de itembank neemt toe naar mate de items beter de leerdoelen uit de toetsmatrijs representeren. De kwaliteit neemt ook toe als er meer items in de itembank zitten die van hogere kwaliteit zijn.
 
@@ -795,7 +795,7 @@ Er zijn veel definities voor de kwaliteit van toetsing [@a061ccfdc1fe4c00bf328e9
 
 Wil je de kwaliteit van items verbeteren, focus je dan op twee soorten basiskwaliteit van toetsing: validiteit en betrouwbaarheid. Met behulp van itembanken kun je in beide een verbeterslag maken. Dit geldt zowel voor formatieve toetsing als voor summatieve toetsing.
 
-De validiteit van een toets gaat over de mate waarin een toets meet wat je beoogt te meten. Voor validiteit is het belangrijk dat de items relevant zijn voor een bepaald thema of leerdoel. Kwaliteitsverhoging treedt op wanneer docenten vaardiger worden in het maken van dit soort items. Training en samenwerking helpt daarbij. Itembanksystemen ondersteunen dit proces onder andere door mogelijkheden te bieden om direct commentaar te leveren, het faciliteren van samenwerking en de opzet van een verbetercyclus via een workflow. Zie § [3.5.1](#componenten-en-processtappen) en [3.5.2](#rollen-en-rechten).
+De validiteit van een toets gaat over de mate waarin een toets meet wat je beoogt te meten. Voor validiteit is het belangrijk dat de items relevant zijn voor een bepaald thema of leerdoel. Kwaliteitsverhoging treedt op wanneer docenten vaardiger worden in het maken van dit soort items. Training en samenwerking helpt daarbij. Itembanksystemen ondersteunen dit proces onder andere door mogelijkheden te bieden om direct commentaar te leveren, het faciliteren van samenwerking en de opzet van een verbetercyclus via een workflow. Zie § [componenten en processtappen](#componenten-en-processtappen) en [rollen en rechten](#rollen-en-rechten).
 
 De betrouwbaarheid gaat over de mate waarin het toetsresultaat (de score op een toets) reproduceerbaar is en zo min mogelijk afhangt van het toeval. Voor een hoge betrouwbaarheid moet de 'ruis' of 'meetfout' zo klein mogelijk zijn. De betrouwbaarheid van toetsen kan op de eerste plaats groter worden door meer items op te nemen in toetsen. Door gezamenlijk aan itembanken te werken vergroot je de voorraad aan items. Het aantal items waarmee een docent toetsen kan samenstellen, neemt toe.
 
@@ -819,7 +819,7 @@ Om de kwaliteit van bestaande items in de itembank te verbeteren, kun je verder 
 
 ###### Voorlichting en training
 
-Om goede items te kunnen construeren zijn voorlichting, training en een goede feedbackloop in itemontwikkeling onontbeerlijk. Geef bij de start van een itembank training aan de beoogde itemontwikkelaars. Dit helpt om een gezamenlijk gevoel van kwaliteit te ontwikkelen en te laten groeien. Betrek toetsexperts bij de opzet van de training. Wanneer de itemontwikkeling eenmaal op gang is, kunnen meerdere trainingen volgen, bijvoorbeeld tijdens redactievergaderingen van het auteursteam. Zie ook [§ 3.7.2.3](#itembankonderhoud-en-beheer). Het diepgaand bespreken van items op basis van toets- en itemanalyses is in feite impliciete training. Training is daarmee een continu terugkerend onderdeel van het onderhoud en beheer van de itembank.
+Om goede items te kunnen construeren zijn voorlichting, training en een goede feedbackloop in itemontwikkeling onontbeerlijk. Geef bij de start van een itembank training aan de beoogde itemontwikkelaars. Dit helpt om een gezamenlijk gevoel van kwaliteit te ontwikkelen en te laten groeien. Betrek toetsexperts bij de opzet van de training. Wanneer de itemontwikkeling eenmaal op gang is, kunnen meerdere trainingen volgen, bijvoorbeeld tijdens redactievergaderingen van het auteursteam. Zie ook [§ itembankonderhoud en beheer](#itembankonderhoud-en-beheer). Het diepgaand bespreken van items op basis van toets- en itemanalyses is in feite impliciete training. Training is daarmee een continu terugkerend onderdeel van het onderhoud en beheer van de itembank.
 
 ###### Gecontroleerde itemontwikkeling door review {#gecontroleerde-itemontwikkeling-door-review}
 
@@ -827,11 +827,11 @@ Door een stapsgewijze itemontwikkeling met ingebouwde reviewmomenten kun je veel
 
 Voor twee samenwerkende docenten hoef je het reviewproces en de verdeling van rollen niet uitgebreid te definiëren, zeker niet in technische zin. Tegenwoordig wordt wel geëist dat elk item in ieder geval éénmaal door een collega-docent is bekeken. Ook moet duidelijk zijn wie een item goedkeurt. Onderschat dit niet: de consequenties van een toets die door één docent is ontwikkeld zijn even groot als die van een landelijke toets. Een student die de toets niet heeft gehaald, kan niet afstuderen.
 
-Itembanken voor toetsen waarmee grote belangen gemoeid zijn vereisen meer rollen en rechten. Stel dat op basis van de itembank toetsen worden ontwikkeld voor een selectie of toetsen zonder herkansingsmogelijkheid. De stakeholders, zoals de politiek, het publiek, bestuurders en studentenbonden, stellen hoge eisen aan transparantie en de kwaliteit van toetsing. Denk bijvoorbeeld aan landelijke toetsen, zoals de PABO-rekentoets, de toets in het kader van 10voordeleraar of de centrale toetsing in het mbo. Er is een uitgebreid, transparant reviewproces nodig. Voor een beschrijving van mogelijke rollen in dit proces, zie [§ 3.5.1](#rollen-en-rechten). Hoe omvangrijker het team van betrokkenen, des te belangrijker is de aansturing van teams en projectondersteuning door een coördinator.
+Itembanken voor toetsen waarmee grote belangen gemoeid zijn vereisen meer rollen en rechten. Stel dat op basis van de itembank toetsen worden ontwikkeld voor een selectie of toetsen zonder herkansingsmogelijkheid. De stakeholders, zoals de politiek, het publiek, bestuurders en studentenbonden, stellen hoge eisen aan transparantie en de kwaliteit van toetsing. Denk bijvoorbeeld aan landelijke toetsen, zoals de PABO-rekentoets, de toets in het kader van 10voordeleraar of de centrale toetsing in het mbo. Er is een uitgebreid, transparant reviewproces nodig. Voor een beschrijving van mogelijke rollen in dit proces, zie [§ rollen en rechten](#rollen-en-rechten). Hoe omvangrijker het team van betrokkenen, des te belangrijker is de aansturing van teams en projectondersteuning door een coördinator.
 
 ###### Itembankonderhoud en beheer {#itembankonderhoud-en-beheer}
 
-Onderdeel van het onderhoud en beheer van de itembank is het bespreken van items die niet zo goed functioneren. Uit psychometrische analyse van deze items blijkt dat ze lage rit-waarden of hoge of lage proportiewaarden hebben. Voor een uitgebreide uitleg van deze termen, zie [§ 3.7.3.2](#psychometrische-data). Probeer er gezamenlijk achter te komen wat de oorzaak is en wat je kunt doen om de items te verbeteren. Regelmatig zul je besluiten om items te verwijderen en geheel opnieuw te construeren. Deze besprekingen zijn wellicht aanleiding om de regels en richtlijnen voor items met het team aan te scherpen. Soms blijkt dat het probleem niet in de items, maar in het onderwijs zit. In dat geval zul je moeten bekijken hoe onderwijs en items beter op elkaar kunnen aansluiten.
+Onderdeel van het onderhoud en beheer van de itembank is het bespreken van items die niet zo goed functioneren. Uit psychometrische analyse van deze items blijkt dat ze lage rit-waarden of hoge of lage proportiewaarden hebben. Voor een uitgebreide uitleg van deze termen, zie [§ psychometrische data](#psychometrische-data). Probeer er gezamenlijk achter te komen wat de oorzaak is en wat je kunt doen om de items te verbeteren. Regelmatig zul je besluiten om items te verwijderen en geheel opnieuw te construeren. Deze besprekingen zijn wellicht aanleiding om de regels en richtlijnen voor items met het team aan te scherpen. Soms blijkt dat het probleem niet in de items, maar in het onderwijs zit. In dat geval zul je moeten bekijken hoe onderwijs en items beter op elkaar kunnen aansluiten.
 
 Het komt voor dat er een herbeoordeling van items nodig is of een aanpassing van de ordeningen. Er zijn bijvoorbeeld nieuwe inzichten in het vakgebied, wijzigingen in onderwerpen of leerdoelen of in de metadata en de toetsmatrijs. Je kunt je dan afvragen of er nieuwe sets van items voor nieuwe onderwerpen nodig zijn. Moeten items worden gehercodeerd? Zet gerichte ontwikkelopdrachten uit voor de itemontwikkelaars.
 
