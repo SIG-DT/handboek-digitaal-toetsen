@@ -34,7 +34,7 @@ Een Body of Knowledge (BoK) is een gemeenschappelijke kennisbasis voor een vakge
 
 ## Businesscase
 
-Een businesscase of een haalbaarheidsstudie beschrijft de afweging om een project of taak te beginnen of te stoppen. In de businesscase worden de kosten tegen de baten afgewogen, rekening houdend met de risico's. Een businesscase is niet bedoeld om uitsluitend een financiële afweging te maken. Juist ook kwalitatieve overwegingen worden in een goede businesscase nadrukkelijk in de beoordeling betrokken. Een aspect als kwaliteitsverbetering kan voor een instelling heel belangrijk zijn, terwijl het zuiver financiële gewin daarvan nauwelijks te bepalen is. Bekijk ook de [**whitepaper De businesscase van digitaal toetsen**](https://www.surf.nl/kennisbank/2014/whitepaper-de-businesscase-%20van-digitaal-toetsen.html).
+Een businesscase of een haalbaarheidsstudie beschrijft de afweging om een project of taak te beginnen of te stoppen. In de businesscase worden de kosten tegen de baten afgewogen, rekening houdend met de risico's. Een businesscase is niet bedoeld om uitsluitend een financiële afweging te maken. Juist ook kwalitatieve overwegingen worden in een goede businesscase nadrukkelijk in de beoordeling betrokken. Een aspect als kwaliteitsverbetering kan voor een instelling heel belangrijk zijn, terwijl het zuiver financiële gewin daarvan nauwelijks te bepalen is. Bekijk ook de [**whitepaper De businesscase van digitaal toetsen**](https://www.surf.nl/files/2019-08/whitepaper-de-businesscase-van-digitaal-toetsen.pdf).
 
 ## Cronbach's alpha
 
