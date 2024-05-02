@@ -2,10 +2,10 @@
 
 ## Virtuele toetswerkplek
 
-**[MVP Virtuele toetswerkplek](https://www.surf.nl/virtuele-toetswerkplek)**  
+**[MVP Virtuele toetswerkplek](https://www.surf.nl/files/2021-08/de-virtuele-toetswerkplek.pdf)**  
 Een virtuele toetswerkplek werkt als volgt: om aan een toets te beginnen, logt een student in op een apparaat (laptop, desktop, chromebook) met het instellings-ID. De virtuele werkplek start nu alleen met de essentiele applicaties en bestanden op; de toets start automatisch. De student maakt de toets en levert deze in. Bij het afsluiten wordt een back-up gemaakt.
 
-SURF heeft verkend wat de mogelijkheden zijn om zo'n virtuele toetswerkplek te ontwikkelen als onderdeel van het [SURFcumulus](https://www.surf.nl/surfcumulus) aanbod. Er is een inventarisatie gedaan naar de behoefte van geïnteresseerde instellingen en vervolgens een minimal viable product (mvp) uitgewerkt. Dit vormde een mooi startpunt om in gesprek te gaan met verschillende marktpartijen die hun aanbod konden relateren aan het mvp. 
+SURF heeft verkend wat de mogelijkheden zijn om zo'n virtuele toetswerkplek te ontwikkelen als onderdeel van het [SURFcumulus](https://www.surf.nl/diensten/surfcumulus) aanbod. Er is een inventarisatie gedaan naar de behoefte van geïnteresseerde instellingen en vervolgens een minimal viable product (mvp) uitgewerkt. Dit vormde een mooi startpunt om in gesprek te gaan met verschillende marktpartijen die hun aanbod konden relateren aan het mvp. 
 
 ## Extended Reality (Virtual, Augmented en Mixed Reality)
  
