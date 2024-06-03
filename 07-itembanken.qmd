@@ -721,7 +721,7 @@ Als er te weinig tijd of geld is om metadata consequent en precies bij te houden
 Een basisprincipe voor de inrichting van de structuur en de hoeveelheid metadata is het streven naar spaarzaamheid. Houd een complexiteit aan die net genoeg is om het doel te bereiken dat de toetsen dienen en de basisstappen voor kwaliteitscontrole te borgen.
 :::
 
-Ten tweede ondersteunt de inrichting van de metadata het proces van itemontwikkeling en kwaliteitsborging. De metadata in de vorm van de processtappen voor ontwikkeling zijn dus van belang. Zie ook [§ 3.5.1](#componenten-en-processtappen). Hetzelfde geldt voor metadata waarmee je eventueel verouderde items kunt traceren of items afkomstig van een bepaalde auteur kunt selecteren.
+Ten tweede ondersteunt de inrichting van de metadata het proces van itemontwikkeling en kwaliteitsborging. De metadata in de vorm van de processtappen voor ontwikkeling zijn dus van belang. Zie ook [componenten en processtappen](#componenten-en-processtappen). Hetzelfde geldt voor metadata waarmee je eventueel verouderde items kunt traceren of items afkomstig van een bepaalde auteur kunt selecteren.
 
 Op de derde plaats moet je de metadata zo inrichten dat ze de basis kunnen vormen voor zinvolle rapportages en feedback voor studenten. Is het doel van een specifieke toets dat studenten feedback krijgen over hoe zij per cel van een toetsmatrijs scoren? Schep hiervoor dan de mogelijkheid in de metadatastructuur. Is dit doel niet vooraf bepaald? Laat een dergelijke indeling achterwege.
 
