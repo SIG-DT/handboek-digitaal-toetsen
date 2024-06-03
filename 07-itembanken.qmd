@@ -777,7 +777,7 @@ Vooral bij oefentoetsen is het belangrijk dat er bij iedere vraag inhoudelijke f
 
 ###### Vraagtypes
 
-In een itembank kun je items maken op basis van verschillende vraagtypes. De meeste toets- en itembanksystemen ondersteunen meer dan tien types. Zie bijvoorbeeld dit [overzicht van alle QTI-gedefinieerde vraagtypes](https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples#cat1). Zie ook [§ 3.2.2.1](#qti-standaard).
+In een itembank kun je items maken op basis van verschillende vraagtypes. De meeste toets- en itembanksystemen ondersteunen meer dan tien types. Zie bijvoorbeeld dit [overzicht van alle QTI-gedefinieerde vraagtypes](https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples#cat1). Zie ook [qti-standaard](#qti-standaard).
 
 Voor oefentoetsen is het gebruik van verschillende vraagtypes aan te raden. Dit maakt de toetsen aantrekkelijker. Met deze vraagtypes kun je bijvoorbeeld meerdere deelonderwerpen tegelijkertijd bevragen of gebruikmaken van de voordelen van computerafname, zoals het verslepen of aanklikken van objecten. Dat elke vraag kan resulteren in een andere score, maakt weinig uit voor oefentoetsen.
 
