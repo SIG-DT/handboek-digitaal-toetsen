@@ -1,5 +1,7 @@
 # Toetsvormen
 
+In het dynamische landschap van het onderwijs evolueren ook de benaderingen van toetsen voortdurend. Een cruciale stap in dit proces is het kiezen van de juiste toetsvorm, een taak die vaak uitdagend blijkt te zijn voor docenten, vooral in het tijdperk van digitaal onderwijs. Om die reden is de Keuzetool Toetsen ontwikkeld. Naast deze tool verkennen we in dit hoofdstuk ook het concept van programmatisch toetsen, een holistische benadering die de volledige ontwikkeling van studenten centraal stelt.
+
 ## Kiezen van een toetsvorm
 
 **[Keuzetool Toetsen](https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/)**  
