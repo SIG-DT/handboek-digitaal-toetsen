@@ -23,8 +23,9 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    link-external-newwindow: true
+  # pdf:
+  #   documentclass: scrreprt
 
 editor: visual
 

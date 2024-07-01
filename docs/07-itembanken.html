@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.45">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Handboek Digitaal Toetsen - 7&nbsp; Itembanken</title>
+<title>7&nbsp; Itembanken – Handboek Digitaal Toetsen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -66,7 +67,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -75,6 +82,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -90,13 +98,13 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-itembanken.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Itembanken</span></a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-itembanken.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Itembanken</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -105,7 +113,7 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Handboek Digitaal Toetsen</a> 
@@ -193,7 +201,7 @@ div.csl-indent {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -224,7 +232,9 @@ div.csl-indent {
   </div>
   
 
+
 </header>
+
 
 <section id="inleiding" class="level3" data-number="7.0.1">
 <h3 data-number="7.0.1" class="anchored" data-anchor-id="inleiding"><span class="header-section-number">7.0.1</span> Inleiding</h3>
@@ -307,7 +317,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/ToetsCyclus.svg" class="img-fluid figure-img" style="width:60.0%"></p>
-<figcaption class="figure-caption">Toetscyclus.</figcaption>
+<figcaption>Toetscyclus.</figcaption>
 </figure>
 </div>
 </div>
@@ -398,7 +408,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <li>De huidige situatie en de gewenste situatie.</li>
 <li>Het doel van de itembank. Waarom is het een goed idee? Wat hebben studenten eraan? Maak duidelijk hoe de itembank zich verhoudt tot andere beleidsdocumenten, bijvoorbeeld het digitaal toetsbeleid en het onderwijsbeleid.</li>
 <li>Welk resultaat ligt er als het project klaar is? Hoe ziet het onderhoud en beheer er globaal uit?</li>
-<li>Vanuit welke theorie worden de items ontwikkeld? In de voorbereiding bedenk je op basis van welke theorie je aan de slag gaat: de klassieke testtheorie (KTT) of de item response theorie (IRT). Welke vraagtypes wil je gebruiken en hoe wordt er met feedback omgegaan? Keuzes over feedback en vraagtypes zijn van invloed op het eindresultaat. Zie ook <a href="#feedback-en-vraagtypes"><strong>§ feedback-en-vraagtypes</strong></a> en <a href="#toetsgegevens"><strong>H6 Toetsgegevens</strong></a>.</li>
+<li>Vanuit welke theorie worden de items ontwikkeld? In de voorbereiding bedenk je op basis van welke theorie je aan de slag gaat: de klassieke testtheorie (KTT) of de item response theorie (IRT). Welke vraagtypes wil je gebruiken en hoe wordt er met feedback omgegaan? Keuzes over feedback en vraagtypes zijn van invloed op het eindresultaat. Zie ook <a href="#feedback-en-vraagtypes"><strong>§ feedback-en-vraagtypes</strong></a> en <a href="06-toetsgegevens.html"><strong>H6 Toetsgegevens</strong></a>.</li>
 <li>Hoeveel tijd, geld en doorlooptijd is er nodig voor dit project?</li>
 <li>Bepaal de haalbaarheid van het project: voer eventueel een apart <em>haalbaarheidsonderzoek</em> of <em>vooronderzoek</em> uit.</li>
 <li>Bepaal wie de opdrachtgever en/of de uiteindelijke eigenaar van de itembank is. Stel vast wie je nodig hebt om de itembank te ontwikkelen. Zie ook <a href="#componenten-en-processtappen"><strong>componenten en processtappen</strong></a>.</li>
@@ -703,7 +713,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <section id="summatieve-toetsen-met-een-gelijktijdig-toetsmoment-voor-alle-studenten" class="level5">
 <h5 class="anchored" data-anchor-id="summatieve-toetsen-met-een-gelijktijdig-toetsmoment-voor-alle-studenten">Summatieve toetsen met een gelijktijdig toetsmoment voor alle studenten</h5>
 <p>De meeste toetsen in het hoger onderwijs bestaan uit klassieke tentamens. Eén docent of team stelt een toets samen voor een groep kandidaten voor één cursus van één instelling. Alle studenten maken de toets op hetzelfde moment. Welke situatie treedt dan op?</p>
-<table class="table">
+<table class="caption-top table">
 <colgroup>
 <col style="width: 59%">
 <col style="width: 40%">
@@ -867,7 +877,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/metadata.png" class="img-fluid figure-img" style="width:60.0%"></p>
-<figcaption class="figure-caption">Een item met enkele metadatavelden ingevuld.</figcaption>
+<figcaption>Een item met enkele metadatavelden ingevuld.</figcaption>
 </figure>
 </div>
 </div>
@@ -881,74 +891,86 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <p>Enkele voorbeelden van bestaande itembankstructuren:</p>
 <p>Het VUmc heeft een aparte itembank binnen het itembanksysteem van Questionmark Perception.</p>
 <div id="fig-itembankstructuren" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-itembankstructuren-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/fig4.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum.</figcaption>
+<figcaption>De hoofdstructuur van het VUmc volgt de afzonderlijke cursusafhankelijke toetsen (CAT) die worden afgenomen in het curriculum.</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/categories.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad.</figcaption>
+<figcaption>De hoofdstructuur voor een itembank over statistiek van de Faculteit der Sociale Wetenschappen van de VU. Deze itembank bevindt zich in een cursus in Blackboard. De itembank volgt de onderwerpindeling binnen statistiek met verbijzondering naar Advanced/Basic en Moeilijkheidsgraad.</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;7.1: VUmc en VU</figcaption><p></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-itembankstructuren-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7.1: VUmc en VU
+</figcaption>
 </figure>
 </div>
 <p>De Kennistoetsenbank bevat itembanken voor gebruikers van Pedagogisch Werk (PW), Maatschappelijke Zorg (MZ) en Verpleegkundige en Verzorgende opleidingen MBO Zorg en Welzijn.</p>
 <div id="fig-itembankstructuren2" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-itembankstructuren2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/iQualify.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.</figcaption>
+<figcaption>Deze itembanken zijn ingedeeld naar: vraagtypen, de structuur van de Body of Knowledge (BoK), het Kwalificatie Dossier (KD) en bijzondere kenmerken. In de afbeelding is de inrichting van de itembank van Pedagogisch Werk (PW) weergegeven.</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/fig7.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt..</figcaption>
+<figcaption>Een docent van de cursus Inleiding Microbiologie heeft een itembank in QuestionmarkLive gemaakt. De indeling volgt exact de hoofdstukindeling van het studieboek dat hij gebruikt..</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;7.2: De Kennistoetsenbank</figcaption><p></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-itembankstructuren2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7.2: De Kennistoetsenbank
+</figcaption>
 </figure>
 </div>
 <p>Indeling vragenbank LUMC. In het itembanksysteem RemindoToets heeft het Leids Universitair Medisch Centrum (LUMC) een itembank.</p>
 <div id="fig-itembankstructuren3" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-itembankstructuren3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/vragenbank.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vindbaarheid van items voor docenten en het beheer van de vragen door docenten.</figcaption>
+<figcaption>In eerste instantie koos het LUMC voor een themagerichte indeling op basis van disciplines uit de landelijke Voortgangstoets. Deze structuur leidde tot problemen vanwege de gebrekkige vindbaarheid van items voor docenten en het beheer van de vragen door docenten.</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/categorieen.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.</figcaption>
+<figcaption>Inmiddels is voor een meer pragmatische ordening naar opleidingen en onderwijs- onderdelen gekozen.</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;7.3: LUMC</figcaption><p></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-itembankstructuren3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7.3: LUMC
+</figcaption>
 </figure>
 </div>
 <p>Structuur van de itembank van Toets &amp; Leer.</p>
@@ -957,7 +979,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/vragen.jpg" class="img-fluid figure-img" style="width:30.0%"></p>
-<figcaption class="figure-caption">Iedere itembank binnen het itembanksysteem RemindoToets van Toets &amp; Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp &gt; Leerdoel &gt; Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.</figcaption>
+<figcaption>Iedere itembank binnen het itembanksysteem RemindoToets van Toets &amp; Leer is uit drie niveaus (categorieën) opgebouwd: Onderwerp &gt; Leerdoel &gt; Toetsterm. Hierdoor klap je slechts drie niveaus uit om een toetsvraag te zoeken, namelijk onderwerp, leerdoel en toetsterm. Het is de kunst geweest om de lijst met onderwerpen niet te algemeen, maar ook niet te gedetailleerd te maken.</figcaption>
 </figure>
 </div>
 </div>
@@ -972,7 +994,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <p>Als er te weinig tijd of geld is om metadata consequent en precies bij te houden, dan wordt de bruikbaarheid van de metadata teniet gedaan. Houd liever minder metadata bij en zorg dat ze van goede kwaliteit zijn.</p>
 <p>Een basisprincipe voor de inrichting van de structuur en de hoeveelheid metadata is het streven naar spaarzaamheid. Houd een complexiteit aan die net genoeg is om het doel te bereiken dat de toetsen dienen en de basisstappen voor kwaliteitscontrole te borgen.</p>
 </div>
-<p>Ten tweede ondersteunt de inrichting van de metadata het proces van itemontwikkeling en kwaliteitsborging. De metadata in de vorm van de processtappen voor ontwikkeling zijn dus van belang. Zie ook <a href="#componenten-en-processtappen">§ 3.5.1</a>. Hetzelfde geldt voor metadata waarmee je eventueel verouderde items kunt traceren of items afkomstig van een bepaalde auteur kunt selecteren.</p>
+<p>Ten tweede ondersteunt de inrichting van de metadata het proces van itemontwikkeling en kwaliteitsborging. De metadata in de vorm van de processtappen voor ontwikkeling zijn dus van belang. Zie ook <a href="#componenten-en-processtappen">componenten en processtappen</a>. Hetzelfde geldt voor metadata waarmee je eventueel verouderde items kunt traceren of items afkomstig van een bepaalde auteur kunt selecteren.</p>
 <p>Op de derde plaats moet je de metadata zo inrichten dat ze de basis kunnen vormen voor zinvolle rapportages en feedback voor studenten. Is het doel van een specifieke toets dat studenten feedback krijgen over hoe zij per cel van een toetsmatrijs scoren? Schep hiervoor dan de mogelijkheid in de metadatastructuur. Is dit doel niet vooraf bepaald? Laat een dergelijke indeling achterwege.</p>
 <div class="tip">
 <p><strong>Tip</strong></p>
@@ -983,7 +1005,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/fig10.png" class="img-fluid figure-img" style="width:100.0%"></p>
-<figcaption class="figure-caption">Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.</figcaption>
+<figcaption>Een itembank met als hoofdstructuur een indeling van hoofdstukken. Vragen kunnen worden gefilterd op basis van verschillende categorieën van metadata.</figcaption>
 </figure>
 </div>
 </div>
@@ -1017,7 +1039,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 </section>
 <section id="vraagtypes" class="level6">
 <h6 class="anchored" data-anchor-id="vraagtypes">Vraagtypes</h6>
-<p>In een itembank kun je items maken op basis van verschillende vraagtypes. De meeste toets- en itembanksystemen ondersteunen meer dan tien types. Zie bijvoorbeeld dit <a href="https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples#cat1">overzicht van alle QTI-gedefinieerde vraagtypes</a>. Zie ook <a href="#qti-standaard">§ 3.2.2.1</a>.</p>
+<p>In een itembank kun je items maken op basis van verschillende vraagtypes. De meeste toets- en itembanksystemen ondersteunen meer dan tien types. Zie bijvoorbeeld dit <a href="https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples#cat1">overzicht van alle QTI-gedefinieerde vraagtypes</a>. Zie ook <a href="05-toetsstandaarden.html#qti-standaard">qti-standaard</a>.</p>
 <p>Voor oefentoetsen is het gebruik van verschillende vraagtypes aan te raden. Dit maakt de toetsen aantrekkelijker. Met deze vraagtypes kun je bijvoorbeeld meerdere deelonderwerpen tegelijkertijd bevragen of gebruikmaken van de voordelen van computerafname, zoals het verslepen of aanklikken van objecten. Dat elke vraag kan resulteren in een andere score, maakt weinig uit voor oefentoetsen.</p>
 <p>Voor summatieve en diagnostische toetsen is vanuit statistisch oogpunt het gebruik van verschillende vraagtypes af te raden. Kies voor meerkeuzevragen én geef deze items allemaal een gelijk gewicht (bijv. 1 scorepunt). Deze keuze zorgt ervoor dat er geen problemen optreden met verschillende scoremogelijkheden of met de wijze van beantwoording. Dit zorgt voor meer flexibiliteit in het willekeurig kunnen trekken van items uit een itembank. Variëren in het aantal alternatieven (1-uit-3-, 1-uit-4- of 1-uit-5-vragen) levert over het algemeen geen problemen op. De scores vindt immers plaats op basis van 1 punt voor het juiste antwoord en 0 voor een afleider.</p>
 <p>Bij meerkeuzevragen wordt de een-uit-vijfvraag veel door Amerikanen gebruikt. De een-uit-viervraag en een-uit-drievraag worden in Nederland veel toegepast. De raadkans verandert bij deze varianten, maar soms is het lastig om afleiders te bedenken. Een-uit-viervragen zijn geschikt voor vakgebieden waar bepaalde antwoorden echt fout zijn. Denk hierbij aan exacte vakken zoals wiskunde, maar ook biologie. In vakgebieden waar verbanden belangrijk zijn of waar dingen niet snel fout zijn, is de een-uit-drievraag te verkiezen. Voorbeelden zijn communicatie en de meeste vakken van psychologie. Ga terughoudend om met items waarbij een casus wordt beschreven met daarbij deelvragen. Een dergelijk vraagtype maakt het moeilijker om flexibel items te trekken, omdat het aantal deelvragen kan verschillen per casus. Dat heeft invloed op de maximaal te behalen score.</p>
@@ -1046,7 +1068,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/fig11.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
-<figcaption class="figure-caption">Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.</figcaption>
+<figcaption>Grafische weergave van kwaliteitsontwikkeling. Links: de kwaliteit varieert heel erg, de gemiddelde kwaliteit is relatief laag. Rechts: de kwaliteit wordt constanter en de kwaliteit neemt systematisch toe.</figcaption>
 </figure>
 </div>
 </div>
@@ -1065,7 +1087,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 </section>
 <section id="itembankonderhoud-en-beheer" class="level6">
 <h6 class="anchored" data-anchor-id="itembankonderhoud-en-beheer">Itembankonderhoud en beheer</h6>
-<p>Onderdeel van het onderhoud en beheer van de itembank is het bespreken van items die niet zo goed functioneren. Uit psychometrische analyse van deze items blijkt dat ze lage rit-waarden of hoge of lage proportiewaarden hebben. Voor een uitgebreide uitleg van deze termen, zie <a href="#psychometrische-data">§ psychometrische data</a>. Probeer er gezamenlijk achter te komen wat de oorzaak is en wat je kunt doen om de items te verbeteren. Regelmatig zul je besluiten om items te verwijderen en geheel opnieuw te construeren. Deze besprekingen zijn wellicht aanleiding om de regels en richtlijnen voor items met het team aan te scherpen. Soms blijkt dat het probleem niet in de items, maar in het onderwijs zit. In dat geval zul je moeten bekijken hoe onderwijs en items beter op elkaar kunnen aansluiten.</p>
+<p>Onderdeel van het onderhoud en beheer van de itembank is het bespreken van items die niet zo goed functioneren. Uit psychometrische analyse van deze items blijkt dat ze lage rit-waarden of hoge of lage proportiewaarden hebben. Voor een uitgebreide uitleg van deze termen, zie <a href="06-toetsgegevens.html#psychometrische-data">§ psychometrische data</a>. Probeer er gezamenlijk achter te komen wat de oorzaak is en wat je kunt doen om de items te verbeteren. Regelmatig zul je besluiten om items te verwijderen en geheel opnieuw te construeren. Deze besprekingen zijn wellicht aanleiding om de regels en richtlijnen voor items met het team aan te scherpen. Soms blijkt dat het probleem niet in de items, maar in het onderwijs zit. In dat geval zul je moeten bekijken hoe onderwijs en items beter op elkaar kunnen aansluiten.</p>
 <p>Het komt voor dat er een herbeoordeling van items nodig is of een aanpassing van de ordeningen. Er zijn bijvoorbeeld nieuwe inzichten in het vakgebied, wijzigingen in onderwerpen of leerdoelen of in de metadata en de toetsmatrijs. Je kunt je dan afvragen of er nieuwe sets van items voor nieuwe onderwerpen nodig zijn. Moeten items worden gehercodeerd? Zet gerichte ontwikkelopdrachten uit voor de itemontwikkelaars.</p>
 <div class="tip">
 <p><strong>Redactieteam</strong></p>
@@ -1178,7 +1200,7 @@ Het doel van dit project is om een vrij toegankelijk uitgebreide verzameling lee
 <p>Ben je van plan om met meerdere instellingen een itembank te ontwikkelen? Leg de rechtsvorm en de onderlinge verhoudingen vast. Stem ook af wie wat op welk moment aanlevert. Dit leg je bijvoorbeeld vast in statuten en of een samenwerkingsovereenkomst.</p>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-draaijer2015practical" class="csl-entry" role="listitem">
 Draaijer, S., and S. Klinkenberg. 2015. <span>“A Practical Procedure for the Construction and Reliability Analysis of Fixed Length Tests with Random Drawn Test Items.”</span> In <em>Computer Assisted Assessment: Research into e-Assessment</em>, edited by E. Ras and D. Joosten-Ten Brinke, 47–60. Spinger. <a href="https://doi.org/10.1007/978-3-319-27704-2_6">https://doi.org/10.1007/978-3-319-27704-2_6</a>.
 </div>
@@ -1232,18 +1254,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -1275,11 +1286,55 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1289,8 +1344,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1302,7 +1366,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1346,6 +1533,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1371,6 +1559,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1432,17 +1646,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./06-toetsgegevens.html" class="pagination-link">
+      <a href="./06-toetsgegevens.html" class="pagination-link" aria-label="Toetsgegevens">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Toetsgegevens</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./08-veilig-digitaal-toetsen.html" class="pagination-link">
+      <a href="./08-veilig-digitaal-toetsen.html" class="pagination-link" aria-label="Veilig digitaal toetsen">
         <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Veilig digitaal toetsen</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
+
 
 
 
