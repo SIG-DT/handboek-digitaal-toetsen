@@ -1,10 +1,10 @@
-## Kwaliteit toetsvragen {#toetsgegevens}
+# Kwaliteit toetsvragen {#toetsgegevens}
 
-### Toetsgegevens
+## Toetsgegevens
 
 Een krachtig middel om de itemkwaliteit te verbeteren, is het verzamelen van gegevens over items van afgenomen toetsen. Deze gegevens zeggen namelijk iets over de kwaliteit van de items en de mate waarin studenten presteren of over de kwaliteit van het onderwijs. Het is belangrijk om beschrijvende en psychometrische gegevens goed te onderscheiden. Zij hebben een heel verschillend karakter, dat moet passen bij het doel dat je nastreeft.
 
-#### Beschrijvende data
+### Beschrijvende data
 
 Eenvoudige beschrijvende data van items gaan om zaken zoals het aantal keren dat een item is afgenomen of beantwoord.
 
@@ -12,11 +12,11 @@ Op het niveau van een toets als geheel kunnen beschrijvende data gaan over hoe v
 
 De data kun je vertalen naar een grafische overzichtspagina voor docenten of studenten. Docenten krijgen een overzicht van de progressie van een groep studenten en de onderwerpen waarmee ze moeite hebben. Studenten krijgen inzicht in hun progressie en hun positie ten opzichte van groepsgenoten. Dit levert in feite managementinformatie op. Gebruik van data op deze wijze noemt men ook wel *learning analytics*.
 
-#### Psychometrische data {#psychometrische-data}
+### Psychometrische data {#psychometrische-data}
 
 Psychometrische gegevens zeggen iets over de moeilijkheidsgraad van items en in welke mate ze onderscheid maken of een student de stof wel of niet beheerst. Daarbij maakt het uit of je gebruik maakt van de klassieke testtheorie (KTT) of de item-response-theorie (IRT). In deze paragraaf leggen we beide theorieën kort uit.
 
-##### De klassieke testtheorie (KTT)
+#### De klassieke testtheorie (KTT)
 
 De klassieke testtheorie gaat ervan uit dat de score op een toets bestaat uit de werkelijke score en een fout in de meting (ruis). Door statistische bewerkingen kan van één toets worden bepaald wat de betrouwbaarheid is van de toets, dat wil zeggen, in welke bandbreedte de werkelijke score van de student met een bepaalde mate van zekerheid ligt.
 
@@ -28,7 +28,7 @@ De belangrijkste psychometrische gegevens voor items binnen het concept van de k
 
 Het kan waardevol zijn om psychometrische gegevens bij de items op te slaan. Sommige toetssystemen ondersteunen zelfs een automatische update van deze gegevens na iedere beantwoording door een student. Op zich aantrekkelijk, ware het niet dat ze alleen interpreteerbaar zijn per toetsafname. Onderling kun je ze alleen vergelijken als de afnamecondities identiek zijn. Psychometrische gegevens per toetsafname zijn wel goed te gebruiken om inzicht te krijgen in de kwaliteit.
 
-##### De item-response-theorie (IRT)
+#### De item-response-theorie (IRT)
 
 Wil je weten wat de meer absolute moeilijkheidsgraad en het discriminerend vermogen van items zijn, dan biedt de item-response-theorie (IRT) uitkomst. IRT levert zogenaamde gekalibreerde items op. Om die te verkrijgen, worden de items afgenomen bij een grote steekproef onder een groep studenten met veel spreiding in kennis en vaardigheid. In het kalibratieproces wordt heel precies gemeten hoe items onderscheid maken tussen studenten op specifieke niveaus van moeilijkheid. Itembanken met items die op deze manier zijn ontwikkeld kun je gebruiken in zogenaamde adaptieve toetssystemen. De achterliggende technieken zijn zo complex dat ze alleen met ruime ontwikkelbudgetten kunnen worden gemaakt. Voorbeelden hiervan zijn de PABO-rekentoets (Wiscat), de Rekentuin (primair onderwijs) en de in ontwikkeling zijnde computer-adaptieve versie van de iVTG (interuniversitaire voortgangstoets geneeskunde). Ook geldt dat de items aan strengere eisen moeten voldoen dan bij klassieke toetsen, vooral voor wat betreft discriminerend vermogen [@linden2000computerized].
 
