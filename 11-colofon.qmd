@@ -1,19 +1,19 @@
-# Colofon 
+# Colofon
 
 ## Handboek Digitaal Toetsen
 
 Het Handboek Digitaal Toetsen is een uitgave van SURF en het versnellingsplan. Aan deze uitgave werkten mee:
 
-* Annette Peet
-* Amber de Wilde
-* Sharon Klinkenberg
-* Rochelle Hurenkamp
+-   Annette Peet
+-   Amber de Wilde
+-   Sharon Klinkenberg
+-   Rochelle Hurenkamp
 
 # Bijdragen {#contribute}
 
-Het is mogenlijk om bij te dragen aan deze uitgave. Het handboek wordt gehost vanuit GitHub Pages. 
-
-Als je wilt bijdragen aan dit boek, kun je de GitHub repository {forken en een pull request indienen](https://git-scm.com/book/nl/v2/GitHub-Aan-een-project-bijdragen). Het boek is geschreven in markdown en gecompileerd met behulp van [quarto](https://quarto.org). Het boek wordt gehost op GitHub Pages en het bronmateriaal wordt onderhouden vanuit [de GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/). Als je typfouten vindt of andere sugesties hebt foor verbetering, dien dan een issue in op de [GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/issues).
-
+Als je wilt bijdragen aan dit boek, kun je de GitHub repository {forken en een pull request indienen\](https://git-scm.com/book/nl/v2/GitHub-Aan-een-project-bijdragen). Het boek is geschreven in markdown en gecompileerd met behulp van [quarto](https://quarto.org). Het boek wordt gehost op GitHub Pages en het bronmateriaal wordt onderhouden vanuit [de GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/). Als je typfouten vindt of andere sugesties hebt foor verbetering, dien dan een issue in op de [GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/issues).
 
 # Literatuur
+
+::: {#refs}
+:::
