@@ -2,17 +2,16 @@
 
 In het hedendaagse onderwijslandschap wordt de rol van toetsen en beoordelen steeds prominenter. Als fundament voor een effectieve onderwijspraktijk is het essentieel om hierop een duidelijke visie te hebben. In de volgende tekst gaan we dieper in op de randvoorwaarden voor toetsen, beginnend met een verkenning van de visie op toetsen. Deze visie wordt gevormd door een grondige analyse van trends binnen het hoger onderwijs, waarbij input is verzameld van een breed scala aan experts uit verschillende onderwijsniveaus. Passend bij dit toekomstperspectief bestaan er verschillende tools, die hieronder geïntroduceerd worden. Bovendien introduceren we de Maturity scan Digitaal toetsen, een instrument om de volwassenheid van toetspraktijken binnen organisaties in kaart te brengen en te bevorderen. Deze tekst biedt een inzichtelijke verkenning van de randvoorwaarden die cruciaal zijn voor een effectief toetsbeleid binnen het hoger onderwijs.
 
-## Visie op toetsen
-
 Om te komen tot een goed ingericht digitaal toetslandschap, moet je weten wat de uitgangspunten zijn. Wil je als opleiding het leren van toetsen stimuleren, dan zal je andere digitale systemen nodig hebben dan wanneer je voornamelijk de eindtermen wil toetsen. Gebruik je toetsen om van te leren of om te beoordelen, of juist allebei? Dit is bepalend voor de benodigde digitale ondersteuning. Een visie helpt jou en je collega's op weg om hier en vormt een essentiële basis. Hieronder vind je tools die je helpen deze visie vorm te geven.
 
-### Tools en hulpmiddelen
+## Tools en hulpmiddelen
 
 **[Toekomstperspectieven op digitaal toetsen](https://www.versnellingsplan.nl/wp-content/uploads/2022/10/Toekomstperspectief-op-digitaal-toetsen-en-beoordelen.pdf)**  
 In 2022 ontwikkelde de werkgroep Toetsen op Afstand uit het Versnellingsplan het Toekomstperspectief voor toetsen en beoordelen in 2027. Dit perspectief is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs. Vervolgens is het perspectief ingekleurd door SURF, samen met bijna 50 experts uit mbo, hbo en wo. Dit proces werd geleid door bureau Turner.
 
 **[Visietool toetsen](https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/)**  
-Op basis van het hiervoor genoemde Toekomstperspectief voor toetsen en beoordelen is de Visietool Toetsen ontwikkeld door werkgroep Toetsen of Afstand en doorontwikkeld door SURF. Dit is een hulpmiddel om het gesprek te voeren over de inkleuring van de vijf verschillende dimensies uit het Toekomstperspectief binnen een organisatie of instelling:  
+Op basis van het hiervoor genoemde Toekomstperspectief voor toetsen en beoordelen is de Visietool Toetsen ontwikkeld door werkgroep Toetsen of Afstand en doorontwikkeld door SURF. Dit is een hulpmiddel om het gesprek te voeren over de inkleuring van de vijf verschillende dimensies uit het Toekomstperspectief binnen een organisatie of instelling:
+
 1. Formatieve en summatieve functie van toetsen in balans  
 2. Toetsen en leren geïntegreerd en samenhangend, maar ook modulair waar wenselijk  
 3. Toetsen zijn authentiek, rijk en gevarieerd  
@@ -24,8 +23,6 @@ De Toetsweb-Scan van de HAN is gebaseerd op de methodiek van [De Toetsing Getoet
 
 **[Stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf)**  
 Digitaal toetsen vraagt om beleid. Het ontwikkelen van digitaaltoetsbeleid is in de praktijk een lastige klus: er komt meer bij kijken dan je denkt. SURF ontwikkelde daarom samen met experts uit instellingen dit stappenplan. Het is gemakkelijk bij de hand te houden bij het schrijven aan of het voeren van een gesprek over digitaaltoetsbeleid binnen je instelling. 
-
-## Maturity scan
 
 **[Maturity scan Digitaal toetsen](https://www.surf.nl/files/2019-01/surf-maturityscan-digitaal-toetsen.pdf)**  
 Bij het ontwikkelen van strategie op uiteenlopende thema’s wordt steeds vaker gebruik gemaakt van modellen waarmee de volwassenheid van een organisatie op een bepaald thema inzichtelijk gemaakt kan worden. Meestal wordt de Engelse term ‘maturity’ gebruikt en het bijbehorend instrument is dan een ‘maturity scan’ (ontwikkeld door SURF). Je komt dit veel tegen in de wereld van de informatievoorziening, bijvoorbeeld bij informatieveiligheid, bij data governance en bij online strategieën. SURF heeft een maturitymodel ontwikkeld voor toetsen in het hoger onderwijs. Het model bestaat uit vijf thema’s: beleid en visie, organisatie, deskundigheid, voorzieningen en implementatiestrategie. Deze thema’s hebben elk een eigen diagram. Het model laat in de vorm van een ‘spinnenweb’ de maturity zien van zowel de huidige als de toekomstige en gewenste situatie. Het instrument is ontwikkeld in [Excel](maturitydiagramSURF.xlsx), zodat iedereen er eenvoudig mee kan werken en het zelf aan kan passen.
