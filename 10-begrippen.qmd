@@ -96,6 +96,9 @@ Een psychometrische maat die bij een niet herhaalde toets (dus éénmalige afnam
 
 Learning analytics is het verzamelen en analyseren van studiedata die een student tijdens het online leren genereert. De studiedata worden omgezet naar waardevolle informatie en kan bijdragen aan de verbetering van de onderwijskwaliteit. Zie ook: https://www.surf.nl/onderwijs-ict/learning-analytics.
 
+## Lerend Kwalificeren
+Zie (https://onderwijsenexaminering.nl/lerend-kwalificeren/de-basis-van-lerend-kwalificeren-2/): Lerend kwalificeren is een vorm van afsluiting van de opleiding waarbij onderwijsteams gebruikmaken van diverse bewijzen verzameld tijdens het leerproces van studenten om beslissingen te nemen over het al dan niet voldoen aan (een deel van de) kwalificatie-eisen. Deze werkwijze is gebaseerd op het concept van programmatisch toetsen, waarbij datapunten fungeren als pixels die het leren van de student weergeven. Verschillende vormen van beoordeling dienen als datapunten, die samen een rijk beeld vormen van de competenties van de student.
+
 ## LTI
 
 LTI (Learning Tools Interoperability standard) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: SCORM.
@@ -115,6 +118,9 @@ Het aandeel kandidaten dat onterecht gezakt danwel geslaagd is op een toets. Toe
 ## Oefentoetsen (onderdeel van formatieve toetsen)
 
 Een toets waarbij een kandidaat kan oefenen met de leerstof. De kandidaat kan zelf onderwerpen en niveau kiezen. Vaak worden deze toetsen gebruikt om vooral met moeilijke begrippen of concepten te oefenen. Soms wordt enige adaptiviteit ingebouwd zodat de afspeelomgeving items op een best passend niveau wordt aangeboden aan de kandidaat. Zie ook: diagnostische toets.
+
+## Programmatisch toetsen
+Programmatisch toetsen is een holistische manier van toetsen waarbij gekeken wordt naar de gehele ontwikkeling van de student. Het doel van programmatisch toetsen is het optimaliseren van de beslisfunctie én het optimaliseren van de leerfunctie van toetsing (Baartman et al., 2020). Lees meer op (https://www.programmatischtoetsen.nl).
 
 ## Psychometrische data
 
