@@ -36,8 +36,8 @@ Deze systemen bieden toetsvragen aan en leveren hierbij een standaardsysteem om 
 -   [SOWISO (Wiskunde)](https://sowiso.nl/nl/)
 -   [Grasple (Statistiek)](https://www.grasple.com/)
 -   [R/Exams (Statistiek)](http://www.r-exams.org/)
--   [Drillster](https://www.drillster.com/info/)
+-   [Drillster](https://www.drillster.com)
 -   [Quizlet](https://quizlet.com/)
--   [ProProfs](https://www.proprofs.com/)
--   Itembanken van uitgeverijen, vaak behorende bij een specifiek studieboek of online leeromgeving (bijv. [Pearson MyLab series](https://mlm.pearson.com/), (McGraw Hill methoden, WebAssign e.d.)
+-   [ProProfs](https://www.proprofs.com/quiz-school/)
+-   Itembanken van uitgeverijen, vaak behorende bij een specifiek studieboek of online leeromgeving (bijv. [Pearson MyLab series](https://mlm.pearson.com/), McGraw Hill methoden, WebAssign e.d.)
 :::
