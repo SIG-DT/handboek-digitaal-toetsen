@@ -23,12 +23,8 @@ Op basis van het hiervoor genoemde Toekomstperspectief voor toetsen en beoordele
 De Toetsweb-Scan van de HAN is gebaseerd op de methodiek van [De Toetsing Getoetst] (https://sluijsmans.net/portfolio-items/de-toetsing-getoetst/) en is bedoeld om de kwaliteit van toetsing te analyseren, verbeteren en borgen. Met behulp van de Toetsweb-Scan kun je als team samen vaststellen hoe de (duurzame) kwaliteit van toetsing er op dit moment uitziet in jullie opleiding (positiebepaling). Ook helpt de scan om samen keuzes te maken over jullie ontwikkeling richting (duurzame) toetskwaliteit (ambitiebepaling). Daarnaast maak je met je team een onderbouwd actieplan om te komen tot jullie ambitie.
 
 **[Stappenplan Digitaal toetsbeleid schrijven](https://www.surf.nl/files/2019-02/stappenplan-digitaal-toetsbeleid-schrijven_webversie.pdf)**  
-Digitaal toetsen vraagt om beleid. Het ontwikkelen van digitaaltoetsbeleid is in de praktijk een lastige klus: er komt meer bij kijken dan je denkt. SURFnet ontwikkelde daarom dit stappenplan. Het is een verkorte versie van de handreiking Beleid voor digitaal toetsen dat geschreven is door deelnemers
-uit 10 instellingen, de denktank digitaaltoetsbeleid. Deze korte versie is gemakkelijk bij de hand te houden bij
-het schrijven aan of het voeren van een gesprek over
-digitaaltoetsbeleid binnen je instelling. In de handreiking
-vind je meer toelichting, achtergrondinformatie en hulpvragen
-om je te helpen bij het schrijven van digitaaltoetsbeleid.
+Digitaal toetsen vraagt om beleid. Het ontwikkelen van digitaaltoetsbeleid is in de praktijk een lastige klus: er komt meer bij kijken dan je denkt. SURF ontwikkelde daarom samen met experts uit instellingen dit stappenplan. Het is een verkorte versie van de handreiking Beleid voor digitaal toetsen. Deze korte versie is gemakkelijk bij de hand te houden bij het schrijven aan of het voeren van een gesprek over
+digitaaltoetsbeleid binnen je instelling. 
 
 ## Maturity scan
 
