@@ -17,9 +17,9 @@ Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het 
 
 **Toetssystemen in Learning Management Systemen met beperkte itembankfunctionaliteit:**
 
--   [Canvas](https://www.canvaslms.com/)
--   [Blackboard](http://www.blackboard.com)
--   [Desire2Learn BrightSpace](https://www.d2l.com)
+-   [Canvas](https://www.instructure.com/nl/canvas)
+-   [Blackboard/Anthology](https://www.anthology.com/en-emea)
+-   [Desire2Learn BrightSpace](https://www.d2l.com/nl/)
 -   [Moodle](https://moodle.com/)
 -   [Cumlaude](https://www.cumlaudelearning.com/)
 
@@ -32,7 +32,6 @@ Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het 
 
 -   [SOWISO (Wiskunde)](https://sowiso.nl/nl/)
 -   [Grasple (Statistiek)](https://www.grasple.com/)
--   [Zeer Actieve Psychologie](http://zap.psy.utwente.nl/)
 -   [R/Exams (Statistiek)](http://www.r-exams.org/)
 -   [Drillster](https://www.drillster.com/info/)
 -   [Quizlet](https://quizlet.com/)
