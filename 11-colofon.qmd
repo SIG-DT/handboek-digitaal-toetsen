@@ -1,45 +1,19 @@
 # Colofon 
 
-## Handboek Itembanken
+## Handboek Digitaal Toetsen
 
-De uitgave van het Handboek Itembanken die in dit handboek terugkomt is een bijgewerkte versie van de uitgave uit 2018. De special interest group (SIG) Digitaal toetsen heeft de uitgave – mede in het licht van de ervaringen tijdens de coronacrisis van 2020/2021 – kritisch bekeken, aangevuld en geactualiseerd.
+Het Handboek Digitaal Toetsen is een uitgave van SURF en het versnellingsplan. Aan deze uitgave werkten mee:
 
-## Aan deze herziene uitgave werkten mee:
+* Annette Peet
+* Amber de Wilde
+* Sharon Klinkenberg
+* Rochelle Hurenkamp
 
-*	Silvester Draaijer, **Vrije Universiteit**
-*	Sharon Klinkenberg, **Universiteit van Amsterdam**
-*	Vincent Hendriks, **Open Universiteit**
-*	Annette Peet, **SURF**
-* Rochelle Hurenkamp, **Hogeschool Windesheim**
+# Bijdragen {#contribute}
 
-## De oorspronkelijke publicatie is geschreven door:
+Het is mogenlijk om bij te dragen aan deze uitgave. Het handboek wordt gehost vanuit GitHub Pages. 
 
-* Silvester Draaijer, **Vrije Universiteit**
-* Jenny de Werk, **SURFnet**
+Als je wilt bijdragen aan dit boek, kun je de GitHub repository {forken en een pull request indienen](https://git-scm.com/book/nl/v2/GitHub-Aan-een-project-bijdragen). Het boek is geschreven in markdown en gecompileerd met behulp van [quarto](https://quarto.org). Het boek wordt gehost op GitHub Pages en het bronmateriaal wordt onderhouden vanuit [de GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/). Als je typfouten vindt of andere sugesties hebt foor verbetering, dien dan een issue in op de [GitHub repository](https://github.com/SIG-DT/handboek-digitaal-toetsen/issues).
 
-### Redactie
-
-* Marjolein van Trigt
-
-## In nauwe samenwerking met verschillende itembank-experts:
-
-*	Sander Schenk, **Hogeschool Rotterdam**
-*	Jane Groenendijk, **Prove2Move**
-*	Jeroen Donkers, **Maastricht University**
-*	Marjolein Wijnker, **DAS**
-*	Peter Roos, **10voordeleraar**
-*	Angela Verschoor, **CITO**
-*	Wil de Groot-Bolluijt, **GrootBolwerk**
-
-## Met dank aan
-
-* Desiree Joosten-Ten Brinke, **Fontys Hogescholen**
-* Ludo van Meeuwen, **Technische Universiteit Eindhoven** en **SIG digitaal toetsen**
-* Rob Reichardt, **NHL Stenden Hogeschool** en **SIG digitaal toetsen**
-* Kirsten Veelo, **SURFnet**
-
-## Copyright
-
-Beschikbaar onder de licentie [Creative Commons Naamsvermelding 4.0 Nederland](https://creativecommons.org/licenses/by/4.0/deed.nl)
 
 # Literatuur
