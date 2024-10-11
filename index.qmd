@@ -1,8 +1,10 @@
+
+
 # Introductie
 
-Het handboek digitaal toetsen vloeit voort uit het [handboek itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/), dat door SURF en de Special Interest Group Digitaal Toetsen in 2018 is ontwikkeld. Bij de revisie in 2022 kwamen we al snel tot de conclusie dat het handboek itembanken eigenlijk veel meer omvatte dan alleen de basis voor het opstellen van itembanken. Zo bevatte het document al een begrippenkader, een overzicht van toetsvormen en een beschrijving van de toetscyclus. Daarom is besloten om het handboek itembanken uit te breiden en om te dopen tot het handboek digitaal toetsen. 
-
-Het is onze intentie om het handboek regelmatig te updaten en uit te breiden. We nodigen iedereen uit om bij te dragen aan de inhoud van het handboek. Dit kan door feedback te geven op de bestaande inhoud, door nieuwe onderwerpen aan te dragen of door zelf een paragraaf of hoofdstuk te schrijven. We hosten het handboek op GitHub, zodat iedereen eenvoudig kan bijdragen.
+Welkom bij het handboek digitaal toetsen. In dit handboek verzamelen we de kennis die in de afgelopen jaren is opgebouwd door SURF en de Special Interest Group Digitaal toetsen (per 1 januari 2025: Community Digitaal toetsen en ontwikkelen).
+ 
+Het is onze intentie om het handboek regelmatig te updaten en uit te breiden. We nodigen iedereen uit om bij te dragen aan de inhoud van het handboek. Dit kan door feedback te geven op de bestaande inhoud, door nieuwe onderwerpen aan te dragen of door zelf een paragraaf of hoofdstuk te schrijven. We hosten het handboek op GitHub, zodat iedereen eenvoudig kan bijdragen. 
 
 ## Inleiding
 
