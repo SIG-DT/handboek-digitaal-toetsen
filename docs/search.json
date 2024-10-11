@@ -373,8 +373,8 @@
     "objectID": "10-begrippen.html#lti",
     "href": "10-begrippen.html#lti",
     "title": "10  Begrippen",
-    "section": "10.21 LTI",
-    "text": "10.21 LTI\nLTI (Learning Tools Interoperability standard) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: SCORM.",
+    "section": "10.22 LTI",
+    "text": "10.22 LTI\nLTI (Learning Tools Interoperability standard) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: SCORM.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -383,8 +383,8 @@
     "objectID": "10-begrippen.html#meetfout",
     "href": "10-begrippen.html#meetfout",
     "title": "10  Begrippen",
-    "section": "10.22 Meetfout",
-    "text": "10.22 Meetfout\nDe meetfout bij een toets is de afwijking van de score op een toets die niet verklaard kan worden. De werkelijke score is de geobserveerde score minus de meetfout. Zie ook: ruis en error.",
+    "section": "10.23 Meetfout",
+    "text": "10.23 Meetfout\nDe meetfout bij een toets is de afwijking van de score op een toets die niet verklaard kan worden. De werkelijke score is de geobserveerde score minus de meetfout. Zie ook: ruis en error.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -393,8 +393,8 @@
     "objectID": "10-begrippen.html#metadata",
     "href": "10-begrippen.html#metadata",
     "title": "10  Begrippen",
-    "section": "10.23 Metadata",
-    "text": "10.23 Metadata\nToegevoegde gegevens aan items die aanvullende karakeristieken beschrijven. Die gegevens kunnen gebruikt worden om de items te structureren (zie structuur), zoeken, filteren en selecteren.",
+    "section": "10.24 Metadata",
+    "text": "10.24 Metadata\nToegevoegde gegevens aan items die aanvullende karakeristieken beschrijven. Die gegevens kunnen gebruikt worden om de items te structureren (zie structuur), zoeken, filteren en selecteren.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -403,8 +403,8 @@
     "objectID": "10-begrippen.html#misclassificaties",
     "href": "10-begrippen.html#misclassificaties",
     "title": "10  Begrippen",
-    "section": "10.24 Misclassificaties",
-    "text": "10.24 Misclassificaties\nHet aandeel kandidaten dat onterecht gezakt danwel geslaagd is op een toets. Toetsen met lage betrouwbaarheid hebben een hoge mate van misclassificaties. Zie ook: betrouwbaarheid.",
+    "section": "10.25 Misclassificaties",
+    "text": "10.25 Misclassificaties\nHet aandeel kandidaten dat onterecht gezakt danwel geslaagd is op een toets. Toetsen met lage betrouwbaarheid hebben een hoge mate van misclassificaties. Zie ook: betrouwbaarheid.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -413,8 +413,8 @@
     "objectID": "10-begrippen.html#oefentoetsen-onderdeel-van-formatieve-toetsen",
     "href": "10-begrippen.html#oefentoetsen-onderdeel-van-formatieve-toetsen",
     "title": "10  Begrippen",
-    "section": "10.25 Oefentoetsen (onderdeel van formatieve toetsen)",
-    "text": "10.25 Oefentoetsen (onderdeel van formatieve toetsen)\nEen toets waarbij een kandidaat kan oefenen met de leerstof. De kandidaat kan zelf onderwerpen en niveau kiezen. Vaak worden deze toetsen gebruikt om vooral met moeilijke begrippen of concepten te oefenen. Soms wordt enige adaptiviteit ingebouwd zodat de afspeelomgeving items op een best passend niveau wordt aangeboden aan de kandidaat. Zie ook: diagnostische toets.",
+    "section": "10.26 Oefentoetsen (onderdeel van formatieve toetsen)",
+    "text": "10.26 Oefentoetsen (onderdeel van formatieve toetsen)\nEen toets waarbij een kandidaat kan oefenen met de leerstof. De kandidaat kan zelf onderwerpen en niveau kiezen. Vaak worden deze toetsen gebruikt om vooral met moeilijke begrippen of concepten te oefenen. Soms wordt enige adaptiviteit ingebouwd zodat de afspeelomgeving items op een best passend niveau wordt aangeboden aan de kandidaat. Zie ook: diagnostische toets.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -423,8 +423,8 @@
     "objectID": "10-begrippen.html#psychometrische-data",
     "href": "10-begrippen.html#psychometrische-data",
     "title": "10  Begrippen",
-    "section": "10.26 Psychometrische data",
-    "text": "10.26 Psychometrische data\nPsychometrische data betreft de te berekenen gegevens van afgenomen toetsen en items die iets zeggen over de kwaliteit van de toetsing. Enerzijds zeggen zij iets over de betrouwbaarheid en moeilijkheidsgraad van toetsen als geheel. Anderzijds zeggen ze iets over het discriminerend vermogen en de moeilijkheidsgraad van afzonderlijke items uit die toetsen. Zie ook: klassieke testtheorie, item-response theorie, Cronbach’s alpha, p-waarde, rit-waarde.",
+    "section": "10.28 Psychometrische data",
+    "text": "10.28 Psychometrische data\nPsychometrische data betreft de te berekenen gegevens van afgenomen toetsen en items die iets zeggen over de kwaliteit van de toetsing. Enerzijds zeggen zij iets over de betrouwbaarheid en moeilijkheidsgraad van toetsen als geheel. Anderzijds zeggen ze iets over het discriminerend vermogen en de moeilijkheidsgraad van afzonderlijke items uit die toetsen. Zie ook: klassieke testtheorie, item-response theorie, Cronbach’s alpha, p-waarde, rit-waarde.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -433,8 +433,8 @@
     "objectID": "10-begrippen.html#p-waarde",
     "href": "10-begrippen.html#p-waarde",
     "title": "10  Begrippen",
-    "section": "10.27 P-waarde",
-    "text": "10.27 P-waarde\nDe proportie van de kandidaten die een item correct heeft beantwoord. Wordt ook de moeilijkheidsgraad van een item genoemd. Hoe hoger de p-waarde, des te gemakkelijker is het item. P-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie.",
+    "section": "10.29 P-waarde",
+    "text": "10.29 P-waarde\nDe proportie van de kandidaten die een item correct heeft beantwoord. Wordt ook de moeilijkheidsgraad van een item genoemd. Hoe hoger de p-waarde, des te gemakkelijker is het item. P-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -443,8 +443,8 @@
     "objectID": "10-begrippen.html#qti",
     "href": "10-begrippen.html#qti",
     "title": "10  Begrippen",
-    "section": "10.28 QTI",
-    "text": "10.28 QTI\nQTI (Question and Test Interoperability) is een IMS-standaard voor de uitwisseling van items en toetsen tussen toetssystemen.",
+    "section": "10.30 QTI",
+    "text": "10.30 QTI\nQTI (Question and Test Interoperability) is een IMS-standaard voor de uitwisseling van items en toetsen tussen toetssystemen.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -453,8 +453,8 @@
     "objectID": "10-begrippen.html#rit-waarde",
     "href": "10-begrippen.html#rit-waarde",
     "title": "10  Begrippen",
-    "section": "10.29 Rit-waarde",
-    "text": "10.29 Rit-waarde\nDe correlatie tussen de score van de kandidaten op de item en de score op de toets als geheel minus de betreffende item zelf. De rir-waarde is een wat strengere maat voor het discriminerend vermogen dan de rit-waarde omdat bij de rir-waarde de invloed van het item zelf op het discriminerend vermogen wordt uitgesloten. Rir-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie. Zie ook: Rit-waarde en klassieke testtheorie.",
+    "section": "10.31 Rit-waarde",
+    "text": "10.31 Rit-waarde\nDe correlatie tussen de score van de kandidaten op de item en de score op de toets als geheel minus de betreffende item zelf. De rir-waarde is een wat strengere maat voor het discriminerend vermogen dan de rit-waarde omdat bij de rir-waarde de invloed van het item zelf op het discriminerend vermogen wordt uitgesloten. Rir-waarde wordt alleen gebruik in relatie tot de klassieke testtheorie. Zie ook: Rit-waarde en klassieke testtheorie.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -463,8 +463,8 @@
     "objectID": "10-begrippen.html#scorm",
     "href": "10-begrippen.html#scorm",
     "title": "10  Begrippen",
-    "section": "10.30 SCORM",
-    "text": "10.30 SCORM\nSCORM (Sharable Content Object Reference Model) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden met name docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: LTI.",
+    "section": "10.32 SCORM",
+    "text": "10.32 SCORM\nSCORM (Sharable Content Object Reference Model) is een IMS-standaard om toetssystemen te koppelen aan andere systemen zoals digitale leeromgevingen (LMSen zoals Blackboard of Canvas). Daarbij worden met name docent- en studentgegevens tussen de systemen automatisch uitgewisseld, kunnen toetsen vanuit de LMS worden gestart en worden de scores op toetsen teruggevoerd naar de cijferlijstfuncties in de LMS. Zie ook: LTI.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -473,8 +473,8 @@
     "objectID": "10-begrippen.html#stabiel-domein",
     "href": "10-begrippen.html#stabiel-domein",
     "title": "10  Begrippen",
-    "section": "10.31 Stabiel domein",
-    "text": "10.31 Stabiel domein\nEen vakgebied dat weinig veranderingen meer ondergaat. Zie ook: volatiel domein.",
+    "section": "10.33 Stabiel domein",
+    "text": "10.33 Stabiel domein\nEen vakgebied dat weinig veranderingen meer ondergaat. Zie ook: volatiel domein.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -483,8 +483,8 @@
     "objectID": "10-begrippen.html#structuur",
     "href": "10-begrippen.html#structuur",
     "title": "10  Begrippen",
-    "section": "10.32 Structuur",
-    "text": "10.32 Structuur\nDe manier waarop een verzameling van items logisch geordend zijn, bijvoorbeeld in een boomstructuur.",
+    "section": "10.34 Structuur",
+    "text": "10.34 Structuur\nDe manier waarop een verzameling van items logisch geordend zijn, bijvoorbeeld in een boomstructuur.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -493,8 +493,8 @@
     "objectID": "10-begrippen.html#summatieve-toetsing",
     "href": "10-begrippen.html#summatieve-toetsing",
     "title": "10  Begrippen",
-    "section": "10.33 Summatieve toetsing",
-    "text": "10.33 Summatieve toetsing\nToetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score op een dergelijke meting wordt gebruikt voor formele toerekening van een behaald studieresultaat zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een tentamen. Soms ook aangeduid met assessment of learning.",
+    "section": "10.35 Summatieve toetsing",
+    "text": "10.35 Summatieve toetsing\nToetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score op een dergelijke meting wordt gebruikt voor formele toerekening van een behaald studieresultaat zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een tentamen. Soms ook aangeduid met assessment of learning.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -503,8 +503,8 @@
     "objectID": "10-begrippen.html#toetsitem",
     "href": "10-begrippen.html#toetsitem",
     "title": "10  Begrippen",
-    "section": "10.34 Toetsitem",
-    "text": "10.34 Toetsitem\nZie: item.",
+    "section": "10.36 Toetsitem",
+    "text": "10.36 Toetsitem\nZie: item.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -513,8 +513,8 @@
     "objectID": "10-begrippen.html#toetstransparantie",
     "href": "10-begrippen.html#toetstransparantie",
     "title": "10  Begrippen",
-    "section": "10.35 Toetstransparantie",
-    "text": "10.35 Toetstransparantie\nHet geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie kan bijvoorbeeld toenemen als inzicht is in de wijze waarop items worden gemaakt, betrouwbaarheid kan toenemen als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid, validiteit kan toenemen als de items beter en vollediger de beoogde kennis of vaardigheid meten.",
+    "section": "10.37 Toetstransparantie",
+    "text": "10.37 Toetstransparantie\nHet geheel van aspecten rondom toetsing dat de mate van transparantie, betrouwbaarheid en validiteit van toetsing behelst. Transparantie kan bijvoorbeeld toenemen als inzicht is in de wijze waarop items worden gemaakt, betrouwbaarheid kan toenemen als items beter onderscheid maken tussen studenten met verschillende mate van beheersing van de stof of vaardigheid, validiteit kan toenemen als de items beter en vollediger de beoogde kennis of vaardigheid meten.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -523,8 +523,8 @@
     "objectID": "10-begrippen.html#toetsmatrijs",
     "href": "10-begrippen.html#toetsmatrijs",
     "title": "10  Begrippen",
-    "section": "10.36 Toetsmatrijs",
-    "text": "10.36 Toetsmatrijs\nEen toetsmatrijs is een overzicht hoe toetsopgaven in een toets verdeeld zijn over de stof. Vaak wordt per onderdeel van de stof tevens de gewenste type vaardigheid, zoals kennis, inzicht of toepassing, aangegeven. Soms ook aangeduid als toetsmatrix, toetplan, specificatietabel of blueprint.",
+    "section": "10.38 Toetsmatrijs",
+    "text": "10.38 Toetsmatrijs\nEen toetsmatrijs is een overzicht hoe toetsopgaven in een toets verdeeld zijn over de stof. Vaak wordt per onderdeel van de stof tevens de gewenste type vaardigheid, zoals kennis, inzicht of toepassing, aangegeven. Soms ook aangeduid als toetsmatrix, toetplan, specificatietabel of blueprint.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -533,8 +533,8 @@
     "objectID": "10-begrippen.html#toetsveiligheid",
     "href": "10-begrippen.html#toetsveiligheid",
     "title": "10  Begrippen",
-    "section": "10.37 Toetsveiligheid",
-    "text": "10.37 Toetsveiligheid\nDe mate waarin correcte antwoorden items en toetsen niet op een ongeoorloofde manier door kandidaten gegeven worden (fraude). Bijvoorbeeld doordat items zijn gestolen of in het publieke domein terecht zijn gekomen, danwel dat kandidaten tijdens de toetsafn ame de beschikking hebben over ongeoorloofde bronnen, danwel dat kandidaten toetsuitslagen kunnen wijzigen. Zie o.a. de SURF uitgave Handboekveilig toetsen.",
+    "section": "10.39 Toetsveiligheid",
+    "text": "10.39 Toetsveiligheid\nDe mate waarin correcte antwoorden items en toetsen niet op een ongeoorloofde manier door kandidaten gegeven worden (fraude). Bijvoorbeeld doordat items zijn gestolen of in het publieke domein terecht zijn gekomen, danwel dat kandidaten tijdens de toetsafn ame de beschikking hebben over ongeoorloofde bronnen, danwel dat kandidaten toetsuitslagen kunnen wijzigen. Zie o.a. de SURF uitgave Handboekveilig toetsen.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -543,8 +543,8 @@
     "objectID": "10-begrippen.html#toetsvraag",
     "href": "10-begrippen.html#toetsvraag",
     "title": "10  Begrippen",
-    "section": "10.38 Toetsvraag",
-    "text": "10.38 Toetsvraag\nZie: item.",
+    "section": "10.40 Toetsvraag",
+    "text": "10.40 Toetsvraag\nZie: item.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -553,8 +553,8 @@
     "objectID": "10-begrippen.html#vakgebied",
     "href": "10-begrippen.html#vakgebied",
     "title": "10  Begrippen",
-    "section": "10.39 Vakgebied",
-    "text": "10.39 Vakgebied\nEen vakgebied is een terrein van beroepsmatig toegepaste kennis en vaardigheden waar mensen zich in kunnen specialiseren. Voor het uitwisselen van ervaring en vakkennis is meestal een jargon nodig.",
+    "section": "10.41 Vakgebied",
+    "text": "10.41 Vakgebied\nEen vakgebied is een terrein van beroepsmatig toegepaste kennis en vaardigheden waar mensen zich in kunnen specialiseren. Voor het uitwisselen van ervaring en vakkennis is meestal een jargon nodig.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -563,8 +563,8 @@
     "objectID": "10-begrippen.html#vragenbank",
     "href": "10-begrippen.html#vragenbank",
     "title": "10  Begrippen",
-    "section": "10.40 Vragenbank",
-    "text": "10.40 Vragenbank\nEen systeem waarin alle items zijn verzameld.",
+    "section": "10.42 Vragenbank",
+    "text": "10.42 Vragenbank\nEen systeem waarin alle items zijn verzameld.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -573,8 +573,8 @@
     "objectID": "10-begrippen.html#volatiel-domein",
     "href": "10-begrippen.html#volatiel-domein",
     "title": "10  Begrippen",
-    "section": "10.41 Volatiel domein",
-    "text": "10.41 Volatiel domein\nEen vakgebied dat aan veel veranderingen onderhevig is door nieuw ontwikkelde kennis, methoden of technieken. Zie ook: stabiel domein.",
+    "section": "10.43 Volatiel domein",
+    "text": "10.43 Volatiel domein\nEen vakgebied dat aan veel veranderingen onderhevig is door nieuw ontwikkelde kennis, methoden of technieken. Zie ook: stabiel domein.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
@@ -597,6 +597,26 @@
     "text": "Annette Peet\nAmber de Wilde\nSharon Klinkenberg\nRochelle Hurenkamp",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Colofon</span>"
+    ]
+  },
+  {
+    "objectID": "10-begrippen.html#lerend-kwalificeren",
+    "href": "10-begrippen.html#lerend-kwalificeren",
+    "title": "10  Begrippen",
+    "section": "10.21 Lerend Kwalificeren",
+    "text": "10.21 Lerend Kwalificeren\nZie (https://onderwijsenexaminering.nl/lerend-kwalificeren/de-basis-van-lerend-kwalificeren-2/): Lerend kwalificeren is een vorm van afsluiting van de opleiding waarbij onderwijsteams gebruikmaken van diverse bewijzen verzameld tijdens het leerproces van studenten om beslissingen te nemen over het al dan niet voldoen aan (een deel van de) kwalificatie-eisen. Deze werkwijze is gebaseerd op het concept van programmatisch toetsen, waarbij datapunten fungeren als pixels die het leren van de student weergeven. Verschillende vormen van beoordeling dienen als datapunten, die samen een rijk beeld vormen van de competenties van de student.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
+    ]
+  },
+  {
+    "objectID": "10-begrippen.html#programmatisch-toetsen",
+    "href": "10-begrippen.html#programmatisch-toetsen",
+    "title": "10  Begrippen",
+    "section": "10.27 Programmatisch toetsen",
+    "text": "10.27 Programmatisch toetsen\nProgrammatisch toetsen is een holistische manier van toetsen waarbij gekeken wordt naar de gehele ontwikkeling van de student. Het doel van programmatisch toetsen is het optimaliseren van de beslisfunctie én het optimaliseren van de leerfunctie van toetsing (Baartman et al., 2020). Lees meer op (https://www.programmatischtoetsen.nl).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Begrippen</span>"
     ]
   }
 ]
