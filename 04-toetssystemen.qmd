@@ -2,11 +2,11 @@
 
 ## Veelgebruikte toetssystemen voor onderwijs
 
-Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het hoger onderwijs. De lijst is samengesteld door experts die betrokken zijn bij de ontwikkeling van dit handboek. De markt van toetssysteemleveranciers is dynamisch. Daarom is deze lijst niet compleet.
+Dit hoofdstuk geeft een overzicht van veel gebruikte systemen om digitale toetsen af te nemen. Over het algemeen zijn het SaaS-oplossingen (een licentiemodel waarbij de software wordt aangeboden via het internet). 
+Onderstaande lijst is samengesteld door experts die betrokken zijn bij het schrijven van dit handboek. De markt van toetssysteemleveranciers is dynamisch. Daarom is deze lijst niet compleet.
 
-::: tip
-**Veel gebruikte toetssystemen in Nederland:**
-
+**Veel gebruikte generieke toetssystemen in Nederland:**
+Dit zijn systemen die geschikt zijn voor grootschalige digitale toetsing, die vooral worden ingezet voor het afnemen van multiple choice vragen, gesloten vragen en korte essay vragen. Deze systemen bieden de mogelijkheid om toetsvragen (in samenwerking) te ontwikkelen, op te slaan in een itembank, toetsen af te nemen en psychometrische gegevens van de toetsvragen te verzamelen. 
 -   [TestVision](http://www.testvision.nl)
 -   [RemindoToets](https://www.paragin.nl/remindotoets/)
 -   [MapleTA](https://www.maplesoft.com/products/mapleta/)
@@ -15,7 +15,8 @@ Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het 
 -   [iQualify](https://www.iqualify.com)
 -   [Ans Delft](https://www.ans.app)
 
-**Toetssystemen in Learning Management Systemen met beperkte itembankfunctionaliteit:**
+**Toetssystemen in Learning Management Systemen (LMS):**
+Verschillende LMS'en bieden toetssystemen aan. De itembankfunctie van deze systemen is beperkt. Ze zijn goed in te zetten voor formatieve toetsen, maar minder geschikt voor summatieve toetsen, vanwege de beperktere mogelijkheden tot beveiliging.
 
 -   [Canvas](https://www.instructure.com/nl/canvas)
 -   [Blackboard/Anthology](https://www.anthology.com/en-emea)
@@ -23,12 +24,14 @@ Dit hoofdstuk geeft een overzicht van de meest gebruikte toetssystemen voor het 
 -   [Moodle](https://moodle.com/)
 -   [Cumlaude](https://www.cumlaudelearning.com/)
 
-**Itembanksystemen (Stand Alone programma's) met directe itemexportfunctionaliteit:**
+**Itembanksystemen.:** 
+Dit zijn losstaande applicaties om je toetsvragen te beheren, met de mogelijkheid om deze te exporteren en te gebruiken in anderen applicaties. 
 
 -   [Respondus](https://www.respondus.com/)
 -   [ExamView](https://www.turningtechnologies.com/examview)
 
 **Toetssystemen met vragen:**
+Deze systemen bieden toetsvragen aan en leveren hierbij een standaardsysteem om de vragen af te nemen. Deze systemen worden vaak ingezet voor formatieve toetsing.
 
 -   [SOWISO (Wiskunde)](https://sowiso.nl/nl/)
 -   [Grasple (Statistiek)](https://www.grasple.com/)
